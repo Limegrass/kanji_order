@@ -30,9 +30,10 @@ function printResults(kanji){
         return;
     }
     document.getElementById("results").innerHTML += kanji + "<br>" 
-                                                  + "page" + " : " + database[kanji]["page"] + "<br>"
-                                                  + "id" + " : " + database[kanji]["id"] + "<br>"
-                                                  + "meaning" + " : " + database[kanji]["meaning"] + "<br><br>";  
+                                                + "page" + " : " + database[kanji]["page"] + "<br>"
+                                                + "id" + " : " + database[kanji]["id"] + "<br>"
+                                                + "meaning" + " : " + database[kanji]["meaning"] + "<br>" 
+                                                + "mnemonic" + " : " + database[kanji]["mnemonic"] + "<br><br>";
 }
 
 function searchByID(kanjiList){
