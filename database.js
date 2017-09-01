@@ -6007,7 +6007,7 @@ var database = {
         "page":"332",
         "meaning":"EXPLAIN, THEORY",
         "id":"1197",
-        "mnemonic":"Older brothers are somehow able to explain anything"
+        "mnemonic":"Older brothers are somehow able to explain anything with words"
     },
     "脱":{
         "page":"332",
@@ -6025,5507 +6025,6606 @@ var database = {
         "page":"332",
         "meaning":"CELEBRATE",
         "id":"1200",
-        "mnemonic":""
+        "mnemonic":"A brother lighting the candles on the altar to celebrate."
     },
     "況":{
         "page":"333",
         "meaning":"CONDITIONS",
         "id":"1201",
-        "mnemonic":""
+        "mnemonic":"Keep your head above waters = Keep your life conditions good"
     },
     "悦":{
         "page":"333",
         "meaning":"DELIGHTED",
-        "id":"1202"
+        "id":"1202",
+        "mnemonic":"Everyone is delighted with the good hearted big brother."
     },
     "克":{
         "page":"333",
         "meaning":"OVERCOME",
-        "id":"1203"
+        "id":"1203",
+        "mnemonic":"Rise over big brother to overcome him."
     },
     "競":{
         "page":"333",
         "meaning":"COMPETE",
-        "id":"1204"
+        "id":"1204",
+        "mnemonic":"Jousting competition standing on brothers."
     },
     "姉":{
         "page":"334",
         "meaning":"OLDER SISTER",
-        "id":"1205"
+        "id":"1205",
+        "mnemonic":"A girl that is old enough to go to the market for chores."
     },
     "妹":{
         "page":"334",
         "meaning":"YOUNGER SISTER",
-        "id":"1206"
+        "id":"1206",
+        "mnemonic":"A girl that is not yet mature."
     },
     "珠":{
         "page":"334",
         "meaning":"PEARL",
-        "id":"1207"
+        "id":"1207",
+        "mnemonic":"Gem resting on the vermillion tongue of a clam."
     },
     "殊":{
         "page":"334",
         "meaning":"SPECIAL",
-        "id":"1208"
+        "id":"1208",
+        "mnemonic":"On special occasions, the lucky color of vermillion can be used for deaths."
     },
     "序":{
         "page":"335",
         "meaning":"INTRODUCTORY PART, ORDER",
-        "id":"1209"
+        "id":"1209",
+        "mnemonic":"The beginning parts is covered with a roof in advance."
     },
     "秩":{
         "page":"335",
         "meaning":"ORDER",
-        "id":"1210"
+        "id":"1210",
+        "mnemonic":"Order is maintained through losing (trading) rice yields to the government."
     },
     "迭":{
         "page":"335",
         "meaning":"ALTERNATE",
-        "id":"1211"
+        "id":"1211",
+        "mnemonic":"Alternating between walking forward and moving back (losing ground)"
     },
     "喜":{
         "page":"335",
         "meaning":"HAPPY",
-        "id":"1212"
+        "id":"1212",
+        "mnemonic":"A soldier is happy when he gets to eat beans (put beans in his mouth)."
     },
     "善":{
         "page":"336",
         "meaning":"GOOD",
-        "id":"1213"
+        "id":"1213",
+        "mnemonic":"People on both sides of the line are having a good talk."
     },
     "繕":{
         "page":"336",
         "meaning":"MEND",
-        "id":"1214"
+        "id":"1214",
+        "mnemonic":"A thread to mend broken cloth back to good conditions."
     },
     "膳":{
         "page":"336",
         "meaning":"SMALL FOOD TABLE",
-        "id":"1215"
+        "id":"1215",
+        "mnemonic":"Good meat should be served on it's own plate."
     },
     "憾":{
         "page":"336",
         "meaning":"STRONGLY REGRET",
-        "id":"1216"
+        "id":"1216",
+        "mnemonic":"Even more heartfelt than 感"
     },
     "恨":{
         "page":"337",
         "meaning":"HOLD A GRUDGE",
-        "id":"1217"
+        "id":"1217",
+        "mnemonic":"Holding back (stop, right morpheme) saying what one truly feels leads to grudges."
     },
     "惜":{
         "page":"337",
         "meaning":"REGRET",
-        "id":"1218"
+        "id":"1218",
+        "mnemonic":"The heart always remembers times of REGRET in the past"
     },
     "措":{
         "page":"337",
         "meaning":"DISPOSE",
-        "id":"1219"
+        "id":"1219",
+        "mnemonic":"A hand throwing away old things."
     },
     "借":{
         "page":"337",
         "meaning":"BORROW",
-        "id":"1220"
+        "id":"1220",
+        "mnemonic":"A man asking his old friends to borrow something."
     },
     "錯":{
         "page":"338",
         "meaning":"MIXED UP",
-        "id":"1221"
+        "id":"1221",
+        "mnemonic":"Metal rusts when it gets mixed with Oxygen, becoming old-looking."
     },
     "曽":{
         "page":"338",
         "meaning":"BEFORE",
-        "id":"1222"
+        "id":"1222",
+        "mnemonic":""
     },
     "増":{
         "page":"338",
         "meaning":"INCREASE",
-        "id":"1223"
+        "id":"1223",
+        "mnemonic":""
     },
     "層":{
         "page":"338",
         "meaning":"STRATUM",
-        "id":"1224"
+        "id":"1224",
+        "mnemonic":""
     },
     "憎":{
         "page":"339",
         "meaning":"HATE",
-        "id":"1225"
+        "id":"1225",
+        "mnemonic":""
     },
     "僧":{
         "page":"339",
         "meaning":"BONZE",
-        "id":"1226"
+        "id":"1226",
+        "mnemonic":""
     },
     "贈":{
         "page":"339",
         "meaning":"PRESENT A GIFT",
-        "id":"1227"
+        "id":"1227",
+        "mnemonic":""
     },
     "賄":{
         "page":"339",
         "meaning":"BRIBE",
-        "id":"1228"
+        "id":"1228",
+        "mnemonic":""
     },
     "賂":{
         "page":"340",
         "meaning":"BRIBE",
-        "id":"1229"
+        "id":"1229",
+        "mnemonic":""
     },
     "賦":{
         "page":"340",
         "meaning":"INSTALLMENT",
-        "id":"1230"
+        "id":"1230",
+        "mnemonic":""
     },
     "賊":{
         "page":"340",
         "meaning":"BANDIT",
-        "id":"1231"
+        "id":"1231",
+        "mnemonic":""
     },
     "帯":{
         "page":"340",
         "meaning":"BELT, WEAR",
-        "id":"1232"
+        "id":"1232",
+        "mnemonic":""
     },
     "滞":{
         "page":"341",
         "meaning":"STAGNATE, STAY",
-        "id":"1233"
+        "id":"1233",
+        "mnemonic":""
     },
     "渋":{
         "page":"341",
         "meaning":"NOT GO SMOOTHLY, ASTRINGENT",
-        "id":"1234"
+        "id":"1234",
+        "mnemonic":""
     },
     "摂":{
         "page":"341",
         "meaning":"TAKE IN, ACT AS REGENT",
-        "id":"1235"
+        "id":"1235",
+        "mnemonic":""
     },
     "為":{
         "page":"341",
         "meaning":"DO, SAKE",
-        "id":"1236"
+        "id":"1236",
+        "mnemonic":""
     },
     "偽":{
         "page":"342",
         "meaning":"FALSIFY",
-        "id":"1237"
+        "id":"1237",
+        "mnemonic":""
     },
     "参":{
         "page":"342",
         "meaning":"PARTICIPATE, VISIT A HOLY PLACE",
-        "id":"1238"
+        "id":"1238",
+        "mnemonic":""
     },
     "惨":{
         "page":"342",
         "meaning":"MISERABLE, CRUEL",
-        "id":"1239"
+        "id":"1239",
+        "mnemonic":""
     },
     "呂":{
         "page":"342",
         "meaning":"PHONETIC [RO]",
-        "id":"1240"
+        "id":"1240",
+        "mnemonic":""
     },
     "侶":{
         "page":"343",
         "meaning":"COMPANION",
-        "id":"1241"
+        "id":"1241",
+        "mnemonic":""
     },
     "宮":{
         "page":"343",
         "meaning":"ROYAL PALACE, SHINTO SHRINE",
-        "id":"1242"
+        "id":"1242",
+        "mnemonic":""
     },
     "営":{
         "page":"343",
         "meaning":"OPERATE, BARRACKS",
-        "id":"1243"
+        "id":"1243",
+        "mnemonic":""
     },
     "蛍":{
         "page":"343",
         "meaning":"FIREFLY",
-        "id":"1244"
+        "id":"1244",
+        "mnemonic":""
     },
     "栄":{
         "page":"344",
         "meaning":"FLOURISH, GLORY",
-        "id":"1245"
+        "id":"1245",
+        "mnemonic":""
     },
     "誉":{
         "page":"344",
         "meaning":"HONOR",
-        "id":"1246"
+        "id":"1246",
+        "mnemonic":""
     },
     "挙":{
         "page":"344",
         "meaning":"NOMINATE, NOTEWORTHY ACT, RAISE",
-        "id":"1247"
+        "id":"1247",
+        "mnemonic":""
     },
     "拳":{
         "page":"344",
         "meaning":"FIST",
-        "id":"1248"
+        "id":"1248",
+        "mnemonic":""
     },
     "桜":{
         "page":"345",
         "meaning":"CHERRY",
-        "id":"1249"
+        "id":"1249",
+        "mnemonic":""
     },
     "妥":{
         "page":"345",
         "meaning":"COME TO TERMS",
-        "id":"1250"
+        "id":"1250",
+        "mnemonic":""
     },
     "咲":{
         "page":"345",
         "meaning":"BLOOM",
-        "id":"1251"
+        "id":"1251",
+        "mnemonic":""
     },
     "朕":{
         "page":"345",
         "meaning":"IMPERIAL WE",
-        "id":"1252"
+        "id":"1252",
+        "mnemonic":""
     },
     "茎":{
         "page":"346",
         "meaning":"STEM",
-        "id":"1253"
+        "id":"1253",
+        "mnemonic":""
     },
     "径":{
         "page":"346",
         "meaning":"PATH, DIAMETER",
-        "id":"1254"
+        "id":"1254",
+        "mnemonic":""
     },
     "怪":{
         "page":"346",
         "meaning":"MYSTERIOUS",
-        "id":"1255"
+        "id":"1255",
+        "mnemonic":""
     },
     "軽":{
         "page":"346",
         "meaning":"LIGHT",
-        "id":"1256"
+        "id":"1256",
+        "mnemonic":""
     },
     "経":{
         "page":"347",
         "meaning":"PASS THROUGH, MANAGE, SUTRA",
-        "id":"1257"
+        "id":"1257",
+        "mnemonic":""
     },
     "斉":{
         "page":"347",
         "meaning":"EQUAL",
-        "id":"1258"
+        "id":"1258",
+        "mnemonic":""
     },
     "斎":{
         "page":"347",
         "meaning":"OBSERVE RELIGIOUS ABSTINENCE, STUDY",
-        "id":"1259"
+        "id":"1259",
+        "mnemonic":""
     },
     "済":{
         "page":"347",
         "meaning":"SETTLE, RELIEVE",
-        "id":"1260"
+        "id":"1260",
+        "mnemonic":""
     },
     "剤":{
         "page":"348",
         "meaning":"PREPARATION",
-        "id":"1261"
+        "id":"1261",
+        "mnemonic":""
     },
     "剖":{
         "page":"348",
         "meaning":"DISSECT",
-        "id":"1262"
+        "id":"1262",
+        "mnemonic":""
     },
     "陪":{
         "page":"348",
         "meaning":"ATTEND UPON A SUPERIOR",
-        "id":"1263"
+        "id":"1263",
+        "mnemonic":""
     },
     "培":{
         "page":"348",
         "meaning":"CULTIVATE",
-        "id":"1264"
+        "id":"1264",
+        "mnemonic":""
     },
     "賠":{
         "page":"349",
         "meaning":"COMPENSATE",
-        "id":"1265"
+        "id":"1265",
+        "mnemonic":""
     },
     "貼":{
         "page":"349",
         "meaning":"STICK ON",
-        "id":"1266"
+        "id":"1266",
+        "mnemonic":""
     },
     "粘":{
         "page":"349",
         "meaning":"STICKY",
-        "id":"1267"
+        "id":"1267",
+        "mnemonic":""
     },
     "衡":{
         "page":"349",
         "meaning":"BALANCE",
-        "id":"1268"
+        "id":"1268",
+        "mnemonic":""
     },
     "換":{
         "page":"350",
         "meaning":"EXCHANGE",
-        "id":"1269"
+        "id":"1269",
+        "mnemonic":""
     },
     "喚":{
         "page":"350",
         "meaning":"CALL",
-        "id":"1270"
+        "id":"1270",
+        "mnemonic":""
     },
     "絶":{
         "page":"350",
         "meaning":"BREAK OFF, COME TO AN END, WITHOUT MATCH",
-        "id":"1271"
+        "id":"1271",
+        "mnemonic":""
     },
     "免":{
         "page":"350",
         "meaning":"EXEMPTION",
-        "id":"1272"
+        "id":"1272",
+        "mnemonic":""
     },
     "逸":{
         "page":"351",
         "meaning":"LET SLIP",
-        "id":"1273"
+        "id":"1273",
+        "mnemonic":""
     },
     "勉":{
         "page":"351",
         "meaning":"ENDEAVOR",
-        "id":"1274"
+        "id":"1274",
+        "mnemonic":""
     },
     "晩":{
         "page":"351",
         "meaning":"EVENING",
-        "id":"1275"
+        "id":"1275",
+        "mnemonic":""
     },
     "許":{
         "page":"351",
         "meaning":"PERMIT",
-        "id":"1276"
+        "id":"1276",
+        "mnemonic":""
     },
     "象":{
         "page":"352",
         "meaning":"PHENOMENON, ELEPHANT",
-        "id":"1277"
+        "id":"1277",
+        "mnemonic":""
     },
     "像":{
         "page":"352",
         "meaning":"IMAGE",
-        "id":"1278"
+        "id":"1278",
+        "mnemonic":""
     },
     "彫":{
         "page":"352",
         "meaning":"CARVE",
-        "id":"1279"
+        "id":"1279",
+        "mnemonic":""
     },
     "景":{
         "page":"352",
         "meaning":"SCENE",
-        "id":"1280"
+        "id":"1280",
+        "mnemonic":""
     },
     "影":{
         "page":"353",
         "meaning":"SHADOW",
-        "id":"1281"
+        "id":"1281",
+        "mnemonic":""
     },
     "撮":{
         "page":"353",
         "meaning":"PHOTOGRAPH",
-        "id":"1282"
+        "id":"1282",
+        "mnemonic":""
     },
     "就":{
         "page":"353",
         "meaning":"SET ABOUT",
-        "id":"1283"
+        "id":"1283",
+        "mnemonic":""
     },
     "涼":{
         "page":"353",
         "meaning":"COOL",
-        "id":"1284"
+        "id":"1284",
+        "mnemonic":""
     },
     "鯨":{
         "page":"354",
         "meaning":"WHALE",
-        "id":"1285"
+        "id":"1285",
+        "mnemonic":""
     },
     "隔":{
         "page":"354",
         "meaning":"SEPARATE",
-        "id":"1286"
+        "id":"1286",
+        "mnemonic":""
     },
     "融":{
         "page":"354",
         "meaning":"FUSE, FINANCE",
-        "id":"1287"
+        "id":"1287",
+        "mnemonic":""
     },
     "肖":{
         "page":"354",
         "meaning":"LIKENESS",
-        "id":"1288"
+        "id":"1288",
+        "mnemonic":""
     },
     "消":{
         "page":"355",
         "meaning":"EXTINGUISH, SPEND",
-        "id":"1289"
+        "id":"1289",
+        "mnemonic":""
     },
     "硝":{
         "page":"355",
         "meaning":"NITER",
-        "id":"1290"
+        "id":"1290",
+        "mnemonic":""
     },
     "梢":{
         "page":"355",
         "meaning":"TIP OF A TWIG",
-        "id":"1291"
+        "id":"1291",
+        "mnemonic":""
     },
     "削":{
         "page":"355",
         "meaning":"CUT BY CHIPPING",
-        "id":"1292"
+        "id":"1292",
+        "mnemonic":""
     },
     "宵":{
         "page":"356",
         "meaning":"EARLY EVENING",
-        "id":"1293"
+        "id":"1293",
+        "mnemonic":""
     },
     "宴":{
         "page":"356",
         "meaning":"BANQUET",
-        "id":"1294"
+        "id":"1294",
+        "mnemonic":""
     },
     "郷":{
         "page":"356",
         "meaning":"HOMETOWN",
-        "id":"1295"
+        "id":"1295",
+        "mnemonic":""
     },
     "饗":{
         "page":"356",
         "meaning":"BANQUET",
-        "id":"1296"
+        "id":"1296",
+        "mnemonic":""
     },
     "響":{
         "page":"357",
         "meaning":"REVERBERATE",
-        "id":"1297"
+        "id":"1297",
+        "mnemonic":""
     },
     "城":{
         "page":"357",
         "meaning":"CASTLE",
-        "id":"1298"
+        "id":"1298",
+        "mnemonic":""
     },
     "誠":{
         "page":"357",
         "meaning":"SINCERITY",
-        "id":"1299"
+        "id":"1299",
+        "mnemonic":""
     },
     "盛":{
         "page":"357",
         "meaning":"PROSPER",
-        "id":"1300"
+        "id":"1300",
+        "mnemonic":""
     },
     "旺":{
         "page":"358",
         "meaning":"FLOURISHING",
-        "id":"1301"
+        "id":"1301",
+        "mnemonic":""
     },
     "盆":{
         "page":"358",
         "meaning":"TRAY, BON FESTIVAL",
-        "id":"1302"
+        "id":"1302",
+        "mnemonic":""
     },
     "蓋":{
         "page":"358",
         "meaning":"LID",
-        "id":"1303"
+        "id":"1303",
+        "mnemonic":""
     },
     "盗":{
         "page":"358",
         "meaning":"STEAL",
-        "id":"1304"
+        "id":"1304",
+        "mnemonic":""
     },
     "盟":{
         "page":"359",
         "meaning":"ALLIANCE",
-        "id":"1305"
+        "id":"1305",
+        "mnemonic":""
     },
     "塩":{
         "page":"359",
         "meaning":"SALT",
-        "id":"1306"
+        "id":"1306",
+        "mnemonic":""
     },
     "傷":{
         "page":"359",
         "meaning":"WOUND",
-        "id":"1307"
+        "id":"1307",
+        "mnemonic":""
     },
     "揚":{
         "page":"359",
         "meaning":"RAISE HIGH, FRY",
-        "id":"1308"
+        "id":"1308",
+        "mnemonic":""
     },
     "暢":{
         "page":"360",
         "meaning":"FLUENT",
-        "id":"1309"
+        "id":"1309",
+        "mnemonic":""
     },
     "陽":{
         "page":"360",
         "meaning":"SUN, POSITIVE",
-        "id":"1310"
+        "id":"1310",
+        "mnemonic":""
     },
     "陰":{
         "page":"360",
         "meaning":"SHADOW, NEGATIVE",
-        "id":"1311"
+        "id":"1311",
+        "mnemonic":""
     },
     "隠":{
         "page":"360",
         "meaning":"HIDE",
-        "id":"1312"
+        "id":"1312",
+        "mnemonic":""
     },
     "穏":{
         "page":"361",
         "meaning":"CALM, MILD",
-        "id":"1313"
+        "id":"1313",
+        "mnemonic":""
     },
     "穂":{
         "page":"361",
         "meaning":"SPIKE",
-        "id":"1314"
+        "id":"1314",
+        "mnemonic":""
     },
     "稲":{
         "page":"361",
         "meaning":"RICE PLANT",
-        "id":"1315"
+        "id":"1315",
+        "mnemonic":""
     },
     "愁":{
         "page":"361",
         "meaning":"MELANCHOLY",
-        "id":"1316"
+        "id":"1316",
+        "mnemonic":""
     },
     "裁":{
         "page":"362",
         "meaning":"CUT OUT, JUDGE",
-        "id":"1317"
+        "id":"1317",
+        "mnemonic":""
     },
     "載":{
         "page":"362",
         "meaning":"LOAD, PUT IN PRINT",
-        "id":"1318"
+        "id":"1318",
+        "mnemonic":""
     },
     "栽":{
         "page":"362",
         "meaning":"PLANTING",
-        "id":"1319"
+        "id":"1319",
+        "mnemonic":""
     },
     "赦":{
         "page":"362",
         "meaning":"AMNESTY",
-        "id":"1320"
+        "id":"1320",
+        "mnemonic":""
     },
     "跡":{
         "page":"363",
         "meaning":"TRACE",
-        "id":"1321"
+        "id":"1321",
+        "mnemonic":""
     },
     "踪":{
         "page":"363",
         "meaning":"TRACE",
-        "id":"1322"
+        "id":"1322",
+        "mnemonic":""
     },
     "痕":{
         "page":"363",
         "meaning":"SCAR",
-        "id":"1323"
+        "id":"1323",
+        "mnemonic":""
     },
     "蹴":{
         "page":"363",
         "meaning":"KICK",
-        "id":"1324"
+        "id":"1324",
+        "mnemonic":""
     },
     "踊":{
         "page":"364",
         "meaning":"DANCE",
-        "id":"1325"
+        "id":"1325",
+        "mnemonic":""
     },
     "踏":{
         "page":"364",
         "meaning":"TREAD",
-        "id":"1326"
+        "id":"1326",
+        "mnemonic":""
     },
     "躍":{
         "page":"364",
         "meaning":"LEAP",
-        "id":"1327"
+        "id":"1327",
+        "mnemonic":""
     },
     "濯":{
         "page":"364",
         "meaning":"RINSE",
-        "id":"1328"
+        "id":"1328",
+        "mnemonic":""
     },
     "奇":{
         "page":"365",
         "meaning":"UNUSUAL",
-        "id":"1329"
+        "id":"1329",
+        "mnemonic":""
     },
     "寄":{
         "page":"365",
         "meaning":"CONTRIBUTE, DRAW NEAR",
-        "id":"1330"
+        "id":"1330",
+        "mnemonic":""
     },
     "騎":{
         "page":"365",
         "meaning":"RIDE ON HORSEBACK",
-        "id":"1331"
+        "id":"1331",
+        "mnemonic":""
     },
     "椅":{
         "page":"365",
         "meaning":"CHAIR",
-        "id":"1332"
+        "id":"1332",
+        "mnemonic":""
     },
     "崎":{
         "page":"366",
         "meaning":"PROMONTORY",
-        "id":"1333"
+        "id":"1333",
+        "mnemonic":""
     },
     "埼":{
         "page":"366",
         "meaning":"PROMONTORY",
-        "id":"1334"
+        "id":"1334",
+        "mnemonic":""
     },
     "岬":{
         "page":"366",
         "meaning":"CAPE",
-        "id":"1335"
+        "id":"1335",
+        "mnemonic":""
     },
     "模":{
         "page":"366",
         "meaning":"PATTERN",
-        "id":"1336"
+        "id":"1336",
+        "mnemonic":""
     },
     "膜":{
         "page":"367",
         "meaning":"MEMBRANE",
-        "id":"1337"
+        "id":"1337",
+        "mnemonic":""
     },
     "漠":{
         "page":"367",
         "meaning":"DESERT, OBSCURE",
-        "id":"1338"
+        "id":"1338",
+        "mnemonic":""
     },
     "幕":{
         "page":"367",
         "meaning":"CURTAIN, SHOGUNATE",
-        "id":"1339"
+        "id":"1339",
+        "mnemonic":""
     },
     "墓":{
         "page":"367",
         "meaning":"GRAVE",
-        "id":"1340"
+        "id":"1340",
+        "mnemonic":""
     },
     "募":{
         "page":"368",
         "meaning":"RAISE",
-        "id":"1341"
+        "id":"1341",
+        "mnemonic":""
     },
     "暮":{
         "page":"368",
         "meaning":"DUSK, LIVE",
-        "id":"1342"
+        "id":"1342",
+        "mnemonic":""
     },
     "慕":{
         "page":"368",
         "meaning":"ADORE",
-        "id":"1343"
+        "id":"1343",
+        "mnemonic":""
     },
     "添":{
         "page":"368",
         "meaning":"ADD TO",
-        "id":"1344"
+        "id":"1344",
+        "mnemonic":""
     },
     "恭":{
         "page":"369",
         "meaning":"RESPECTFUL",
-        "id":"1345"
+        "id":"1345",
+        "mnemonic":""
     },
     "暴":{
         "page":"369",
         "meaning":"VIOLENT, DISCLOSE",
-        "id":"1346"
+        "id":"1346",
+        "mnemonic":""
     },
     "爆":{
         "page":"369",
         "meaning":"EXPLODE",
-        "id":"1347"
+        "id":"1347",
+        "mnemonic":""
     },
     "沿":{
         "page":"369",
         "meaning":"ALONG(SIDE)",
-        "id":"1348"
+        "id":"1348",
+        "mnemonic":""
     },
     "礎":{
         "page":"370",
         "meaning":"FOUNDATION STONE",
-        "id":"1349"
+        "id":"1349",
+        "mnemonic":""
     },
     "疑":{
         "page":"370",
         "meaning":"DOUBT",
-        "id":"1350"
+        "id":"1350",
+        "mnemonic":""
     },
     "凝":{
         "page":"370",
         "meaning":"CONGEAL",
-        "id":"1351"
+        "id":"1351",
+        "mnemonic":""
     },
     "擬":{
         "page":"370",
         "meaning":"IMITATE",
-        "id":"1352"
+        "id":"1352",
+        "mnemonic":""
     },
     "倣":{
         "page":"371",
         "meaning":"COPY AFTER",
-        "id":"1353"
+        "id":"1353",
+        "mnemonic":""
     },
     "似":{
         "page":"371",
         "meaning":"RESEMBLE",
-        "id":"1354"
+        "id":"1354",
+        "mnemonic":""
     },
     "俵":{
         "page":"371",
         "meaning":"STRAW SACK",
-        "id":"1355"
+        "id":"1355",
+        "mnemonic":""
     },
     "俺":{
         "page":"371",
         "meaning":"I",
-        "id":"1356"
+        "id":"1356",
+        "mnemonic":""
     },
     "庵":{
         "page":"372",
         "meaning":"HERMITAGE",
-        "id":"1357"
+        "id":"1357",
+        "mnemonic":""
     },
     "僕":{
         "page":"372",
         "meaning":"I, MANSERVANT",
-        "id":"1358"
+        "id":"1358",
+        "mnemonic":""
     },
     "撲":{
         "page":"372",
         "meaning":"DEAL A BLOW",
-        "id":"1359"
+        "id":"1359",
+        "mnemonic":""
     },
     "叩":{
         "page":"372",
         "meaning":"STRIKE",
-        "id":"1360"
+        "id":"1360",
+        "mnemonic":""
     },
     "伐":{
         "page":"373",
         "meaning":"CUT DOWN",
-        "id":"1361"
+        "id":"1361",
+        "mnemonic":""
     },
     "閥":{
         "page":"373",
         "meaning":"CLIQUE",
-        "id":"1362"
+        "id":"1362",
+        "mnemonic":""
     },
     "闘":{
         "page":"373",
         "meaning":"FIGHT",
-        "id":"1363"
+        "id":"1363",
+        "mnemonic":""
     },
     "闇":{
         "page":"373",
         "meaning":"DARK",
-        "id":"1364"
+        "id":"1364",
+        "mnemonic":""
     },
     "閑":{
         "page":"374",
         "meaning":"LEISURE, QUIET",
-        "id":"1365"
+        "id":"1365",
+        "mnemonic":""
     },
     "脈":{
         "page":"374",
         "meaning":"VEIN, PULSE",
-        "id":"1366"
+        "id":"1366",
+        "mnemonic":""
     },
     "派":{
         "page":"374",
         "meaning":"SECT, DISPATCH",
-        "id":"1367"
+        "id":"1367",
+        "mnemonic":""
     },
     "缶":{
         "page":"374",
         "meaning":"CAN",
-        "id":"1368"
+        "id":"1368",
+        "mnemonic":""
     },
     "揺":{
         "page":"375",
         "meaning":"SHAKE",
-        "id":"1369"
+        "id":"1369",
+        "mnemonic":""
     },
     "謡":{
         "page":"375",
         "meaning":"POPULAR SONG",
-        "id":"1370"
+        "id":"1370",
+        "mnemonic":""
     },
     "遥":{
         "page":"375",
         "meaning":"FAR",
-        "id":"1371"
+        "id":"1371",
+        "mnemonic":""
     },
     "陶":{
         "page":"375",
         "meaning":"POTTERY",
-        "id":"1372"
+        "id":"1372",
+        "mnemonic":""
     },
     "陳":{
         "page":"376",
         "meaning":"SET FORTH",
-        "id":"1373"
+        "id":"1373",
+        "mnemonic":""
     },
     "陣":{
         "page":"376",
         "meaning":"BATTLE FORMATION, CAMP",
-        "id":"1374"
+        "id":"1374",
+        "mnemonic":""
     },
     "陥":{
         "page":"376",
         "meaning":"FALL IN [INTO]",
-        "id":"1375"
+        "id":"1375",
+        "mnemonic":""
     },
     "隆":{
         "page":"376",
         "meaning":"PROSPER",
-        "id":"1376"
+        "id":"1376",
+        "mnemonic":""
     },
     "降":{
         "page":"377",
         "meaning":"DESCEND",
-        "id":"1377"
+        "id":"1377",
+        "mnemonic":""
     },
     "峰":{
         "page":"377",
         "meaning":"PEAK",
-        "id":"1378"
+        "id":"1378",
+        "mnemonic":""
     },
     "逢":{
         "page":"377",
         "meaning":"MEET",
-        "id":"1379"
+        "id":"1379",
+        "mnemonic":""
     },
     "縫":{
         "page":"377",
         "meaning":"SEW",
-        "id":"1380"
+        "id":"1380",
+        "mnemonic":""
     },
     "蜂":{
         "page":"378",
         "meaning":"BEE",
-        "id":"1381"
+        "id":"1381",
+        "mnemonic":""
     },
     "蜜":{
         "page":"378",
         "meaning":"HONEY",
-        "id":"1382"
+        "id":"1382",
+        "mnemonic":""
     },
     "密":{
         "page":"378",
         "meaning":"CLOSE, SECRET",
-        "id":"1383"
+        "id":"1383",
+        "mnemonic":""
     },
     "秘":{
         "page":"378",
         "meaning":"SECRET",
-        "id":"1384"
+        "id":"1384",
+        "mnemonic":""
     },
     "欧":{
         "page":"379",
         "meaning":"EUROPE",
-        "id":"1385"
+        "id":"1385",
+        "mnemonic":""
     },
     "枢":{
         "page":"379",
         "meaning":"PIVOT",
-        "id":"1386"
+        "id":"1386",
+        "mnemonic":""
     },
     "殴":{
         "page":"379",
         "meaning":"BEAT",
-        "id":"1387"
+        "id":"1387",
+        "mnemonic":""
     },
     "駆":{
         "page":"379",
         "meaning":"DRIVE",
-        "id":"1388"
+        "id":"1388",
+        "mnemonic":""
     },
     "馳":{
         "page":"380",
         "meaning":"GALLOP",
-        "id":"1389"
+        "id":"1389",
+        "mnemonic":""
     },
     "騒":{
         "page":"380",
         "meaning":"CLAMOR",
-        "id":"1390"
+        "id":"1390",
+        "mnemonic":""
     },
     "旭":{
         "page":"380",
         "meaning":"RISING SUN",
-        "id":"1391"
+        "id":"1391",
+        "mnemonic":""
     },
     "旦":{
         "page":"380",
         "meaning":"DAWN",
-        "id":"1392"
+        "id":"1392",
+        "mnemonic":""
     },
     "但":{
         "page":"381",
         "meaning":"PROVIDED THAT",
-        "id":"1393"
+        "id":"1393",
+        "mnemonic":""
     },
     "担":{
         "page":"381",
         "meaning":"BEAR ON SHOULDER, UNDERTAKE",
-        "id":"1394"
+        "id":"1394",
+        "mnemonic":""
     },
     "亘":{
         "page":"381",
         "meaning":"SPAN",
-        "id":"1395"
+        "id":"1395",
+        "mnemonic":""
     },
     "恒":{
         "page":"381",
         "meaning":"CONSTANT",
-        "id":"1396"
+        "id":"1396",
+        "mnemonic":""
     },
     "垣":{
         "page":"382",
         "meaning":"FENCE",
-        "id":"1397"
+        "id":"1397",
+        "mnemonic":""
     },
     "宣":{
         "page":"382",
         "meaning":"PROCLAIM",
-        "id":"1398"
+        "id":"1398",
+        "mnemonic":""
     },
     "喧":{
         "page":"382",
         "meaning":"CLAMOROUS",
-        "id":"1399"
+        "id":"1399",
+        "mnemonic":""
     },
     "嘩":{
         "page":"382",
         "meaning":"NOISY",
-        "id":"1400"
+        "id":"1400",
+        "mnemonic":""
     },
     "唾":{
         "page":"383",
         "meaning":"SALIVA",
-        "id":"1401"
+        "id":"1401",
+        "mnemonic":""
     },
     "壷":{
         "page":"383",
         "meaning":"JAR",
-        "id":"1402"
+        "id":"1402",
+        "mnemonic":""
     },
     "坪":{
         "page":"383",
         "meaning":"TSUBO (about 3.3 square meters)",
-        "id":"1403"
+        "id":"1403",
+        "mnemonic":""
     },
     "畔":{
         "page":"383",
         "meaning":"WATERSIDE",
-        "id":"1404"
+        "id":"1404",
+        "mnemonic":""
     },
     "衆":{
         "page":"384",
         "meaning":"MULTITUDE",
-        "id":"1405"
+        "id":"1405",
+        "mnemonic":""
     },
     "伊":{
         "page":"384",
         "meaning":"PHONETIC [I]",
-        "id":"1406"
+        "id":"1406",
+        "mnemonic":""
     },
     "君":{
         "page":"384",
         "meaning":"RULER, FAMILIAR TITLE, YOU",
-        "id":"1407"
+        "id":"1407",
+        "mnemonic":""
     },
     "群":{
         "page":"384",
         "meaning":"GROUP",
-        "id":"1408"
+        "id":"1408",
+        "mnemonic":""
     },
     "郡":{
         "page":"385",
         "meaning":"COUNTY",
-        "id":"1409"
+        "id":"1409",
+        "mnemonic":""
     },
     "那":{
         "page":"385",
         "meaning":"PHONETIC [NA]",
-        "id":"1410"
+        "id":"1410",
+        "mnemonic":""
     },
     "邦":{
         "page":"385",
         "meaning":"STATE, JAPAN",
-        "id":"1411"
+        "id":"1411",
+        "mnemonic":""
     },
     "郊":{
         "page":"385",
         "meaning":"SUBURB",
-        "id":"1412"
+        "id":"1412",
+        "mnemonic":""
     },
     "効":{
         "page":"386",
         "meaning":"EFFECT",
-        "id":"1413"
+        "id":"1413",
+        "mnemonic":""
     },
     "絞":{
         "page":"386",
         "meaning":"STRANGLE, WRING",
-        "id":"1414"
+        "id":"1414",
+        "mnemonic":""
     },
     "搾":{
         "page":"386",
         "meaning":"SQUEEZE",
-        "id":"1415"
+        "id":"1415",
+        "mnemonic":""
     },
     "紋":{
         "page":"386",
         "meaning":"CREST",
-        "id":"1416"
+        "id":"1416",
+        "mnemonic":""
     },
     "菊":{
         "page":"387",
         "meaning":"CHRYSANTHEMUM",
-        "id":"1417"
+        "id":"1417",
+        "mnemonic":""
     },
     "帝":{
         "page":"387",
         "meaning":"EMPEROR",
-        "id":"1418"
+        "id":"1418",
+        "mnemonic":""
     },
     "締":{
         "page":"387",
         "meaning":"CONCLUDE, TIGHTEN",
-        "id":"1419"
+        "id":"1419",
+        "mnemonic":""
     },
     "諦":{
         "page":"387",
         "meaning":"GIVE UP",
-        "id":"1420"
+        "id":"1420",
+        "mnemonic":""
     },
     "享":{
         "page":"388",
         "meaning":"ENJOY",
-        "id":"1421"
+        "id":"1421",
+        "mnemonic":""
     },
     "郭":{
         "page":"388",
         "meaning":"OUTER ENCLOSURE",
-        "id":"1422"
+        "id":"1422",
+        "mnemonic":""
     },
     "亭":{
         "page":"388",
         "meaning":"INN, PSEUDONYM SUFFIX",
-        "id":"1423"
+        "id":"1423",
+        "mnemonic":""
     },
     "停":{
         "page":"388",
         "meaning":"STOP",
-        "id":"1424"
+        "id":"1424",
+        "mnemonic":""
     },
     "昆":{
         "page":"389",
         "meaning":"INSECT",
-        "id":"1425"
+        "id":"1425",
+        "mnemonic":""
     },
     "混":{
         "page":"389",
         "meaning":"MIX",
-        "id":"1426"
+        "id":"1426",
+        "mnemonic":""
     },
     "皆":{
         "page":"389",
         "meaning":"ALL",
-        "id":"1427"
+        "id":"1427",
+        "mnemonic":""
     },
     "楷":{
         "page":"389",
         "meaning":"BLOCK CHARACTER STYLE",
-        "id":"1428"
+        "id":"1428",
+        "mnemonic":""
     },
     "諧":{
         "page":"390",
         "meaning":"HARMONY",
-        "id":"1429"
+        "id":"1429",
+        "mnemonic":""
     },
     "階":{
         "page":"390",
         "meaning":"FLOOR, RANK",
-        "id":"1430"
+        "id":"1430",
+        "mnemonic":""
     },
     "陛":{
         "page":"390",
         "meaning":"IMPERIAL PALACE STEPS",
-        "id":"1431"
+        "id":"1431",
+        "mnemonic":""
     },
     "陸":{
         "page":"390",
         "meaning":"LAND",
-        "id":"1432"
+        "id":"1432",
+        "mnemonic":""
     },
     "睦":{
         "page":"391",
         "meaning":"FRIENDLY",
-        "id":"1433"
+        "id":"1433",
+        "mnemonic":""
     },
     "勢":{
         "page":"391",
         "meaning":"POWER, CONDITION",
-        "id":"1434"
+        "id":"1434",
+        "mnemonic":""
     },
     "熱":{
         "page":"391",
         "meaning":"HEAT",
-        "id":"1435"
+        "id":"1435",
+        "mnemonic":""
     },
     "熟":{
         "page":"391",
         "meaning":"MATURE",
-        "id":"1436"
+        "id":"1436",
+        "mnemonic":""
     },
     "塾":{
         "page":"392",
         "meaning":"PRIVATE SCHOOL",
-        "id":"1437"
+        "id":"1437",
+        "mnemonic":""
     },
     "陵":{
         "page":"392",
         "meaning":"IMPERIAL MAUSOLEUM",
-        "id":"1438"
+        "id":"1438",
+        "mnemonic":""
     },
     "菱":{
         "page":"392",
         "meaning":"RHOMBUS",
-        "id":"1439"
+        "id":"1439",
+        "mnemonic":""
     },
     "俊":{
         "page":"392",
         "meaning":"BRILLIANT PERSON",
-        "id":"1440"
+        "id":"1440",
+        "mnemonic":""
     },
     "唆":{
         "page":"393",
         "meaning":"INSTIGATE",
-        "id":"1441"
+        "id":"1441",
+        "mnemonic":""
     },
     "筈":{
         "page":"393",
         "meaning":"TO BE EXPECTED",
-        "id":"1442"
+        "id":"1442",
+        "mnemonic":""
     },
     "箸":{
         "page":"393",
         "meaning":"CHOPSTICKS",
-        "id":"1443"
+        "id":"1443",
+        "mnemonic":""
     },
     "暑":{
         "page":"393",
         "meaning":"HOT",
-        "id":"1444"
+        "id":"1444",
+        "mnemonic":""
     },
     "署":{
         "page":"394",
         "meaning":"GOVERNMENT OFFICE, SIGN ONE'S NAME",
-        "id":"1445"
+        "id":"1445",
+        "mnemonic":""
     },
     "曙":{
         "page":"394",
         "meaning":"DAWN",
-        "id":"1446"
+        "id":"1446",
+        "mnemonic":""
     },
     "賭":{
         "page":"394",
         "meaning":"WAGER",
-        "id":"1447"
+        "id":"1447",
+        "mnemonic":""
     },
     "諸":{
         "page":"394",
         "meaning":"VARIOUS",
-        "id":"1448"
+        "id":"1448",
+        "mnemonic":""
     },
     "儲":{
         "page":"395",
         "meaning":"PROFIT",
-        "id":"1449"
+        "id":"1449",
+        "mnemonic":""
     },
     "緒":{
         "page":"395",
         "meaning":"OUTSET, LINE",
-        "id":"1450"
+        "id":"1450",
+        "mnemonic":""
     },
     "翁":{
         "page":"395",
         "meaning":"OLD MAN",
-        "id":"1451"
+        "id":"1451",
+        "mnemonic":""
     },
     "婆":{
         "page":"395",
         "meaning":"OLD WOMAN",
-        "id":"1452"
+        "id":"1452",
+        "mnemonic":""
     },
     "姿":{
         "page":"396",
         "meaning":"FIGURE",
-        "id":"1453"
+        "id":"1453",
+        "mnemonic":""
     },
     "恣":{
         "page":"396",
         "meaning":"ARBITRARY",
-        "id":"1454"
+        "id":"1454",
+        "mnemonic":""
     },
     "妄":{
         "page":"396",
         "meaning":"RASH",
-        "id":"1455"
+        "id":"1455",
+        "mnemonic":""
     },
     "萎":{
         "page":"396",
         "meaning":"WILT",
-        "id":"1456"
+        "id":"1456",
+        "mnemonic":""
     },
     "妻":{
         "page":"397",
         "meaning":"WIFE",
-        "id":"1457"
+        "id":"1457",
+        "mnemonic":""
     },
     "凄":{
         "page":"397",
         "meaning":"TREMENDOUS",
-        "id":"1458"
+        "id":"1458",
+        "mnemonic":""
     },
     "章":{
         "page":"397",
         "meaning":"CHAPTER, BADGE",
-        "id":"1459"
+        "id":"1459",
+        "mnemonic":""
     },
     "彰":{
         "page":"397",
         "meaning":"PROCLAIM MERITS",
-        "id":"1460"
+        "id":"1460",
+        "mnemonic":""
     },
     "障":{
         "page":"398",
         "meaning":"HINDRANCE",
-        "id":"1461"
+        "id":"1461",
+        "mnemonic":""
     },
     "辛":{
         "page":"398",
         "meaning":"PUNGENT, HARD",
-        "id":"1462"
+        "id":"1462",
+        "mnemonic":""
     },
     "宰":{
         "page":"398",
         "meaning":"PRESIDE",
-        "id":"1463"
+        "id":"1463",
+        "mnemonic":""
     },
     "辣":{
         "page":"398",
         "meaning":"SHARP",
-        "id":"1464"
+        "id":"1464",
+        "mnemonic":""
     },
     "辞":{
         "page":"399",
         "meaning":"WORD, RESIGN",
-        "id":"1465"
+        "id":"1465",
+        "mnemonic":""
     },
     "壁":{
         "page":"399",
         "meaning":"WALL",
-        "id":"1466"
+        "id":"1466",
+        "mnemonic":""
     },
     "璧":{
         "page":"399",
         "meaning":"MAGNIFICENT JEWEL",
-        "id":"1467"
+        "id":"1467",
+        "mnemonic":""
     },
     "癖":{
         "page":"399",
         "meaning":"HABIT",
-        "id":"1468"
+        "id":"1468",
+        "mnemonic":""
     },
     "避":{
         "page":"400",
         "meaning":"AVOID",
-        "id":"1469"
+        "id":"1469",
+        "mnemonic":""
     },
     "幸":{
         "page":"400",
         "meaning":"GOOD FORTUNE, HAPPINESS",
-        "id":"1470"
+        "id":"1470",
+        "mnemonic":""
     },
     "服":{
         "page":"400",
         "meaning":"CLOTHES, SUBMIT",
-        "id":"1471"
+        "id":"1471",
+        "mnemonic":""
     },
     "報":{
         "page":"400",
         "meaning":"REPORT, REQUITE",
-        "id":"1472"
+        "id":"1472",
+        "mnemonic":""
     },
     "執":{
         "page":"401",
         "meaning":"EXECUTE, SEIZE",
-        "id":"1473"
+        "id":"1473",
+        "mnemonic":""
     },
     "摯":{
         "page":"401",
         "meaning":"SINCERE",
-        "id":"1474"
+        "id":"1474",
+        "mnemonic":""
     },
     "達":{
         "page":"401",
         "meaning":"ATTAIN, PLURAL SUFFIX",
-        "id":"1475"
+        "id":"1475",
+        "mnemonic":""
     },
     "朗":{
         "page":"401",
         "meaning":"CHEERFUL, CLEAR",
-        "id":"1476"
+        "id":"1476",
+        "mnemonic":""
     },
     "浪":{
         "page":"402",
         "meaning":"BILLOW, ROAM",
-        "id":"1477"
+        "id":"1477",
+        "mnemonic":""
     },
     "呉":{
         "page":"402",
         "meaning":"KINGDOM OF WU, GIVE",
-        "id":"1478"
+        "id":"1478",
+        "mnemonic":""
     },
     "娯":{
         "page":"402",
         "meaning":"ENJOYMENT",
-        "id":"1479"
+        "id":"1479",
+        "mnemonic":""
     },
     "誤":{
         "page":"402",
         "meaning":"MISTAKE",
-        "id":"1480"
+        "id":"1480",
+        "mnemonic":""
     },
     "富":{
         "page":"403",
         "meaning":"RICH",
-        "id":"1481"
+        "id":"1481",
+        "mnemonic":""
     },
     "副":{
         "page":"403",
         "meaning":"SECONDARY",
-        "id":"1482"
+        "id":"1482",
+        "mnemonic":""
     },
     "幅":{
         "page":"403",
         "meaning":"WIDTH",
-        "id":"1483"
+        "id":"1483",
+        "mnemonic":""
     },
     "福":{
         "page":"403",
         "meaning":"FORTUNE",
-        "id":"1484"
+        "id":"1484",
+        "mnemonic":""
     },
     "祉":{
         "page":"404",
         "meaning":"BLESSEDNESS",
-        "id":"1485"
+        "id":"1485",
+        "mnemonic":""
     },
     "禍":{
         "page":"404",
         "meaning":"CALAMITY",
-        "id":"1486"
+        "id":"1486",
+        "mnemonic":""
     },
     "渦":{
         "page":"404",
         "meaning":"WHIRLPOOL",
-        "id":"1487"
+        "id":"1487",
+        "mnemonic":""
     },
     "鍋":{
         "page":"404",
         "meaning":"POT",
-        "id":"1488"
+        "id":"1488",
+        "mnemonic":""
     },
     "蘭":{
         "page":"405",
         "meaning":"ORCHID, HOLLAND",
-        "id":"1489"
+        "id":"1489",
+        "mnemonic":""
     },
     "欄":{
         "page":"405",
         "meaning":"COLUMN",
-        "id":"1490"
+        "id":"1490",
+        "mnemonic":""
     },
     "潤":{
         "page":"405",
         "meaning":"MOIST",
-        "id":"1491"
+        "id":"1491",
+        "mnemonic":""
     },
     "淵":{
         "page":"405",
         "meaning":"EDGE, DEEP POOL",
-        "id":"1492"
+        "id":"1492",
+        "mnemonic":""
     },
     "滑":{
         "page":"406",
         "meaning":"SLIDE, SMOOTH",
-        "id":"1493"
+        "id":"1493",
+        "mnemonic":""
     },
     "稽":{
         "page":"406",
         "meaning":"PRACTICE",
-        "id":"1494"
+        "id":"1494",
+        "mnemonic":""
     },
     "肩":{
         "page":"406",
         "meaning":"SHOULDER",
-        "id":"1495"
+        "id":"1495",
+        "mnemonic":""
     },
     "脅":{
         "page":"406",
         "meaning":"THREATEN",
-        "id":"1496"
+        "id":"1496",
+        "mnemonic":""
     },
     "肯":{
         "page":"407",
         "meaning":"ASSENT",
-        "id":"1497"
+        "id":"1497",
+        "mnemonic":""
     },
     "双":{
         "page":"407",
         "meaning":"SET OF TWO",
-        "id":"1498"
+        "id":"1498",
+        "mnemonic":""
     },
     "江":{
         "page":"407",
         "meaning":"INLET",
-        "id":"1499"
+        "id":"1499",
+        "mnemonic":""
     },
     "湾":{
         "page":"407",
         "meaning":"BAY",
-        "id":"1500"
+        "id":"1500",
+        "mnemonic":""
     },
     "港":{
         "page":"408",
         "meaning":"PORT",
-        "id":"1501"
+        "id":"1501",
+        "mnemonic":""
     },
     "選":{
         "page":"408",
         "meaning":"SELECT",
-        "id":"1502"
+        "id":"1502",
+        "mnemonic":""
     },
     "択":{
         "page":"408",
         "meaning":"SELECT",
-        "id":"1503"
+        "id":"1503",
+        "mnemonic":""
     },
     "沢":{
         "page":"408",
         "meaning":"SWAMP, ABUNDANT",
-        "id":"1504"
+        "id":"1504",
+        "mnemonic":""
     },
     "訳":{
         "page":"409",
         "meaning":"TRANSLATE, SENSE",
-        "id":"1505"
+        "id":"1505",
+        "mnemonic":""
     },
     "釈":{
         "page":"409",
         "meaning":"ELUCIDATE, RELEASE",
-        "id":"1506"
+        "id":"1506",
+        "mnemonic":""
     },
     "敷":{
         "page":"409",
         "meaning":"LAY",
-        "id":"1507"
+        "id":"1507",
+        "mnemonic":""
     },
     "傲":{
         "page":"409",
         "meaning":"PROUD",
-        "id":"1508"
+        "id":"1508",
+        "mnemonic":""
     },
     "贅":{
         "page":"410",
         "meaning":"LUXURY",
-        "id":"1509"
+        "id":"1509",
+        "mnemonic":""
     },
     "審":{
         "page":"410",
         "meaning":"EXAMINE CAREFULLY, TRY",
-        "id":"1510"
+        "id":"1510",
+        "mnemonic":""
     },
     "藩":{
         "page":"410",
         "meaning":"FEUDAL DOMAIN",
-        "id":"1511"
+        "id":"1511",
+        "mnemonic":""
     },
     "翻":{
         "page":"410",
         "meaning":"TURN OVER, RENDER IN ANOTHER FORM",
-        "id":"1512"
+        "id":"1512",
+        "mnemonic":""
     },
     "翔":{
         "page":"411",
         "meaning":"SOAR",
-        "id":"1513"
+        "id":"1513",
+        "mnemonic":""
     },
     "査":{
         "page":"411",
         "meaning":"LOOK INTO",
-        "id":"1514"
+        "id":"1514",
+        "mnemonic":""
     },
     "租":{
         "page":"411",
         "meaning":"LAND TAX",
-        "id":"1515"
+        "id":"1515",
+        "mnemonic":""
     },
     "粗":{
         "page":"411",
         "meaning":"COARSE",
-        "id":"1516"
+        "id":"1516",
+        "mnemonic":""
     },
     "阻":{
         "page":"412",
         "meaning":"HAMPER",
-        "id":"1517"
+        "id":"1517",
+        "mnemonic":""
     },
     "狙":{
         "page":"412",
         "meaning":"AIM AT",
-        "id":"1518"
+        "id":"1518",
+        "mnemonic":""
     },
     "宜":{
         "page":"412",
         "meaning":"RIGHT",
-        "id":"1519"
+        "id":"1519",
+        "mnemonic":""
     },
     "畳":{
         "page":"412",
         "meaning":"TATAMI (straw mat), FOLD UP",
-        "id":"1520"
+        "id":"1520",
+        "mnemonic":""
     },
     "甲":{
         "page":"413",
         "meaning":"SHELL, FIRST IN A SERIES",
-        "id":"1521"
+        "id":"1521",
+        "mnemonic":""
     },
     "乙":{
         "page":"413",
         "meaning":"SECOND IN A SERIES",
-        "id":"1522"
+        "id":"1522",
+        "mnemonic":""
     },
     "丙":{
         "page":"413",
         "meaning":"THIRD IN A SERIES",
-        "id":"1523"
+        "id":"1523",
+        "mnemonic":""
     },
     "柄":{
         "page":"413",
         "meaning":"CHARACTER, STATUS",
-        "id":"1524"
+        "id":"1524",
+        "mnemonic":""
     },
     "押":{
         "page":"414",
         "meaning":"PUSH",
-        "id":"1525"
+        "id":"1525",
+        "mnemonic":""
     },
     "抽":{
         "page":"414",
         "meaning":"DRAW OUT",
-        "id":"1526"
+        "id":"1526",
+        "mnemonic":""
     },
     "捜":{
         "page":"414",
         "meaning":"LOOK FOR",
-        "id":"1527"
+        "id":"1527",
+        "mnemonic":""
     },
     "届":{
         "page":"414",
         "meaning":"DELIVER, REACH",
-        "id":"1528"
+        "id":"1528",
+        "mnemonic":""
     },
     "宙":{
         "page":"415",
         "meaning":"SPACE, MIDAIR",
-        "id":"1529"
+        "id":"1529",
+        "mnemonic":""
     },
     "笛":{
         "page":"415",
         "meaning":"FLUTE",
-        "id":"1530"
+        "id":"1530",
+        "mnemonic":""
     },
     "袖":{
         "page":"415",
         "meaning":"SLEEVE",
-        "id":"1531"
+        "id":"1531",
+        "mnemonic":""
     },
     "襟":{
         "page":"415",
         "meaning":"COLLAR",
-        "id":"1532"
+        "id":"1532",
+        "mnemonic":""
     },
     "衿":{
         "page":"416",
         "meaning":"COLLAR",
-        "id":"1533"
+        "id":"1533",
+        "mnemonic":""
     },
     "裾":{
         "page":"416",
         "meaning":"CUFF",
-        "id":"1534"
+        "id":"1534",
+        "mnemonic":""
     },
     "据":{
         "page":"416",
         "meaning":"SET",
-        "id":"1535"
+        "id":"1535",
+        "mnemonic":""
     },
     "握":{
         "page":"416",
         "meaning":"GRASP",
-        "id":"1536"
+        "id":"1536",
+        "mnemonic":""
     },
     "揃":{
         "page":"417",
         "meaning":"MAKE UNIFORM",
-        "id":"1537"
+        "id":"1537",
+        "mnemonic":""
     },
     "撫":{
         "page":"417",
         "meaning":"STROKE",
-        "id":"1538"
+        "id":"1538",
+        "mnemonic":""
     },
     "託":{
         "page":"417",
         "meaning":"ENTRUST",
-        "id":"1539"
+        "id":"1539",
+        "mnemonic":""
     },
     "宅":{
         "page":"417",
         "meaning":"DWELLING HOUSE",
-        "id":"1540"
+        "id":"1540",
+        "mnemonic":""
     },
     "詫":{
         "page":"418",
         "meaning":"APOLOGIZE",
-        "id":"1541"
+        "id":"1541",
+        "mnemonic":""
     },
     "宇":{
         "page":"418",
         "meaning":"UNIVERSE",
-        "id":"1542"
+        "id":"1542",
+        "mnemonic":""
     },
     "芋":{
         "page":"418",
         "meaning":"POTATO",
-        "id":"1543"
+        "id":"1543",
+        "mnemonic":""
     },
     "寿":{
         "page":"418",
         "meaning":"LONGEVITY, CONGRATULATIONS",
-        "id":"1544"
+        "id":"1544",
+        "mnemonic":""
     },
     "鋳":{
         "page":"419",
         "meaning":"CAST",
-        "id":"1545"
+        "id":"1545",
+        "mnemonic":""
     },
     "銘":{
         "page":"419",
         "meaning":"INSCRIPTION",
-        "id":"1546"
+        "id":"1546",
+        "mnemonic":""
     },
     "鏡":{
         "page":"419",
         "meaning":"MIRROR, OPTICAL INSTRUMENT",
-        "id":"1547"
+        "id":"1547",
+        "mnemonic":""
     },
     "境":{
         "page":"419",
         "meaning":"BOUNDARY, SITUATION",
-        "id":"1548"
+        "id":"1548",
+        "mnemonic":""
     },
     "環":{
         "page":"420",
         "meaning":"RING, SURROUND",
-        "id":"1549"
+        "id":"1549",
+        "mnemonic":""
     },
     "還":{
         "page":"420",
         "meaning":"RETURN",
-        "id":"1550"
+        "id":"1550",
+        "mnemonic":""
     },
     "盾":{
         "page":"420",
         "meaning":"SHIELD",
-        "id":"1551"
+        "id":"1551",
+        "mnemonic":""
     },
     "循":{
         "page":"420",
         "meaning":"CIRCULATE",
-        "id":"1552"
+        "id":"1552",
+        "mnemonic":""
     },
     "巡":{
         "page":"421",
         "meaning":"MAKE THE ROUNDS",
-        "id":"1553"
+        "id":"1553",
+        "mnemonic":""
     },
     "這":{
         "page":"421",
         "meaning":"CRAWL",
-        "id":"1554"
+        "id":"1554",
+        "mnemonic":""
     },
     "逓":{
         "page":"421",
         "meaning":"RELAY",
-        "id":"1555"
+        "id":"1555",
+        "mnemonic":""
     },
     "息":{
         "page":"421",
         "meaning":"BREATH",
-        "id":"1556"
+        "id":"1556",
+        "mnemonic":""
     },
     "憩":{
         "page":"422",
         "meaning":"TAKE A REST",
-        "id":"1557"
+        "id":"1557",
+        "mnemonic":""
     },
     "鼻":{
         "page":"422",
         "meaning":"NOSE",
-        "id":"1558"
+        "id":"1558",
+        "mnemonic":""
     },
     "孔":{
         "page":"422",
         "meaning":"OPEN HOLE",
-        "id":"1559"
+        "id":"1559",
+        "mnemonic":""
     },
     "臭":{
         "page":"422",
         "meaning":"BAD SMELL",
-        "id":"1560"
+        "id":"1560",
+        "mnemonic":""
     },
     "嗅":{
         "page":"423",
         "meaning":"SMELL",
-        "id":"1561"
+        "id":"1561",
+        "mnemonic":""
     },
     "奥":{
         "page":"423",
         "meaning":"INNER PART",
-        "id":"1562"
+        "id":"1562",
+        "mnemonic":""
     },
     "尖":{
         "page":"423",
         "meaning":"POINTY",
-        "id":"1563"
+        "id":"1563",
+        "mnemonic":""
     },
     "突":{
         "page":"423",
         "meaning":"THRUST",
-        "id":"1564"
+        "id":"1564",
+        "mnemonic":""
     },
     "窒":{
         "page":"424",
         "meaning":"CHOKE, NITROGEN",
-        "id":"1565"
+        "id":"1565",
+        "mnemonic":""
     },
     "窃":{
         "page":"424",
         "meaning":"STEAL",
-        "id":"1566"
+        "id":"1566",
+        "mnemonic":""
     },
     "衝":{
         "page":"424",
         "meaning":"COLLIDE",
-        "id":"1567"
+        "id":"1567",
+        "mnemonic":""
     },
     "契":{
         "page":"424",
         "meaning":"PLEDGE",
-        "id":"1568"
+        "id":"1568",
+        "mnemonic":""
     },
     "喫":{
         "page":"425",
         "meaning":"INGEST",
-        "id":"1569"
+        "id":"1569",
+        "mnemonic":""
     },
     "潔":{
         "page":"425",
         "meaning":"IMMACULATE",
-        "id":"1570"
+        "id":"1570",
+        "mnemonic":""
     },
     "侮":{
         "page":"425",
         "meaning":"INSULT",
-        "id":"1571"
+        "id":"1571",
+        "mnemonic":""
     },
     "梅":{
         "page":"425",
         "meaning":"JAPANESE APRICOT",
-        "id":"1572"
+        "id":"1572",
+        "mnemonic":""
     },
     "悔":{
         "page":"426",
         "meaning":"REPENT",
-        "id":"1573"
+        "id":"1573",
+        "mnemonic":""
     },
     "敏":{
         "page":"426",
         "meaning":"NIMBLE",
-        "id":"1574"
+        "id":"1574",
+        "mnemonic":""
     },
     "繁":{
         "page":"426",
         "meaning":"THRIVE",
-        "id":"1575"
+        "id":"1575",
+        "mnemonic":""
     },
     "繋":{
         "page":"426",
         "meaning":"CONNECT",
-        "id":"1576"
+        "id":"1576",
+        "mnemonic":""
     },
     "茂":{
         "page":"427",
         "meaning":"GROW THICK",
-        "id":"1577"
+        "id":"1577",
+        "mnemonic":""
     },
     "橋":{
         "page":"427",
         "meaning":"BRIDGE",
-        "id":"1578"
+        "id":"1578",
+        "mnemonic":""
     },
     "矯":{
         "page":"427",
         "meaning":"RECTIFY",
-        "id":"1579"
+        "id":"1579",
+        "mnemonic":""
     },
     "稿":{
         "page":"427",
         "meaning":"MANUSCRIPT",
-        "id":"1580"
+        "id":"1580",
+        "mnemonic":""
     },
     "縞":{
         "page":"428",
         "meaning":"STRIPE",
-        "id":"1581"
+        "id":"1581",
+        "mnemonic":""
     },
     "箋":{
         "page":"428",
         "meaning":"WRITING PAPER",
-        "id":"1582"
+        "id":"1582",
+        "mnemonic":""
     },
     "残":{
         "page":"428",
         "meaning":"LEAVE BEHIND, RUTHLESS",
-        "id":"1583"
+        "id":"1583",
+        "mnemonic":""
     },
     "桟":{
         "page":"428",
         "meaning":"SCAFFOLD",
-        "id":"1584"
+        "id":"1584",
+        "mnemonic":""
     },
     "銭":{
         "page":"429",
         "meaning":"MONEY",
-        "id":"1585"
+        "id":"1585",
+        "mnemonic":""
     },
     "践":{
         "page":"429",
         "meaning":"PUT INTO ACTION",
-        "id":"1586"
+        "id":"1586",
+        "mnemonic":""
     },
     "浅":{
         "page":"429",
         "meaning":"SHALLOW",
-        "id":"1587"
+        "id":"1587",
+        "mnemonic":""
     },
     "洩":{
         "page":"429",
         "meaning":"LEAK",
-        "id":"1588"
+        "id":"1588",
+        "mnemonic":""
     },
     "壮":{
         "page":"430",
         "meaning":"VIGOROUS, GRAND",
-        "id":"1589"
+        "id":"1589",
+        "mnemonic":""
     },
     "荘":{
         "page":"430",
         "meaning":"VILLA, DIGNIFIED",
-        "id":"1590"
+        "id":"1590",
+        "mnemonic":""
     },
     "装":{
         "page":"430",
         "meaning":"DRESS, FIT OUT",
-        "id":"1591"
+        "id":"1591",
+        "mnemonic":""
     },
     "冥":{
         "page":"430",
         "meaning":"DARK",
-        "id":"1592"
+        "id":"1592",
+        "mnemonic":""
     },
     "暗":{
         "page":"431",
         "meaning":"DARK",
-        "id":"1593"
+        "id":"1593",
+        "mnemonic":""
     },
     "韻":{
         "page":"431",
         "meaning":"RHYME",
-        "id":"1594"
+        "id":"1594",
+        "mnemonic":""
     },
     "損":{
         "page":"431",
         "meaning":"LOSS",
-        "id":"1595"
+        "id":"1595",
+        "mnemonic":""
     },
     "捕":{
         "page":"431",
         "meaning":"CATCH",
-        "id":"1596"
+        "id":"1596",
+        "mnemonic":""
     },
     "挿":{
         "page":"432",
         "meaning":"INSERT",
-        "id":"1597"
+        "id":"1597",
+        "mnemonic":""
     },
     "補":{
         "page":"432",
         "meaning":"SUPPLEMENT",
-        "id":"1598"
+        "id":"1598",
+        "mnemonic":""
     },
     "浦":{
         "page":"432",
         "meaning":"SEASIDE",
-        "id":"1599"
+        "id":"1599",
+        "mnemonic":""
     },
     "哺":{
         "page":"432",
         "meaning":"SUCKLE",
-        "id":"1600"
+        "id":"1600",
+        "mnemonic":""
     },
     "舗":{
         "page":"433",
         "meaning":"PAVE, SHOP",
-        "id":"1601"
+        "id":"1601",
+        "mnemonic":""
     },
     "掴":{
         "page":"433",
         "meaning":"GRASP",
-        "id":"1602"
+        "id":"1602",
+        "mnemonic":""
     },
     "捉":{
         "page":"433",
         "meaning":"CATCH",
-        "id":"1603"
+        "id":"1603",
+        "mnemonic":""
     },
     "促":{
         "page":"433",
         "meaning":"HASTEN",
-        "id":"1604"
+        "id":"1604",
+        "mnemonic":""
     },
     "筆":{
         "page":"434",
         "meaning":"BRUSH, WRITING",
-        "id":"1605"
+        "id":"1605",
+        "mnemonic":""
     },
     "津":{
         "page":"434",
         "meaning":"HARBOR",
-        "id":"1606"
+        "id":"1606",
+        "mnemonic":""
     },
     "律":{
         "page":"434",
         "meaning":"LAW, RHYTHM",
-        "id":"1607"
+        "id":"1607",
+        "mnemonic":""
     },
     "逮":{
         "page":"434",
         "meaning":"CATCH A CRIMINAL",
-        "id":"1608"
+        "id":"1608",
+        "mnemonic":""
     },
     "建":{
         "page":"435",
         "meaning":"BUILD",
-        "id":"1609"
+        "id":"1609",
+        "mnemonic":""
     },
     "健":{
         "page":"435",
         "meaning":"ROBUST",
-        "id":"1610"
+        "id":"1610",
+        "mnemonic":""
     },
     "康":{
         "page":"435",
         "meaning":"HEALTHY",
-        "id":"1611"
+        "id":"1611",
+        "mnemonic":""
     },
     "庸":{
         "page":"435",
         "meaning":"MEDIOCRE",
-        "id":"1612"
+        "id":"1612",
+        "mnemonic":""
     },
     "粛":{
         "page":"436",
         "meaning":"PURGE, HUSHED",
-        "id":"1613"
+        "id":"1613",
+        "mnemonic":""
     },
     "繍":{
         "page":"436",
         "meaning":"EMBROIDERY",
-        "id":"1614"
+        "id":"1614",
+        "mnemonic":""
     },
     "唐":{
         "page":"436",
         "meaning":"TANG DYNASTY",
-        "id":"1615"
+        "id":"1615",
+        "mnemonic":""
     },
     "糖":{
         "page":"436",
         "meaning":"SUGAR",
-        "id":"1616"
+        "id":"1616",
+        "mnemonic":""
     },
     "粧":{
         "page":"437",
         "meaning":"APPLY MAKEUP",
-        "id":"1617"
+        "id":"1617",
+        "mnemonic":""
     },
     "糧":{
         "page":"437",
         "meaning":"FOOD PROVISIONS",
-        "id":"1618"
+        "id":"1618",
+        "mnemonic":""
     },
     "粉":{
         "page":"437",
         "meaning":"POWDER",
-        "id":"1619"
+        "id":"1619",
+        "mnemonic":""
     },
     "紛":{
         "page":"437",
         "meaning":"CONFUSED",
-        "id":"1620"
+        "id":"1620",
+        "mnemonic":""
     },
     "糾":{
         "page":"438",
         "meaning":"INQUIRE INTO",
-        "id":"1621"
+        "id":"1621",
+        "mnemonic":""
     },
     "粋":{
         "page":"438",
         "meaning":"REFINED",
-        "id":"1622"
+        "id":"1622",
+        "mnemonic":""
     },
     "砕":{
         "page":"438",
         "meaning":"CRUSH UP",
-        "id":"1623"
+        "id":"1623",
+        "mnemonic":""
     },
     "枠":{
         "page":"438",
         "meaning":"FRAME",
-        "id":"1624"
+        "id":"1624",
+        "mnemonic":""
     },
     "酔":{
         "page":"439",
         "meaning":"BECOME INTOXICATED",
-        "id":"1625"
+        "id":"1625",
+        "mnemonic":""
     },
     "醒":{
         "page":"439",
         "meaning":"WAKE UP",
-        "id":"1626"
+        "id":"1626",
+        "mnemonic":""
     },
     "酬":{
         "page":"439",
         "meaning":"RECIPROCATE",
-        "id":"1627"
+        "id":"1627",
+        "mnemonic":""
     },
     "酷":{
         "page":"439",
         "meaning":"SEVERE",
-        "id":"1628"
+        "id":"1628",
+        "mnemonic":""
     },
     "凡":{
         "page":"440",
         "meaning":"COMMONPLACE",
-        "id":"1629"
+        "id":"1629",
+        "mnemonic":""
     },
     "凧":{
         "page":"440",
         "meaning":"KITE",
-        "id":"1630"
+        "id":"1630",
+        "mnemonic":""
     },
     "帆":{
         "page":"440",
         "meaning":"SAIL",
-        "id":"1631"
+        "id":"1631",
+        "mnemonic":""
     },
     "汎":{
         "page":"440",
         "meaning":"PAN-",
-        "id":"1632"
+        "id":"1632",
+        "mnemonic":""
     },
     "恐":{
         "page":"441",
         "meaning":"FEAR",
-        "id":"1633"
+        "id":"1633",
+        "mnemonic":""
     },
     "怖":{
         "page":"441",
         "meaning":"FEARFUL",
-        "id":"1634"
+        "id":"1634",
+        "mnemonic":""
     },
     "築":{
         "page":"441",
         "meaning":"CONSTRUCT",
-        "id":"1635"
+        "id":"1635",
+        "mnemonic":""
     },
     "尋":{
         "page":"441",
         "meaning":"INQUIRE",
-        "id":"1636"
+        "id":"1636",
+        "mnemonic":""
     },
     "訊":{
         "page":"442",
         "meaning":"INTERROGATE",
-        "id":"1637"
+        "id":"1637",
+        "mnemonic":""
     },
     "諮":{
         "page":"442",
         "meaning":"CONSULT",
-        "id":"1638"
+        "id":"1638",
+        "mnemonic":""
     },
     "抗":{
         "page":"442",
         "meaning":"RESIST",
-        "id":"1639"
+        "id":"1639",
+        "mnemonic":""
     },
     "航":{
         "page":"442",
         "meaning":"NAVIGATE",
-        "id":"1640"
+        "id":"1640",
+        "mnemonic":""
     },
     "坑":{
         "page":"443",
         "meaning":"PIT",
-        "id":"1641"
+        "id":"1641",
+        "mnemonic":""
     },
     "拝":{
         "page":"443",
         "meaning":"WORSHIP, HUMBLY",
-        "id":"1642"
+        "id":"1642",
+        "mnemonic":""
     },
     "耕":{
         "page":"443",
         "meaning":"TILL",
-        "id":"1643"
+        "id":"1643",
+        "mnemonic":""
     },
     "耗":{
         "page":"443",
         "meaning":"WEAR AWAY",
-        "id":"1644"
+        "id":"1644",
+        "mnemonic":""
     },
     "崇":{
         "page":"444",
         "meaning":"REVERENCE",
-        "id":"1645"
+        "id":"1645",
+        "mnemonic":""
     },
     "灰":{
         "page":"444",
         "meaning":"ASH",
-        "id":"1646"
+        "id":"1646",
+        "mnemonic":""
     },
     "炭":{
         "page":"444",
         "meaning":"COAL, CHARCOAL, CARBON",
-        "id":"1647"
+        "id":"1647",
+        "mnemonic":""
     },
     "岸":{
         "page":"444",
         "meaning":"SHORE",
-        "id":"1648"
+        "id":"1648",
+        "mnemonic":""
     },
     "岩":{
         "page":"445",
         "meaning":"ROCK",
-        "id":"1649"
+        "id":"1649",
+        "mnemonic":""
     },
     "崩":{
         "page":"445",
         "meaning":"CRUMBLE",
-        "id":"1650"
+        "id":"1650",
+        "mnemonic":""
     },
     "嵐":{
         "page":"445",
         "meaning":"STORM",
-        "id":"1651"
+        "id":"1651",
+        "mnemonic":""
     },
     "崖":{
         "page":"445",
         "meaning":"CLIFF",
-        "id":"1652"
+        "id":"1652",
+        "mnemonic":""
     },
     "催":{
         "page":"446",
         "meaning":"SPONSOR",
-        "id":"1653"
+        "id":"1653",
+        "mnemonic":""
     },
     "焦":{
         "page":"446",
         "meaning":"SCORCH, BE IMPATIENT",
-        "id":"1654"
+        "id":"1654",
+        "mnemonic":""
     },
     "礁":{
         "page":"446",
         "meaning":"REEF",
-        "id":"1655"
+        "id":"1655",
+        "mnemonic":""
     },
     "奮":{
         "page":"446",
         "meaning":"ROUSE UP",
-        "id":"1656"
+        "id":"1656",
+        "mnemonic":""
     },
     "奪":{
         "page":"447",
         "meaning":"SEIZE",
-        "id":"1657"
+        "id":"1657",
+        "mnemonic":""
     },
     "隻":{
         "page":"447",
         "meaning":"ONE OF A PAIR, COUNTER FOR SHIPS",
-        "id":"1658"
+        "id":"1658",
+        "mnemonic":""
     },
     "獲":{
         "page":"447",
         "meaning":"CATCH GAME",
-        "id":"1659"
+        "id":"1659",
+        "mnemonic":""
     },
     "穫":{
         "page":"447",
         "meaning":"HARVEST",
-        "id":"1660"
+        "id":"1660",
+        "mnemonic":""
     },
     "護":{
         "page":"448",
         "meaning":"PROTECT",
-        "id":"1661"
+        "id":"1661",
+        "mnemonic":""
     },
     "譲":{
         "page":"448",
         "meaning":"CEDE",
-        "id":"1662"
+        "id":"1662",
+        "mnemonic":""
     },
     "嬢":{
         "page":"448",
         "meaning":"YOUNG LADY",
-        "id":"1663"
+        "id":"1663",
+        "mnemonic":""
     },
     "醸":{
         "page":"448",
         "meaning":"BREW",
-        "id":"1664"
+        "id":"1664",
+        "mnemonic":""
     },
     "壌":{
         "page":"449",
         "meaning":"ARABLE SOIL",
-        "id":"1665"
+        "id":"1665",
+        "mnemonic":""
     },
     "壊":{
         "page":"449",
         "meaning":"BREAK DOWN",
-        "id":"1666"
+        "id":"1666",
+        "mnemonic":""
     },
     "懐":{
         "page":"449",
         "meaning":"BOSOM, LONG FOR",
-        "id":"1667"
+        "id":"1667",
+        "mnemonic":""
     },
     "徳":{
         "page":"449",
         "meaning":"VIRTUE",
-        "id":"1668"
+        "id":"1668",
+        "mnemonic":""
     },
     "聴":{
         "page":"450",
         "meaning":"LISTEN",
-        "id":"1669"
+        "id":"1669",
+        "mnemonic":""
     },
     "恥":{
         "page":"450",
         "meaning":"SHAME",
-        "id":"1670"
+        "id":"1670",
+        "mnemonic":""
     },
     "羞":{
         "page":"450",
         "meaning":"SHAME",
-        "id":"1671"
+        "id":"1671",
+        "mnemonic":""
     },
     "爵":{
         "page":"450",
         "meaning":"RANK OF NOBILITY",
-        "id":"1672"
+        "id":"1672",
+        "mnemonic":""
     },
     "侯":{
         "page":"451",
         "meaning":"FEUDAL LORD",
-        "id":"1673"
+        "id":"1673",
+        "mnemonic":""
     },
     "喉":{
         "page":"451",
         "meaning":"THROAT",
-        "id":"1674"
+        "id":"1674",
+        "mnemonic":""
     },
     "候":{
         "page":"451",
         "meaning":"SEASON, SEASONAL WEATHER",
-        "id":"1675"
+        "id":"1675",
+        "mnemonic":""
     },
     "修":{
         "page":"451",
         "meaning":"CULTIVATE, REPAIR",
-        "id":"1676"
+        "id":"1676",
+        "mnemonic":""
     },
     "悠":{
         "page":"452",
         "meaning":"LEISURELY",
-        "id":"1677"
+        "id":"1677",
+        "mnemonic":""
     },
     "是":{
         "page":"452",
         "meaning":"RIGHT",
-        "id":"1678"
+        "id":"1678",
+        "mnemonic":""
     },
     "提":{
         "page":"452",
         "meaning":"PRESENT, CARRY IN HAND",
-        "id":"1679"
+        "id":"1679",
+        "mnemonic":""
     },
     "堤":{
         "page":"452",
         "meaning":"EMBANKMENT",
-        "id":"1680"
+        "id":"1680",
+        "mnemonic":""
     },
     "題":{
         "page":"453",
         "meaning":"HEADING, TOPIC, PROBLEM",
-        "id":"1681"
+        "id":"1681",
+        "mnemonic":""
     },
     "匙":{
         "page":"453",
         "meaning":"SPOON",
-        "id":"1682"
+        "id":"1682",
+        "mnemonic":""
     },
     "冒":{
         "page":"453",
         "meaning":"RISK",
-        "id":"1683"
+        "id":"1683",
+        "mnemonic":""
     },
     "昌":{
         "page":"453",
         "meaning":"CLEAR",
-        "id":"1684"
+        "id":"1684",
+        "mnemonic":""
     },
     "唱":{
         "page":"454",
         "meaning":"SING",
-        "id":"1685"
+        "id":"1685",
+        "mnemonic":""
     },
     "晶":{
         "page":"454",
         "meaning":"CRYSTAL",
-        "id":"1686"
+        "id":"1686",
+        "mnemonic":""
     },
     "帽":{
         "page":"454",
         "meaning":"HEADGEAR",
-        "id":"1687"
+        "id":"1687",
+        "mnemonic":""
     },
     "棟":{
         "page":"454",
         "meaning":"BUILDING",
-        "id":"1688"
+        "id":"1688",
+        "mnemonic":""
     },
     "凍":{
         "page":"455",
         "meaning":"FREEZE",
-        "id":"1689"
+        "id":"1689",
+        "mnemonic":""
     },
     "氷":{
         "page":"455",
         "meaning":"ICE",
-        "id":"1690"
+        "id":"1690",
+        "mnemonic":""
     },
     "永":{
         "page":"455",
         "meaning":"ETERNAL",
-        "id":"1691"
+        "id":"1691",
+        "mnemonic":""
     },
     "泳":{
         "page":"455",
         "meaning":"SWIM",
-        "id":"1692"
+        "id":"1692",
+        "mnemonic":""
     },
     "詠":{
         "page":"456",
         "meaning":"RECITE POETRY",
-        "id":"1693"
+        "id":"1693",
+        "mnemonic":""
     },
     "札":{
         "page":"456",
         "meaning":"TAG",
-        "id":"1694"
+        "id":"1694",
+        "mnemonic":""
     },
     "枚":{
         "page":"456",
         "meaning":"COUNTER FOR FLAT THINGS",
-        "id":"1695"
+        "id":"1695",
+        "mnemonic":""
     },
     "杯":{
         "page":"456",
         "meaning":"CUP",
-        "id":"1696"
+        "id":"1696",
+        "mnemonic":""
     },
     "析":{
         "page":"457",
         "meaning":"ANALYZE",
-        "id":"1697"
+        "id":"1697",
+        "mnemonic":""
     },
     "折":{
         "page":"457",
         "meaning":"BREAK (OFF), FOLD",
-        "id":"1698"
+        "id":"1698",
+        "mnemonic":""
     },
     "挫":{
         "page":"457",
         "meaning":"BREAK",
-        "id":"1699"
+        "id":"1699",
+        "mnemonic":""
     },
     "捻":{
         "page":"457",
         "meaning":"TWIST",
-        "id":"1700"
+        "id":"1700",
+        "mnemonic":""
     },
     "誓":{
         "page":"458",
         "meaning":"SWEAR",
-        "id":"1701"
+        "id":"1701",
+        "mnemonic":""
     },
     "逝":{
         "page":"458",
         "meaning":"DEPART THIS LIFE",
-        "id":"1702"
+        "id":"1702",
+        "mnemonic":""
     },
     "哲":{
         "page":"458",
         "meaning":"WISE, PHILOSOPHY",
-        "id":"1703"
+        "id":"1703",
+        "mnemonic":""
     },
     "斬":{
         "page":"458",
         "meaning":"KILL",
-        "id":"1704"
+        "id":"1704",
+        "mnemonic":""
     },
     "漸":{
         "page":"459",
         "meaning":"GRADUALLY",
-        "id":"1705"
+        "id":"1705",
+        "mnemonic":""
     },
     "暫":{
         "page":"459",
         "meaning":"SHORT WHILE",
-        "id":"1706"
+        "id":"1706",
+        "mnemonic":""
     },
     "斥":{
         "page":"459",
         "meaning":"REJECT",
-        "id":"1707"
+        "id":"1707",
+        "mnemonic":""
     },
     "訴":{
         "page":"459",
         "meaning":"APPEAL TO, SUE",
-        "id":"1708"
+        "id":"1708",
+        "mnemonic":""
     },
     "訟":{
         "page":"460",
         "meaning":"LITIGATE",
-        "id":"1709"
+        "id":"1709",
+        "mnemonic":""
     },
     "究":{
         "page":"460",
         "meaning":"STUDY EXHAUSTIVELY",
-        "id":"1710"
+        "id":"1710",
+        "mnemonic":""
     },
     "窮":{
         "page":"460",
         "meaning":"BE IN EXTREMITY",
-        "id":"1711"
+        "id":"1711",
+        "mnemonic":""
     },
     "極":{
         "page":"460",
         "meaning":"EXTREME, POLE",
-        "id":"1712"
+        "id":"1712",
+        "mnemonic":""
     },
     "函":{
         "page":"461",
         "meaning":"BOX",
-        "id":"1713"
+        "id":"1713",
+        "mnemonic":""
     },
     "探":{
         "page":"461",
         "meaning":"PROBE, LOOK FOR",
-        "id":"1714"
+        "id":"1714",
+        "mnemonic":""
     },
     "深":{
         "page":"461",
         "meaning":"DEEP",
-        "id":"1715"
+        "id":"1715",
+        "mnemonic":""
     },
     "慄":{
         "page":"461",
         "meaning":"TREMBLE",
-        "id":"1716"
+        "id":"1716",
+        "mnemonic":""
     },
     "惧":{
         "page":"462",
         "meaning":"FEAR",
-        "id":"1717"
+        "id":"1717",
+        "mnemonic":""
     },
     "慎":{
         "page":"462",
         "meaning":"PRUDENT",
-        "id":"1718"
+        "id":"1718",
+        "mnemonic":""
     },
     "鎮":{
         "page":"462",
         "meaning":"QUELL",
-        "id":"1719"
+        "id":"1719",
+        "mnemonic":""
     },
     "塡":{
         "page":"462",
         "meaning":"FILL (IN)",
-        "id":"1720"
+        "id":"1720",
+        "mnemonic":""
     },
     "婚":{
         "page":"463",
         "meaning":"MARRY",
-        "id":"1721"
+        "id":"1721",
+        "mnemonic":""
     },
     "囚":{
         "page":"463",
         "meaning":"PRISONER",
-        "id":"1722"
+        "id":"1722",
+        "mnemonic":""
     },
     "困":{
         "page":"463",
         "meaning":"BE IN TROUBLE",
-        "id":"1723"
+        "id":"1723",
+        "mnemonic":""
     },
     "梱":{
         "page":"463",
         "meaning":"PACKAGE",
-        "id":"1724"
+        "id":"1724",
+        "mnemonic":""
     },
     "因":{
         "page":"464",
         "meaning":"CAUSE",
-        "id":"1725"
+        "id":"1725",
+        "mnemonic":""
     },
     "姻":{
         "page":"464",
         "meaning":"MARRIAGE",
-        "id":"1726"
+        "id":"1726",
+        "mnemonic":""
     },
     "咽":{
         "page":"464",
         "meaning":"THROAT",
-        "id":"1727"
+        "id":"1727",
+        "mnemonic":""
     },
     "恩":{
         "page":"464",
         "meaning":"GRACE, DEBT OF GRATITUDE",
-        "id":"1728"
+        "id":"1728",
+        "mnemonic":""
     },
     "菌":{
         "page":"465",
         "meaning":"BACTERIA",
-        "id":"1729"
+        "id":"1729",
+        "mnemonic":""
     },
     "漢":{
         "page":"465",
         "meaning":"CHINESE HAN DYNASTY, FELLOW",
-        "id":"1730"
+        "id":"1730",
+        "mnemonic":""
     },
     "嘆":{
         "page":"465",
         "meaning":"SIGH",
-        "id":"1731"
+        "id":"1731",
+        "mnemonic":""
     },
     "勤":{
         "page":"465",
         "meaning":"SERVICE",
-        "id":"1732"
+        "id":"1732",
+        "mnemonic":""
     },
     "謹":{
         "page":"466",
         "meaning":"RESPECTFULLY",
-        "id":"1733"
+        "id":"1733",
+        "mnemonic":""
     },
     "僅":{
         "page":"466",
         "meaning":"A FEW",
-        "id":"1734"
+        "id":"1734",
+        "mnemonic":""
     },
     "索":{
         "page":"466",
         "meaning":"SEARCH FOR",
-        "id":"1735"
+        "id":"1735",
+        "mnemonic":""
     },
     "牽":{
         "page":"466",
         "meaning":"PULL",
-        "id":"1736"
+        "id":"1736",
+        "mnemonic":""
     },
     "牢":{
         "page":"467",
         "meaning":"PRISON, HARDNESS",
-        "id":"1737"
+        "id":"1737",
+        "mnemonic":""
     },
     "啓":{
         "page":"467",
         "meaning":"ENLIGHTEN, ADDRESS RESPECTFULLY",
-        "id":"1738"
+        "id":"1738",
+        "mnemonic":""
     },
     "庶":{
         "page":"467",
         "meaning":"MANIFOLD",
-        "id":"1739"
+        "id":"1739",
+        "mnemonic":""
     },
     "遮":{
         "page":"467",
         "meaning":"INTERRUPT",
-        "id":"1740"
+        "id":"1740",
+        "mnemonic":""
     },
     "燕":{
         "page":"468",
         "meaning":"SWALLOW",
-        "id":"1741"
+        "id":"1741",
+        "mnemonic":""
     },
     "雀":{
         "page":"468",
         "meaning":"SPARROW, MAHJONG",
-        "id":"1742"
+        "id":"1742",
+        "mnemonic":""
     },
     "劣":{
         "page":"468",
         "meaning":"INFERIOR",
-        "id":"1743"
+        "id":"1743",
+        "mnemonic":""
     },
     "抄":{
         "page":"468",
         "meaning":"EXCERPT",
-        "id":"1744"
+        "id":"1744",
+        "mnemonic":""
     },
     "秒":{
         "page":"469",
         "meaning":"SECOND",
-        "id":"1745"
+        "id":"1745",
+        "mnemonic":""
     },
     "妙":{
         "page":"469",
         "meaning":"MARVELOUS",
-        "id":"1746"
+        "id":"1746",
+        "mnemonic":""
     },
     "沙":{
         "page":"469",
         "meaning":"SAND",
-        "id":"1747"
+        "id":"1747",
+        "mnemonic":""
     },
     "汰":{
         "page":"469",
         "meaning":"SIFT OUT",
-        "id":"1748"
+        "id":"1748",
+        "mnemonic":""
     },
     "煎":{
         "page":"470",
         "meaning":"BOIL",
-        "id":"1749"
+        "id":"1749",
+        "mnemonic":""
     },
     "炒":{
         "page":"470",
         "meaning":"ROAST",
-        "id":"1750"
+        "id":"1750",
+        "mnemonic":""
     },
     "炊":{
         "page":"470",
         "meaning":"COOK",
-        "id":"1751"
+        "id":"1751",
+        "mnemonic":""
     },
     "焚":{
         "page":"470",
         "meaning":"KINDLE",
-        "id":"1752"
+        "id":"1752",
+        "mnemonic":""
     },
     "薪":{
         "page":"471",
         "meaning":"FIREWOOD",
-        "id":"1753"
+        "id":"1753",
+        "mnemonic":""
     },
     "乃":{
         "page":"471",
         "meaning":"POSSESSIVE PARTICLE",
-        "id":"1754"
+        "id":"1754",
+        "mnemonic":""
     },
     "之":{
         "page":"471",
         "meaning":"POSSESSIVE PARTICLE",
-        "id":"1755"
+        "id":"1755",
+        "mnemonic":""
     },
     "此":{
         "page":"471",
         "meaning":"THIS",
-        "id":"1756"
+        "id":"1756",
+        "mnemonic":""
     },
     "其":{
         "page":"472",
         "meaning":"THAT",
-        "id":"1757"
+        "id":"1757",
+        "mnemonic":""
     },
     "乏":{
         "page":"472",
         "meaning":"SCANTY",
-        "id":"1758"
+        "id":"1758",
+        "mnemonic":""
     },
     "芝":{
         "page":"472",
         "meaning":"LAWN GRASS",
-        "id":"1759"
+        "id":"1759",
+        "mnemonic":""
     },
     "及":{
         "page":"472",
         "meaning":"REACH TO",
-        "id":"1760"
+        "id":"1760",
+        "mnemonic":""
     },
     "扱":{
         "page":"473",
         "meaning":"HANDLE",
-        "id":"1761"
+        "id":"1761",
+        "mnemonic":""
     },
     "級":{
         "page":"473",
         "meaning":"GRADE",
-        "id":"1762"
+        "id":"1762",
+        "mnemonic":""
     },
     "吸":{
         "page":"473",
         "meaning":"SUCK, BREATHE IN",
-        "id":"1763"
+        "id":"1763",
+        "mnemonic":""
     },
     "吹":{
         "page":"473",
         "meaning":"BLOW",
-        "id":"1764"
+        "id":"1764",
+        "mnemonic":""
     },
     "呼":{
         "page":"474",
         "meaning":"CALL",
-        "id":"1765"
+        "id":"1765",
+        "mnemonic":""
     },
     "吐":{
         "page":"474",
         "meaning":"SPEW",
-        "id":"1766"
+        "id":"1766",
+        "mnemonic":""
     },
     "叶":{
         "page":"474",
         "meaning":"BE FULFILLED",
-        "id":"1767"
+        "id":"1767",
+        "mnemonic":""
     },
     "叱":{
         "page":"474",
         "meaning":"SCOLD",
-        "id":"1768"
+        "id":"1768",
+        "mnemonic":""
     },
     "叫":{
         "page":"475",
         "meaning":"SHOUT",
-        "id":"1769"
+        "id":"1769",
+        "mnemonic":""
     },
     "吟":{
         "page":"475",
         "meaning":"RECITE",
-        "id":"1770"
+        "id":"1770",
+        "mnemonic":""
     },
     "含":{
         "page":"475",
         "meaning":"CONTAIN",
-        "id":"1771"
+        "id":"1771",
+        "mnemonic":""
     },
     "琴":{
         "page":"475",
         "meaning":"KOTO (japanese zither)",
-        "id":"1772"
+        "id":"1772",
+        "mnemonic":""
     },
     "迷":{
         "page":"476",
         "meaning":"PERPLEXED",
-        "id":"1773"
+        "id":"1773",
+        "mnemonic":""
     },
     "謎":{
         "page":"476",
         "meaning":"RIDDLE",
-        "id":"1774"
+        "id":"1774",
+        "mnemonic":""
     },
     "逆":{
         "page":"476",
         "meaning":"REVERSE",
-        "id":"1775"
+        "id":"1775",
+        "mnemonic":""
     },
     "遡":{
         "page":"476",
         "meaning":"GO BACK IN TIME",
-        "id":"1776"
+        "id":"1776",
+        "mnemonic":""
     },
     "塑":{
         "page":"477",
         "meaning":"MODEL",
-        "id":"1777"
+        "id":"1777",
+        "mnemonic":""
     },
     "勲":{
         "page":"477",
         "meaning":"MERITORIOUS SERVICE",
-        "id":"1778"
+        "id":"1778",
+        "mnemonic":""
     },
     "薫":{
         "page":"477",
         "meaning":"BALMY",
-        "id":"1779"
+        "id":"1779",
+        "mnemonic":""
     },
     "芳":{
         "page":"477",
         "meaning":"FRAGRANT",
-        "id":"1780"
+        "id":"1780",
+        "mnemonic":""
     },
     "香":{
         "page":"478",
         "meaning":"SWEET SMELL",
-        "id":"1781"
+        "id":"1781",
+        "mnemonic":""
     },
     "秀":{
         "page":"478",
         "meaning":"EXCELLENT",
-        "id":"1782"
+        "id":"1782",
+        "mnemonic":""
     },
     "誘":{
         "page":"478",
         "meaning":"INDUCE",
-        "id":"1783"
+        "id":"1783",
+        "mnemonic":""
     },
     "拐":{
         "page":"478",
         "meaning":"KIDNAP",
-        "id":"1784"
+        "id":"1784",
+        "mnemonic":""
     },
     "透":{
         "page":"479",
         "meaning":"PASS THROUGH, SEE THROUGH",
-        "id":"1785"
+        "id":"1785",
+        "mnemonic":""
     },
     "携":{
         "page":"479",
         "meaning":"CARRY IN HAND",
-        "id":"1786"
+        "id":"1786",
+        "mnemonic":""
     },
     "雄":{
         "page":"479",
         "meaning":"MALE, HEROIC",
-        "id":"1787"
+        "id":"1787",
+        "mnemonic":""
     },
     "雌":{
         "page":"479",
         "meaning":"FEMALE",
-        "id":"1788"
+        "id":"1788",
+        "mnemonic":""
     },
     "些":{
         "page":"480",
         "meaning":"A LITTLE BIT",
-        "id":"1789"
+        "id":"1789",
+        "mnemonic":""
     },
     "柴":{
         "page":"480",
         "meaning":"BRUSHWOOD",
-        "id":"1790"
+        "id":"1790",
+        "mnemonic":""
     },
     "紫":{
         "page":"480",
         "meaning":"PURPLE",
-        "id":"1791"
+        "id":"1791",
+        "mnemonic":""
     },
     "髪":{
         "page":"480",
         "meaning":"HAIR",
-        "id":"1792"
+        "id":"1792",
+        "mnemonic":""
     },
     "髭":{
         "page":"481",
         "meaning":"BEARD",
-        "id":"1793"
+        "id":"1793",
+        "mnemonic":""
     },
     "詐":{
         "page":"481",
         "meaning":"SWINDLE",
-        "id":"1794"
+        "id":"1794",
+        "mnemonic":""
     },
     "欺":{
         "page":"481",
         "meaning":"DECEIVE",
-        "id":"1795"
+        "id":"1795",
+        "mnemonic":""
     },
     "棋":{
         "page":"481",
         "meaning":"SHOGI (japanese chess)",
-        "id":"1796"
+        "id":"1796",
+        "mnemonic":""
     },
     "碁":{
         "page":"482",
         "meaning":"GO (japanese checkers)",
-        "id":"1797"
+        "id":"1797",
+        "mnemonic":""
     },
     "甚":{
         "page":"482",
         "meaning":"EXTREMELY",
-        "id":"1798"
+        "id":"1798",
+        "mnemonic":""
     },
     "勘":{
         "page":"482",
         "meaning":"CHECK, INTUITIVE PERCEPTION",
-        "id":"1799"
+        "id":"1799",
+        "mnemonic":""
     },
     "堪":{
         "page":"482",
         "meaning":"ENDURE",
-        "id":"1800"
+        "id":"1800",
+        "mnemonic":""
     },
     "匹":{
         "page":"483",
         "meaning":"COUNTER FOR ANIMALS",
-        "id":"1801"
+        "id":"1801",
+        "mnemonic":""
     },
     "匠":{
         "page":"483",
         "meaning":"CRAFTSMAN",
-        "id":"1802"
+        "id":"1802",
+        "mnemonic":""
     },
     "匿":{
         "page":"483",
         "meaning":"CONCEAL",
-        "id":"1803"
+        "id":"1803",
+        "mnemonic":""
     },
     "諾":{
         "page":"483",
         "meaning":"CONSENT",
-        "id":"1804"
+        "id":"1804",
+        "mnemonic":""
     },
     "乞":{
         "page":"484",
         "meaning":"BEG",
-        "id":"1805"
+        "id":"1805",
+        "mnemonic":""
     },
     "迄":{
         "page":"484",
         "meaning":"UP TO",
-        "id":"1806"
+        "id":"1806",
+        "mnemonic":""
     },
     "乾":{
         "page":"484",
         "meaning":"DRY",
-        "id":"1807"
+        "id":"1807",
+        "mnemonic":""
     },
     "幹":{
         "page":"484",
         "meaning":"TRUNK",
-        "id":"1808"
+        "id":"1808",
+        "mnemonic":""
     },
     "操":{
         "page":"485",
         "meaning":"MANIPULATE, FIDELITY",
-        "id":"1809"
+        "id":"1809",
+        "mnemonic":""
     },
     "燥":{
         "page":"485",
         "meaning":"DRY OUT",
-        "id":"1810"
+        "id":"1810",
+        "mnemonic":""
     },
     "繰":{
         "page":"485",
         "meaning":"REEL, SHIFT ONWARD",
-        "id":"1811"
+        "id":"1811",
+        "mnemonic":""
     },
     "藻":{
         "page":"485",
         "meaning":"SEAWEED",
-        "id":"1812"
+        "id":"1812",
+        "mnemonic":""
     },
     "噴":{
         "page":"486",
         "meaning":"SPOUT",
-        "id":"1813"
+        "id":"1813",
+        "mnemonic":""
     },
     "墳":{
         "page":"486",
         "meaning":"TUMULUS",
-        "id":"1814"
+        "id":"1814",
+        "mnemonic":""
     },
     "憤":{
         "page":"486",
         "meaning":"INDIGNATION",
-        "id":"1815"
+        "id":"1815",
+        "mnemonic":""
     },
     "牙":{
         "page":"486",
         "meaning":"FANG",
-        "id":"1816"
+        "id":"1816",
+        "mnemonic":""
     },
     "芽":{
         "page":"487",
         "meaning":"BUD",
-        "id":"1817"
+        "id":"1817",
+        "mnemonic":""
     },
     "雅":{
         "page":"487",
         "meaning":"ELEGANT",
-        "id":"1818"
+        "id":"1818",
+        "mnemonic":""
     },
     "邪":{
         "page":"487",
         "meaning":"EVIL",
-        "id":"1819"
+        "id":"1819",
+        "mnemonic":""
     },
     "既":{
         "page":"487",
         "meaning":"ALREADY",
-        "id":"1820"
+        "id":"1820",
+        "mnemonic":""
     },
     "概":{
         "page":"488",
         "meaning":"GENERAL",
-        "id":"1821"
+        "id":"1821",
+        "mnemonic":""
     },
     "慨":{
         "page":"488",
         "meaning":"DEPLORE",
-        "id":"1822"
+        "id":"1822",
+        "mnemonic":""
     },
     "苗":{
         "page":"488",
         "meaning":"SEEDLING",
-        "id":"1823"
+        "id":"1823",
+        "mnemonic":""
     },
     "描":{
         "page":"488",
         "meaning":"DEPICT",
-        "id":"1824"
+        "id":"1824",
+        "mnemonic":""
     },
     "猫":{
         "page":"489",
         "meaning":"CAT",
-        "id":"1825"
+        "id":"1825",
+        "mnemonic":""
     },
     "萌":{
         "page":"489",
         "meaning":"GERMINATE",
-        "id":"1826"
+        "id":"1826",
+        "mnemonic":""
     },
     "兆":{
         "page":"489",
         "meaning":"SIGN, TRILLION",
-        "id":"1827"
+        "id":"1827",
+        "mnemonic":""
     },
     "眺":{
         "page":"489",
         "meaning":"GAZE",
-        "id":"1828"
+        "id":"1828",
+        "mnemonic":""
     },
     "逃":{
         "page":"490",
         "meaning":"ESCAPE",
-        "id":"1829"
+        "id":"1829",
+        "mnemonic":""
     },
     "桃":{
         "page":"490",
         "meaning":"PEACH",
-        "id":"1830"
+        "id":"1830",
+        "mnemonic":""
     },
     "跳":{
         "page":"490",
         "meaning":"JUMP",
-        "id":"1831"
+        "id":"1831",
+        "mnemonic":""
     },
     "挑":{
         "page":"490",
         "meaning":"PROVOKE",
-        "id":"1832"
+        "id":"1832",
+        "mnemonic":""
     },
     "拙":{
         "page":"491",
         "meaning":"CLUMSY",
-        "id":"1833"
+        "id":"1833",
+        "mnemonic":""
     },
     "屈":{
         "page":"491",
         "meaning":"BEND",
-        "id":"1834"
+        "id":"1834",
+        "mnemonic":""
     },
     "掘":{
         "page":"491",
         "meaning":"DIG",
-        "id":"1835"
+        "id":"1835",
+        "mnemonic":""
     },
     "堀":{
         "page":"491",
         "meaning":"DITCH",
-        "id":"1836"
+        "id":"1836",
+        "mnemonic":""
     },
     "封":{
         "page":"492",
         "meaning":"SEAL, ENFEOFF",
-        "id":"1837"
+        "id":"1837",
+        "mnemonic":""
     },
     "筒":{
         "page":"492",
         "meaning":"TUBE",
-        "id":"1838"
+        "id":"1838",
+        "mnemonic":""
     },
     "管":{
         "page":"492",
         "meaning":"PIPE, EXERCISE CONTROL",
-        "id":"1839"
+        "id":"1839",
+        "mnemonic":""
     },
     "棺":{
         "page":"492",
         "meaning":"COFFIN",
-        "id":"1840"
+        "id":"1840",
+        "mnemonic":""
     },
     "轄":{
         "page":"493",
         "meaning":"EXERCISE JURISDICTION OVER",
-        "id":"1841"
+        "id":"1841",
+        "mnemonic":""
     },
     "洞":{
         "page":"493",
         "meaning":"CAVE",
-        "id":"1842"
+        "id":"1842",
+        "mnemonic":""
     },
     "窟":{
         "page":"493",
         "meaning":"CAVE",
-        "id":"1843"
+        "id":"1843",
+        "mnemonic":""
     },
     "淫":{
         "page":"493",
         "meaning":"LEWD",
-        "id":"1844"
+        "id":"1844",
+        "mnemonic":""
     },
     "妊":{
         "page":"494",
         "meaning":"BECOME PREGNANT",
-        "id":"1845"
+        "id":"1845",
+        "mnemonic":""
     },
     "娠":{
         "page":"494",
         "meaning":"CONCEIVE",
-        "id":"1846"
+        "id":"1846",
+        "mnemonic":""
     },
     "唇":{
         "page":"494",
         "meaning":"LIP",
-        "id":"1847"
+        "id":"1847",
+        "mnemonic":""
     },
     "辱":{
         "page":"494",
         "meaning":"HUMILIATE",
-        "id":"1848"
+        "id":"1848",
+        "mnemonic":""
     },
     "襲":{
         "page":"495",
         "meaning":"RAID, INHERIT",
-        "id":"1849"
+        "id":"1849",
+        "mnemonic":""
     },
     "伏":{
         "page":"495",
         "meaning":"PROSTRATE",
-        "id":"1850"
+        "id":"1850",
+        "mnemonic":""
     },
     "吠":{
         "page":"495",
         "meaning":"HOWL",
-        "id":"1851"
+        "id":"1851",
+        "mnemonic":""
     },
     "噛":{
         "page":"495",
         "meaning":"BITE",
-        "id":"1852"
+        "id":"1852",
+        "mnemonic":""
     },
     "班":{
         "page":"496",
         "meaning":"SQUAD",
-        "id":"1853"
+        "id":"1853",
+        "mnemonic":""
     },
     "斑":{
         "page":"496",
         "meaning":"SPOT",
-        "id":"1854"
+        "id":"1854",
+        "mnemonic":""
     },
     "輩":{
         "page":"496",
         "meaning":"FELLOW",
-        "id":"1855"
+        "id":"1855",
+        "mnemonic":""
     },
     "悲":{
         "page":"496",
         "meaning":"SAD",
-        "id":"1856"
+        "id":"1856",
+        "mnemonic":""
     },
     "忽":{
         "page":"497",
         "meaning":"SUDDENLY, CARELESS",
-        "id":"1857"
+        "id":"1857",
+        "mnemonic":""
     },
     "惚":{
         "page":"497",
         "meaning":"FALL IN LOVE WITH",
-        "id":"1858"
+        "id":"1858",
+        "mnemonic":""
     },
     "猿":{
         "page":"497",
         "meaning":"MONKEY",
-        "id":"1859"
+        "id":"1859",
+        "mnemonic":""
     },
     "哀":{
         "page":"497",
         "meaning":"SORROW, PITY",
-        "id":"1860"
+        "id":"1860",
+        "mnemonic":""
     },
     "衰":{
         "page":"498",
         "meaning":"DECLINE",
-        "id":"1861"
+        "id":"1861",
+        "mnemonic":""
     },
     "衷":{
         "page":"498",
         "meaning":"INNER HEART",
-        "id":"1862"
+        "id":"1862",
+        "mnemonic":""
     },
     "喪":{
         "page":"498",
         "meaning":"MOURNING, LOSS",
-        "id":"1863"
+        "id":"1863",
+        "mnemonic":""
     },
     "忌":{
         "page":"498",
         "meaning":"MOURNING, ABHOR",
-        "id":"1864"
+        "id":"1864",
+        "mnemonic":""
     },
     "卓":{
         "page":"499",
         "meaning":"TABLE, PROMINENT",
-        "id":"1865"
+        "id":"1865",
+        "mnemonic":""
     },
     "悼":{
         "page":"499",
         "meaning":"MOURN",
-        "id":"1866"
+        "id":"1866",
+        "mnemonic":""
     },
     "貞":{
         "page":"499",
         "meaning":"CHASTE",
-        "id":"1867"
+        "id":"1867",
+        "mnemonic":""
     },
     "偵":{
         "page":"499",
         "meaning":"SPY",
-        "id":"1868"
+        "id":"1868",
+        "mnemonic":""
     },
     "覇":{
         "page":"500",
         "meaning":"SUPREMACY",
-        "id":"1869"
+        "id":"1869",
+        "mnemonic":""
     },
     "覆":{
         "page":"500",
         "meaning":"COVER, OVERTURN",
-        "id":"1870"
+        "id":"1870",
+        "mnemonic":""
     },
     "履":{
         "page":"500",
         "meaning":"FULFILL, PUT ON FOOTWEAR",
-        "id":"1871"
+        "id":"1871",
+        "mnemonic":""
     },
     "属":{
         "page":"500",
         "meaning":"BELONG TO",
-        "id":"1872"
+        "id":"1872",
+        "mnemonic":""
     },
     "嘱":{
         "page":"501",
         "meaning":"CHARGE WITH",
-        "id":"1873"
+        "id":"1873",
+        "mnemonic":""
     },
     "偶":{
         "page":"501",
         "meaning":"BY CHANCE, COUPLE",
-        "id":"1874"
+        "id":"1874",
+        "mnemonic":""
     },
     "隅":{
         "page":"501",
         "meaning":"NOOK",
-        "id":"1875"
+        "id":"1875",
+        "mnemonic":""
     },
     "隙":{
         "page":"501",
         "meaning":"CREVICE",
-        "id":"1876"
+        "id":"1876",
+        "mnemonic":""
     },
     "遇":{
         "page":"502",
         "meaning":"TREAT, ENCOUNTER",
-        "id":"1877"
+        "id":"1877",
+        "mnemonic":""
     },
     "愚":{
         "page":"502",
         "meaning":"FOOLISH",
-        "id":"1878"
+        "id":"1878",
+        "mnemonic":""
     },
     "曹":{
         "page":"502",
         "meaning":"SERGEANT",
-        "id":"1879"
+        "id":"1879",
+        "mnemonic":""
     },
     "遭":{
         "page":"502",
         "meaning":"MEET WITH",
-        "id":"1880"
+        "id":"1880",
+        "mnemonic":""
     },
     "槽":{
         "page":"503",
         "meaning":"TUB",
-        "id":"1881"
+        "id":"1881",
+        "mnemonic":""
     },
     "妨":{
         "page":"503",
         "meaning":"HINDER",
-        "id":"1882"
+        "id":"1882",
+        "mnemonic":""
     },
     "坊":{
         "page":"503",
         "meaning":"SONNY BOY, COLLOQUIAL PERSON SUFFIX",
-        "id":"1883"
+        "id":"1883",
+        "mnemonic":""
     },
     "傍":{
         "page":"503",
         "meaning":"BESIDE",
-        "id":"1884"
+        "id":"1884",
+        "mnemonic":""
     },
     "於":{
         "page":"504",
         "meaning":"AT",
-        "id":"1885"
+        "id":"1885",
+        "mnemonic":""
     },
     "房":{
         "page":"504",
         "meaning":"CHAMBER, TUFT",
-        "id":"1886"
+        "id":"1886",
+        "mnemonic":""
     },
     "扇":{
         "page":"504",
         "meaning":"FAN",
-        "id":"1887"
+        "id":"1887",
+        "mnemonic":""
     },
     "扉":{
         "page":"504",
         "meaning":"HINGED DOOR",
-        "id":"1888"
+        "id":"1888",
+        "mnemonic":""
     },
     "雇":{
         "page":"505",
         "meaning":"EMPLOY",
-        "id":"1889"
+        "id":"1889",
+        "mnemonic":""
     },
     "顧":{
         "page":"505",
         "meaning":"LOOK BACK ON",
-        "id":"1890"
+        "id":"1890",
+        "mnemonic":""
     },
     "屑":{
         "page":"505",
         "meaning":"SCRAPS",
-        "id":"1891"
+        "id":"1891",
+        "mnemonic":""
     },
     "糞":{
         "page":"505",
         "meaning":"DROPPINGS",
-        "id":"1892"
+        "id":"1892",
+        "mnemonic":""
     },
     "尿":{
         "page":"506",
         "meaning":"URINE",
-        "id":"1893"
+        "id":"1893",
+        "mnemonic":""
     },
     "泌":{
         "page":"506",
         "meaning":"SECRETE",
-        "id":"1894"
+        "id":"1894",
+        "mnemonic":""
     },
     "尻":{
         "page":"506",
         "meaning":"BUTTOCKS",
-        "id":"1895"
+        "id":"1895",
+        "mnemonic":""
     },
     "炉":{
         "page":"506",
         "meaning":"FURNACE",
-        "id":"1896"
+        "id":"1896",
+        "mnemonic":""
     },
     "窯":{
         "page":"507",
         "meaning":"KILN",
-        "id":"1897"
+        "id":"1897",
+        "mnemonic":""
     },
     "釜":{
         "page":"507",
         "meaning":"IRON POT",
-        "id":"1898"
+        "id":"1898",
+        "mnemonic":""
     },
     "爺":{
         "page":"507",
         "meaning":"OLD MAN",
-        "id":"1899"
+        "id":"1899",
+        "mnemonic":""
     },
     "窪":{
         "page":"507",
         "meaning":"SINK",
-        "id":"1900"
+        "id":"1900",
+        "mnemonic":""
     },
     "佳":{
         "page":"508",
         "meaning":"FINE",
-        "id":"1901"
+        "id":"1901",
+        "mnemonic":""
     },
     "涯":{
         "page":"508",
         "meaning":"FAR END",
-        "id":"1902"
+        "id":"1902",
+        "mnemonic":""
     },
     "暇":{
         "page":"508",
         "meaning":"FREE TIME",
-        "id":"1903"
+        "id":"1903",
+        "mnemonic":""
     },
     "霞":{
         "page":"508",
         "meaning":"MIST",
-        "id":"1904"
+        "id":"1904",
+        "mnemonic":""
     },
     "雰":{
         "page":"509",
         "meaning":"ATMOSPHERE",
-        "id":"1905"
+        "id":"1905",
+        "mnemonic":""
     },
     "霧":{
         "page":"509",
         "meaning":"FOG",
-        "id":"1906"
+        "id":"1906",
+        "mnemonic":""
     },
     "露":{
         "page":"509",
         "meaning":"DEW, EXPOSE",
-        "id":"1907"
+        "id":"1907",
+        "mnemonic":""
     },
     "霜":{
         "page":"509",
         "meaning":"FROST",
-        "id":"1908"
+        "id":"1908",
+        "mnemonic":""
     },
     "箱":{
         "page":"510",
         "meaning":"BOX",
-        "id":"1909"
+        "id":"1909",
+        "mnemonic":""
     },
     "籍":{
         "page":"510",
         "meaning":"REGISTER",
-        "id":"1910"
+        "id":"1910",
+        "mnemonic":""
     },
     "貫":{
         "page":"510",
         "meaning":"PENETRATE",
-        "id":"1911"
+        "id":"1911",
+        "mnemonic":""
     },
     "慣":{
         "page":"510",
         "meaning":"HABITUAL PRACTICE",
-        "id":"1912"
+        "id":"1912",
+        "mnemonic":""
     },
     "頂":{
         "page":"511",
         "meaning":"SUMMIT, RECEIVE HUMBLY",
-        "id":"1913"
+        "id":"1913",
+        "mnemonic":""
     },
     "戴":{
         "page":"511",
         "meaning":"RECEIVE HUMBLY",
-        "id":"1914"
+        "id":"1914",
+        "mnemonic":""
     },
     "項":{
         "page":"511",
         "meaning":"CLAUSE",
-        "id":"1915"
+        "id":"1915",
+        "mnemonic":""
     },
     "頃":{
         "page":"511",
         "meaning":"TIME, ABOUT",
-        "id":"1916"
+        "id":"1916",
+        "mnemonic":""
     },
     "傾":{
         "page":"512",
         "meaning":"INCLINE",
-        "id":"1917"
+        "id":"1917",
+        "mnemonic":""
     },
     "頑":{
         "page":"512",
         "meaning":"STUBBORN",
-        "id":"1918"
+        "id":"1918",
+        "mnemonic":""
     },
     "頒":{
         "page":"512",
         "meaning":"DISTRIBUTE WIDELY",
-        "id":"1919"
+        "id":"1919",
+        "mnemonic":""
     },
     "頓":{
         "page":"512",
         "meaning":"SUDDENLY",
-        "id":"1920"
+        "id":"1920",
+        "mnemonic":""
     },
     "顕":{
         "page":"513",
         "meaning":"MANIFEST",
-        "id":"1921"
+        "id":"1921",
+        "mnemonic":""
     },
     "領":{
         "page":"513",
         "meaning":"DOMINION",
-        "id":"1922"
+        "id":"1922",
+        "mnemonic":""
     },
     "頻":{
         "page":"513",
         "meaning":"REPEATEDLY",
-        "id":"1923"
+        "id":"1923",
+        "mnemonic":""
     },
     "捗":{
         "page":"513",
         "meaning":"MAKE PROGRESS",
-        "id":"1924"
+        "id":"1924",
+        "mnemonic":""
     },
     "順":{
         "page":"514",
         "meaning":"ORDER, OBEY",
-        "id":"1925"
+        "id":"1925",
+        "mnemonic":""
     },
     "馴":{
         "page":"514",
         "meaning":"GET USED TO",
-        "id":"1926"
+        "id":"1926",
+        "mnemonic":""
     },
     "訓":{
         "page":"514",
         "meaning":"INSTRUCT",
-        "id":"1927"
+        "id":"1927",
+        "mnemonic":""
     },
     "須":{
         "page":"514",
         "meaning":"MUST",
-        "id":"1928"
+        "id":"1928",
+        "mnemonic":""
     },
     "額":{
         "page":"515",
         "meaning":"AMOUNT, PICTURE FRAME, FOREHEAD",
-        "id":"1929"
+        "id":"1929",
+        "mnemonic":""
     },
     "頼":{
         "page":"515",
         "meaning":"RELY ON, ASK",
-        "id":"1930"
+        "id":"1930",
+        "mnemonic":""
     },
     "瀬":{
         "page":"515",
         "meaning":"SHALLOWS",
-        "id":"1931"
+        "id":"1931",
+        "mnemonic":""
     },
     "峡":{
         "page":"515",
         "meaning":"GORGE",
-        "id":"1932"
+        "id":"1932",
+        "mnemonic":""
     },
     "狭":{
         "page":"516",
         "meaning":"NARROW",
-        "id":"1933"
+        "id":"1933",
+        "mnemonic":""
     },
     "挟":{
         "page":"516",
         "meaning":"HOLD BETWEEN",
-        "id":"1934"
+        "id":"1934",
+        "mnemonic":""
     },
     "頰":{
         "page":"516",
         "meaning":"CHEEKS",
-        "id":"1935"
+        "id":"1935",
+        "mnemonic":""
     },
     "顎":{
         "page":"516",
         "meaning":"JAW",
-        "id":"1936"
+        "id":"1936",
+        "mnemonic":""
     },
     "煩":{
         "page":"517",
         "meaning":"VEXING",
-        "id":"1937"
+        "id":"1937",
+        "mnemonic":""
     },
     "串":{
         "page":"517",
         "meaning":"SKEWER",
-        "id":"1938"
+        "id":"1938",
+        "mnemonic":""
     },
     "患":{
         "page":"517",
         "meaning":"AFFECTED BY DISEASE",
-        "id":"1939"
+        "id":"1939",
+        "mnemonic":""
     },
     "疾":{
         "page":"517",
         "meaning":"DISEASE, FAST",
-        "id":"1940"
+        "id":"1940",
+        "mnemonic":""
     },
     "痴":{
         "page":"518",
         "meaning":"STUPID, INFATUATED",
-        "id":"1941"
+        "id":"1941",
+        "mnemonic":""
     },
     "疫":{
         "page":"518",
         "meaning":"EPIDEMIC",
-        "id":"1942"
+        "id":"1942",
+        "mnemonic":""
     },
     "痢":{
         "page":"518",
         "meaning":"DIARRHEA",
-        "id":"1943"
+        "id":"1943",
+        "mnemonic":""
     },
     "痘":{
         "page":"518",
         "meaning":"SMALLPOX",
-        "id":"1944"
+        "id":"1944",
+        "mnemonic":""
     },
     "瘍":{
         "page":"519",
         "meaning":"ULCER",
-        "id":"1945"
+        "id":"1945",
+        "mnemonic":""
     },
     "癌":{
         "page":"519",
         "meaning":"CANCER",
-        "id":"1946"
+        "id":"1946",
+        "mnemonic":""
     },
     "痩":{
         "page":"519",
         "meaning":"BECOME THIN",
-        "id":"1947"
+        "id":"1947",
+        "mnemonic":""
     },
     "疲":{
         "page":"519",
         "meaning":"TIRED",
-        "id":"1948"
+        "id":"1948",
+        "mnemonic":""
     },
     "被":{
         "page":"520",
         "meaning":"BE SUBJECTED TO",
-        "id":"1949"
+        "id":"1949",
+        "mnemonic":""
     },
     "披":{
         "page":"520",
         "meaning":"OPEN OUT",
-        "id":"1950"
+        "id":"1950",
+        "mnemonic":""
     },
     "抜":{
         "page":"520",
         "meaning":"PULL OUT, STAND OUT",
-        "id":"1951"
+        "id":"1951",
+        "mnemonic":""
     },
     "控":{
         "page":"520",
         "meaning":"HOLD BACK",
-        "id":"1952"
+        "id":"1952",
+        "mnemonic":""
     },
     "扶":{
         "page":"521",
         "meaning":"LEND SUPPORT TO",
-        "id":"1953"
+        "id":"1953",
+        "mnemonic":""
     },
     "抹":{
         "page":"521",
         "meaning":"WIPE",
-        "id":"1954"
+        "id":"1954",
+        "mnemonic":""
     },
     "拓":{
         "page":"521",
         "meaning":"OPEN UP",
-        "id":"1955"
+        "id":"1955",
+        "mnemonic":""
     },
     "拷":{
         "page":"521",
         "meaning":"TORTURE",
-        "id":"1956"
+        "id":"1956",
+        "mnemonic":""
     },
     "楼":{
         "page":"522",
         "meaning":"TALL BUILDING",
-        "id":"1957"
+        "id":"1957",
+        "mnemonic":""
     },
     "壇":{
         "page":"522",
         "meaning":"PLATFORM",
-        "id":"1958"
+        "id":"1958",
+        "mnemonic":""
     },
     "塔":{
         "page":"522",
         "meaning":"TOWER",
-        "id":"1959"
+        "id":"1959",
+        "mnemonic":""
     },
     "搭":{
         "page":"522",
         "meaning":"LOAD ON BOARD",
-        "id":"1960"
+        "id":"1960",
+        "mnemonic":""
     },
     "寡":{
         "page":"523",
         "meaning":"FEW, WIDOW(ER)",
-        "id":"1961"
+        "id":"1961",
+        "mnemonic":""
     },
     "賓":{
         "page":"523",
         "meaning":"GUEST",
-        "id":"1962"
+        "id":"1962",
+        "mnemonic":""
     },
     "飾":{
         "page":"523",
         "meaning":"DECORATE",
-        "id":"1963"
+        "id":"1963",
+        "mnemonic":""
     },
     "飽":{
         "page":"523",
         "meaning":"SATIATED",
-        "id":"1964"
+        "id":"1964",
+        "mnemonic":""
     },
     "餓":{
         "page":"524",
         "meaning":"STARVE",
-        "id":"1965"
+        "id":"1965",
+        "mnemonic":""
     },
     "飢":{
         "page":"524",
         "meaning":"STARVE",
-        "id":"1966"
+        "id":"1966",
+        "mnemonic":""
     },
     "机":{
         "page":"524",
         "meaning":"DESK",
-        "id":"1967"
+        "id":"1967",
+        "mnemonic":""
     },
     "冗":{
         "page":"524",
         "meaning":"REDUNDANT",
-        "id":"1968"
+        "id":"1968",
+        "mnemonic":""
     },
     "冠":{
         "page":"525",
         "meaning":"CROWN",
-        "id":"1969"
+        "id":"1969",
+        "mnemonic":""
     },
     "離":{
         "page":"525",
         "meaning":"SEPARATE",
-        "id":"1970"
+        "id":"1970",
+        "mnemonic":""
     },
     "胸":{
         "page":"525",
         "meaning":"CHEST",
-        "id":"1971"
+        "id":"1971",
+        "mnemonic":""
     },
     "悩":{
         "page":"525",
         "meaning":"SUFFER",
-        "id":"1972"
+        "id":"1972",
+        "mnemonic":""
     },
     "脳":{
         "page":"526",
         "meaning":"BRAIN",
-        "id":"1973"
+        "id":"1973",
+        "mnemonic":""
     },
     "臓":{
         "page":"526",
         "meaning":"INTERNAL ORGAN",
-        "id":"1974"
+        "id":"1974",
+        "mnemonic":""
     },
     "胃":{
         "page":"526",
         "meaning":"STOMACH",
-        "id":"1975"
+        "id":"1975",
+        "mnemonic":""
     },
     "炎":{
         "page":"526",
         "meaning":"FLAME, INFLAMMATION",
-        "id":"1976"
+        "id":"1976",
+        "mnemonic":""
     },
     "談":{
         "page":"527",
         "meaning":"TALK",
-        "id":"1977"
+        "id":"1977",
+        "mnemonic":""
     },
     "淡":{
         "page":"527",
         "meaning":"LIGHT",
-        "id":"1978"
+        "id":"1978",
+        "mnemonic":""
     },
     "災":{
         "page":"527",
         "meaning":"NATURAL CALAMITY",
-        "id":"1979"
+        "id":"1979",
+        "mnemonic":""
     },
     "肝":{
         "page":"527",
         "meaning":"LIVER",
-        "id":"1980"
+        "id":"1980",
+        "mnemonic":""
     },
     "肺":{
         "page":"528",
         "meaning":"LUNG",
-        "id":"1981"
+        "id":"1981",
+        "mnemonic":""
     },
     "胆":{
         "page":"528",
         "meaning":"GALLBLADDER",
-        "id":"1982"
+        "id":"1982",
+        "mnemonic":""
     },
     "腺":{
         "page":"528",
         "meaning":"GLAND",
-        "id":"1983"
+        "id":"1983",
+        "mnemonic":""
     },
     "胞":{
         "page":"528",
         "meaning":"MEMBRANOUS SAC",
-        "id":"1984"
+        "id":"1984",
+        "mnemonic":""
     },
     "腸":{
         "page":"529",
         "meaning":"INTESTINES",
-        "id":"1985"
+        "id":"1985",
+        "mnemonic":""
     },
     "胎":{
         "page":"529",
         "meaning":"WOMB, FETUS",
-        "id":"1986"
+        "id":"1986",
+        "mnemonic":""
     },
     "腰":{
         "page":"529",
         "meaning":"WAIST",
-        "id":"1987"
+        "id":"1987",
+        "mnemonic":""
     },
     "肘":{
         "page":"529",
         "meaning":"ELBOW",
-        "id":"1988"
+        "id":"1988",
+        "mnemonic":""
     },
     "膝":{
         "page":"530",
         "meaning":"KNEE",
-        "id":"1989"
+        "id":"1989",
+        "mnemonic":""
     },
     "股":{
         "page":"530",
         "meaning":"CROTCH",
-        "id":"1990"
+        "id":"1990",
+        "mnemonic":""
     },
     "肢":{
         "page":"530",
         "meaning":"LIMB",
-        "id":"1991"
+        "id":"1991",
+        "mnemonic":""
     },
     "胴":{
         "page":"530",
         "meaning":"TRUNK",
-        "id":"1992"
+        "id":"1992",
+        "mnemonic":""
     },
     "脇":{
         "page":"531",
         "meaning":"ARMPIT, ASIDE",
-        "id":"1993"
+        "id":"1993",
+        "mnemonic":""
     },
     "脂":{
         "page":"531",
         "meaning":"FAT",
-        "id":"1994"
+        "id":"1994",
+        "mnemonic":""
     },
     "詣":{
         "page":"531",
         "meaning":"VISIT A TEMPLE",
-        "id":"1995"
+        "id":"1995",
+        "mnemonic":""
     },
     "肪":{
         "page":"531",
         "meaning":"ANIMAL FAT",
-        "id":"1996"
+        "id":"1996",
+        "mnemonic":""
     },
     "肌":{
         "page":"532",
         "meaning":"SKIN",
-        "id":"1997"
+        "id":"1997",
+        "mnemonic":""
     },
     "膚":{
         "page":"532",
         "meaning":"SKIN",
-        "id":"1998"
+        "id":"1998",
+        "mnemonic":""
     },
     "慮":{
         "page":"532",
         "meaning":"CONSIDER",
-        "id":"1999"
+        "id":"1999",
+        "mnemonic":""
     },
     "虐":{
         "page":"532",
         "meaning":"CRUEL",
-        "id":"2000"
+        "id":"2000",
+        "mnemonic":""
     },
     "虞":{
         "page":"533",
         "meaning":"RISK",
-        "id":"2001"
+        "id":"2001",
+        "mnemonic":""
     },
     "劇":{
         "page":"533",
         "meaning":"DRAMA",
-        "id":"2002"
+        "id":"2002",
+        "mnemonic":""
     },
     "虚":{
         "page":"533",
         "meaning":"EMPTY, FALSE",
-        "id":"2003"
+        "id":"2003",
+        "mnemonic":""
     },
     "虜":{
         "page":"533",
         "meaning":"CAPTIVE",
-        "id":"2004"
+        "id":"2004",
+        "mnemonic":""
     },
     "勇":{
         "page":"534",
         "meaning":"BRAVE",
-        "id":"2005"
+        "id":"2005",
+        "mnemonic":""
     },
     "湧":{
         "page":"534",
         "meaning":"WELL UP",
-        "id":"2006"
+        "id":"2006",
+        "mnemonic":""
     },
     "戯":{
         "page":"534",
         "meaning":"SPORT",
-        "id":"2007"
+        "id":"2007",
+        "mnemonic":""
     },
     "繊":{
         "page":"534",
         "meaning":"FINE, FIBER",
-        "id":"2008"
+        "id":"2008",
+        "mnemonic":""
     },
     "緻":{
         "page":"535",
         "meaning":"FINE",
-        "id":"2009"
+        "id":"2009",
+        "mnemonic":""
     },
     "嘘":{
         "page":"535",
         "meaning":"LIE",
-        "id":"2010"
+        "id":"2010",
+        "mnemonic":""
     },
     "噂":{
         "page":"535",
         "meaning":"RUMOR",
-        "id":"2011"
+        "id":"2011",
+        "mnemonic":""
     },
     "樽":{
         "page":"535",
         "meaning":"BARREL",
-        "id":"2012"
+        "id":"2012",
+        "mnemonic":""
     },
     "距":{
         "page":"536",
         "meaning":"DISTANCE",
-        "id":"2013"
+        "id":"2013",
+        "mnemonic":""
     },
     "拒":{
         "page":"536",
         "meaning":"REFUSE",
-        "id":"2014"
+        "id":"2014",
+        "mnemonic":""
     },
     "嬉":{
         "page":"536",
         "meaning":"GLAD",
-        "id":"2015"
+        "id":"2015",
+        "mnemonic":""
     },
     "鼓":{
         "page":"536",
         "meaning":"DRUM",
-        "id":"2016"
+        "id":"2016",
+        "mnemonic":""
     },
     "樹":{
         "page":"537",
         "meaning":"STANDING TREE",
-        "id":"2017"
+        "id":"2017",
+        "mnemonic":""
     },
     "膨":{
         "page":"537",
         "meaning":"EXPAND",
-        "id":"2018"
+        "id":"2018",
+        "mnemonic":""
     },
     "脹":{
         "page":"537",
         "meaning":"SWELL",
-        "id":"2019"
+        "id":"2019",
+        "mnemonic":""
     },
     "張":{
         "page":"537",
         "meaning":"SPREAD, STRAIN",
-        "id":"2020"
+        "id":"2020",
+        "mnemonic":""
     },
     "帳":{
         "page":"538",
         "meaning":"NOTEBOOK",
-        "id":"2021"
+        "id":"2021",
+        "mnemonic":""
     },
     "腫":{
         "page":"538",
         "meaning":"TUMOR",
-        "id":"2022"
+        "id":"2022",
+        "mnemonic":""
     },
     "肥":{
         "page":"538",
         "meaning":"FATTEN",
-        "id":"2023"
+        "id":"2023",
+        "mnemonic":""
     },
     "把":{
         "page":"538",
         "meaning":"GRIP",
-        "id":"2024"
+        "id":"2024",
+        "mnemonic":""
     },
     "誇":{
         "page":"539",
         "meaning":"BOAST",
-        "id":"2025"
+        "id":"2025",
+        "mnemonic":""
     },
     "覧":{
         "page":"539",
         "meaning":"LOOK OVER",
-        "id":"2026"
+        "id":"2026",
+        "mnemonic":""
     },
     "監":{
         "page":"539",
         "meaning":"OVERSEE",
-        "id":"2027"
+        "id":"2027",
+        "mnemonic":""
     },
     "鑑":{
         "page":"539",
         "meaning":"APPRAISE, REFER TO",
-        "id":"2028"
+        "id":"2028",
+        "mnemonic":""
     },
     "艦":{
         "page":"540",
         "meaning":"WARSHIP",
-        "id":"2029"
+        "id":"2029",
+        "mnemonic":""
     },
     "濫":{
         "page":"540",
         "meaning":"EXCESSIVE",
-        "id":"2030"
+        "id":"2030",
+        "mnemonic":""
     },
     "藍":{
         "page":"540",
         "meaning":"INDIGO",
-        "id":"2031"
+        "id":"2031",
+        "mnemonic":""
     },
     "賢":{
         "page":"540",
         "meaning":"WISE",
-        "id":"2032"
+        "id":"2032",
+        "mnemonic":""
     },
     "腎":{
         "page":"541",
         "meaning":"KIDNEY",
-        "id":"2033"
+        "id":"2033",
+        "mnemonic":""
     },
     "堅":{
         "page":"541",
         "meaning":"FIRM",
-        "id":"2034"
+        "id":"2034",
+        "mnemonic":""
     },
     "緊":{
         "page":"541",
         "meaning":"TIGHTEN, EXIGENT",
-        "id":"2035"
+        "id":"2035",
+        "mnemonic":""
     },
     "勃":{
         "page":"541",
         "meaning":"SUDDENLY RISING",
-        "id":"2036"
+        "id":"2036",
+        "mnemonic":""
     },
     "励":{
         "page":"542",
         "meaning":"WORK HARD",
-        "id":"2037"
+        "id":"2037",
+        "mnemonic":""
     },
     "栃":{
         "page":"542",
         "meaning":"HORSE CHESTNUT",
-        "id":"2038"
+        "id":"2038",
+        "mnemonic":""
     },
     "茨":{
         "page":"542",
         "meaning":"BRIER",
-        "id":"2039"
+        "id":"2039",
+        "mnemonic":""
     },
     "羨":{
         "page":"542",
         "meaning":"ENVIOUS",
-        "id":"2040"
+        "id":"2040",
+        "mnemonic":""
     },
     "歳":{
         "page":"543",
         "meaning":"YEAR, -YEARS OLD",
-        "id":"2041"
+        "id":"2041",
+        "mnemonic":""
     },
     "戚":{
         "page":"543",
         "meaning":"KIN",
-        "id":"2042"
+        "id":"2042",
+        "mnemonic":""
     },
     "叔":{
         "page":"543",
         "meaning":"YOUNGER SIBLING OF PARENT",
-        "id":"2043"
+        "id":"2043",
+        "mnemonic":""
     },
     "淑":{
         "page":"543",
         "meaning":"GRACEFUL",
-        "id":"2044"
+        "id":"2044",
+        "mnemonic":""
     },
     "寂":{
         "page":"544",
         "meaning":"LONESOME",
-        "id":"2045"
+        "id":"2045",
+        "mnemonic":""
     },
     "督":{
         "page":"544",
         "meaning":"SUPERVISE, COMMANDER",
-        "id":"2046"
+        "id":"2046",
+        "mnemonic":""
     },
     "奴":{
         "page":"544",
         "meaning":"SLAVE, GUY",
-        "id":"2047"
+        "id":"2047",
+        "mnemonic":""
     },
     "努":{
         "page":"544",
         "meaning":"EXERT",
-        "id":"2048"
+        "id":"2048",
+        "mnemonic":""
     },
     "怒":{
         "page":"545",
         "meaning":"GET ANGRY",
-        "id":"2049"
+        "id":"2049",
+        "mnemonic":""
     },
     "隷":{
         "page":"545",
         "meaning":"UNDERLING",
-        "id":"2050"
+        "id":"2050",
+        "mnemonic":""
     },
     "款":{
         "page":"545",
         "meaning":"ARTICLE, FRIENDLY RELATIONS",
-        "id":"2051"
+        "id":"2051",
+        "mnemonic":""
     },
     "殻":{
         "page":"545",
         "meaning":"HUSK",
-        "id":"2052"
+        "id":"2052",
+        "mnemonic":""
     },
     "穀":{
         "page":"546",
         "meaning":"GRAIN",
-        "id":"2053"
+        "id":"2053",
+        "mnemonic":""
     },
     "臼":{
         "page":"546",
         "meaning":"MORTAR",
-        "id":"2054"
+        "id":"2054",
+        "mnemonic":""
     },
     "毀":{
         "page":"546",
         "meaning":"BREAK",
-        "id":"2055"
+        "id":"2055",
+        "mnemonic":""
     },
     "廉":{
         "page":"546",
         "meaning":"HONEST, CHEAP",
-        "id":"2056"
+        "id":"2056",
+        "mnemonic":""
     },
     "鎌":{
         "page":"547",
         "meaning":"SICKLE",
-        "id":"2057"
+        "id":"2057",
+        "mnemonic":""
     },
     "嫌":{
         "page":"547",
         "meaning":"DISLIKE",
-        "id":"2058"
+        "id":"2058",
+        "mnemonic":""
     },
     "謙":{
         "page":"547",
         "meaning":"HUMBLE",
-        "id":"2059"
+        "id":"2059",
+        "mnemonic":""
     },
     "遜":{
         "page":"547",
         "meaning":"HUMBLE",
-        "id":"2060"
+        "id":"2060",
+        "mnemonic":""
     },
     "亀":{
         "page":"548",
         "meaning":"TURTLE",
-        "id":"2061"
+        "id":"2061",
+        "mnemonic":""
     },
     "練":{
         "page":"548",
         "meaning":"TRAIN",
-        "id":"2062"
+        "id":"2062",
+        "mnemonic":""
     },
     "錬":{
         "page":"548",
         "meaning":"REFINE",
-        "id":"2063"
+        "id":"2063",
+        "mnemonic":""
     },
     "鍛":{
         "page":"548",
         "meaning":"FORGE",
-        "id":"2064"
+        "id":"2064",
+        "mnemonic":""
     },
     "鉱":{
         "page":"549",
         "meaning":"ORE, MINE",
-        "id":"2065"
+        "id":"2065",
+        "mnemonic":""
     },
     "銅":{
         "page":"549",
         "meaning":"COPPER",
-        "id":"2066"
+        "id":"2066",
+        "mnemonic":""
     },
     "鉛":{
         "page":"549",
         "meaning":"LEAD",
-        "id":"2067"
+        "id":"2067",
+        "mnemonic":""
     },
     "銑":{
         "page":"549",
         "meaning":"PIG IRON",
-        "id":"2068"
+        "id":"2068",
+        "mnemonic":""
     },
     "鋼":{
         "page":"550",
         "meaning":"STEEL",
-        "id":"2069"
+        "id":"2069",
+        "mnemonic":""
     },
     "剛":{
         "page":"550",
         "meaning":"TOUGH",
-        "id":"2070"
+        "id":"2070",
+        "mnemonic":""
     },
     "綱":{
         "page":"550",
         "meaning":"ROPE, MAIN POINTS",
-        "id":"2071"
+        "id":"2071",
+        "mnemonic":""
     },
     "網":{
         "page":"550",
         "meaning":"NET",
-        "id":"2072"
+        "id":"2072",
+        "mnemonic":""
     },
     "縄":{
         "page":"551",
         "meaning":"ROPE",
-        "id":"2073"
+        "id":"2073",
+        "mnemonic":""
     },
     "鉢":{
         "page":"551",
         "meaning":"BOWL",
-        "id":"2074"
+        "id":"2074",
+        "mnemonic":""
     },
     "鎖":{
         "page":"551",
         "meaning":"CHAIN",
-        "id":"2075"
+        "id":"2075",
+        "mnemonic":""
     },
     "絆":{
         "page":"551",
         "meaning":"BONDS",
-        "id":"2076"
+        "id":"2076",
+        "mnemonic":""
     },
     "鍵":{
         "page":"552",
         "meaning":"KEY",
-        "id":"2077"
+        "id":"2077",
+        "mnemonic":""
     },
     "釘":{
         "page":"552",
         "meaning":"NAIL",
-        "id":"2078"
+        "id":"2078",
+        "mnemonic":""
     },
     "錮":{
         "page":"552",
         "meaning":"LOCK DOWN",
-        "id":"2079"
+        "id":"2079",
+        "mnemonic":""
     },
     "錠":{
         "page":"552",
         "meaning":"LOCK, PILL",
-        "id":"2080"
+        "id":"2080",
+        "mnemonic":""
     },
     "綻":{
         "page":"553",
         "meaning":"COME APART AT THE SEAMS",
-        "id":"2081"
+        "id":"2081",
+        "mnemonic":""
     },
     "鈴":{
         "page":"553",
         "meaning":"BELL",
-        "id":"2082"
+        "id":"2082",
+        "mnemonic":""
     },
     "鐘":{
         "page":"553",
         "meaning":"BELL",
-        "id":"2083"
+        "id":"2083",
+        "mnemonic":""
     },
     "瞳":{
         "page":"553",
         "meaning":"PUPIL",
-        "id":"2084"
+        "id":"2084",
+        "mnemonic":""
     },
     "憧":{
         "page":"554",
         "meaning":"YEARN AFTER",
-        "id":"2085"
+        "id":"2085",
+        "mnemonic":""
     },
     "憬":{
         "page":"554",
         "meaning":"YEARN AFTER",
-        "id":"2086"
+        "id":"2086",
+        "mnemonic":""
     },
     "卑":{
         "page":"554",
         "meaning":"MEAN",
-        "id":"2087"
+        "id":"2087",
+        "mnemonic":""
     },
     "碑":{
         "page":"554",
         "meaning":"MONUMENT",
-        "id":"2088"
+        "id":"2088",
+        "mnemonic":""
     },
     "痺":{
         "page":"555",
         "meaning":"PARALYSIS",
-        "id":"2089"
+        "id":"2089",
+        "mnemonic":""
     },
     "鬼":{
         "page":"555",
         "meaning":"DEMON",
-        "id":"2090"
+        "id":"2090",
+        "mnemonic":""
     },
     "塊":{
         "page":"555",
         "meaning":"LUMP",
-        "id":"2091"
+        "id":"2091",
+        "mnemonic":""
     },
     "醜":{
         "page":"555",
         "meaning":"UGLY",
-        "id":"2092"
+        "id":"2092",
+        "mnemonic":""
     },
     "魂":{
         "page":"556",
         "meaning":"SOUL",
-        "id":"2093"
+        "id":"2093",
+        "mnemonic":""
     },
     "魅":{
         "page":"556",
         "meaning":"CHARM",
-        "id":"2094"
+        "id":"2094",
+        "mnemonic":""
     },
     "魔":{
         "page":"556",
         "meaning":"DEMON",
-        "id":"2095"
+        "id":"2095",
+        "mnemonic":""
     },
     "畏":{
         "page":"556",
         "meaning":"FEAR",
-        "id":"2096"
+        "id":"2096",
+        "mnemonic":""
     },
     "刷":{
         "page":"557",
         "meaning":"PRINT",
-        "id":"2097"
+        "id":"2097",
+        "mnemonic":""
     },
     "擦":{
         "page":"557",
         "meaning":"RUB",
-        "id":"2098"
+        "id":"2098",
+        "mnemonic":""
     },
     "摩":{
         "page":"557",
         "meaning":"RUB AGAINST",
-        "id":"2099"
+        "id":"2099",
+        "mnemonic":""
     },
     "磨":{
         "page":"557",
         "meaning":"POLISH",
-        "id":"2100"
+        "id":"2100",
+        "mnemonic":""
     },
     "凹":{
         "page":"558",
         "meaning":"CONCAVE",
-        "id":"2101"
+        "id":"2101",
+        "mnemonic":""
     },
     "凸":{
         "page":"558",
         "meaning":"CONVEX",
-        "id":"2102"
+        "id":"2102",
+        "mnemonic":""
     },
     "奉":{
         "page":"558",
         "meaning":"DEDICATE",
-        "id":"2103"
+        "id":"2103",
+        "mnemonic":""
     },
     "奏":{
         "page":"558",
         "meaning":"PLAY MUSIC",
-        "id":"2104"
+        "id":"2104",
+        "mnemonic":""
     },
     "泰":{
         "page":"559",
         "meaning":"TRANQUIL",
-        "id":"2105"
+        "id":"2105",
+        "mnemonic":""
     },
     "俸":{
         "page":"559",
         "meaning":"SALARY",
-        "id":"2106"
+        "id":"2106",
+        "mnemonic":""
     },
     "棒":{
         "page":"559",
         "meaning":"ROD",
-        "id":"2107"
+        "id":"2107",
+        "mnemonic":""
     },
     "捧":{
         "page":"559",
         "meaning":"DEDICATE",
-        "id":"2108"
+        "id":"2108",
+        "mnemonic":""
     },
     "耐":{
         "page":"560",
         "meaning":"WITHSTAND",
-        "id":"2109"
+        "id":"2109",
+        "mnemonic":""
     },
     "霊":{
         "page":"560",
         "meaning":"SPIRIT",
-        "id":"2110"
+        "id":"2110",
+        "mnemonic":""
     },
     "需":{
         "page":"560",
         "meaning":"DEMAND",
-        "id":"2111"
+        "id":"2111",
+        "mnemonic":""
     },
     "濡":{
         "page":"560",
         "meaning":"WET",
-        "id":"2112"
+        "id":"2112",
+        "mnemonic":""
     },
     "儒":{
         "page":"561",
         "meaning":"CONFUCIANISM",
-        "id":"2113"
+        "id":"2113",
+        "mnemonic":""
     },
     "端":{
         "page":"561",
         "meaning":"EDGE",
-        "id":"2114"
+        "id":"2114",
+        "mnemonic":""
     },
     "壱":{
         "page":"561",
         "meaning":"ONE",
-        "id":"2115"
+        "id":"2115",
+        "mnemonic":""
     },
     "尼":{
         "page":"561",
         "meaning":"BUDDHIST NUN",
-        "id":"2116"
+        "id":"2116",
+        "mnemonic":""
     },
     "泥":{
         "page":"562",
         "meaning":"MUD",
-        "id":"2117"
+        "id":"2117",
+        "mnemonic":""
     },
     "漏":{
         "page":"562",
         "meaning":"LEAK",
-        "id":"2118"
+        "id":"2118",
+        "mnemonic":""
     },
     "氾":{
         "page":"562",
         "meaning":"FLOOD",
-        "id":"2119"
+        "id":"2119",
+        "mnemonic":""
     },
     "彙":{
         "page":"562",
         "meaning":"CATALOG",
-        "id":"2120"
+        "id":"2120",
+        "mnemonic":""
     },
     "某":{
         "page":"563",
         "meaning":"A CERTAIN",
-        "id":"2121"
+        "id":"2121",
+        "mnemonic":""
     },
     "謀":{
         "page":"563",
         "meaning":"SCHEME",
-        "id":"2122"
+        "id":"2122",
+        "mnemonic":""
     },
     "媒":{
         "page":"563",
         "meaning":"MEDIATE",
-        "id":"2123"
+        "id":"2123",
+        "mnemonic":""
     },
     "尉":{
         "page":"563",
         "meaning":"OFFICER",
-        "id":"2124"
+        "id":"2124",
+        "mnemonic":""
     },
     "慰":{
         "page":"564",
         "meaning":"CONSOLE",
-        "id":"2125"
+        "id":"2125",
+        "mnemonic":""
     },
     "酪":{
         "page":"564",
         "meaning":"DAIRY PRODUCTS",
-        "id":"2126"
+        "id":"2126",
+        "mnemonic":""
     },
     "酵":{
         "page":"564",
         "meaning":"FERMENT",
-        "id":"2127"
+        "id":"2127",
+        "mnemonic":""
     },
     "醤":{
         "page":"564",
         "meaning":"SOY SAUCE",
-        "id":"2128"
+        "id":"2128",
+        "mnemonic":""
     },
     "酢":{
         "page":"565",
         "meaning":"VINEGAR",
-        "id":"2129"
+        "id":"2129",
+        "mnemonic":""
     },
     "酎":{
         "page":"565",
         "meaning":"SHOCHU (japanese distilled liquor)",
-        "id":"2130"
+        "id":"2130",
+        "mnemonic":""
     },
     "酌":{
         "page":"565",
         "meaning":"POUR WINE",
-        "id":"2131"
+        "id":"2131",
+        "mnemonic":""
     },
     "釣":{
         "page":"565",
         "meaning":"ANGLE",
-        "id":"2132"
+        "id":"2132",
+        "mnemonic":""
     },
     "畜":{
         "page":"566",
         "meaning":"(RAISE) LIVESTOCK",
-        "id":"2133"
+        "id":"2133",
+        "mnemonic":""
     },
     "蓄":{
         "page":"566",
         "meaning":"STORE UP",
-        "id":"2134"
+        "id":"2134",
+        "mnemonic":""
     },
     "玄":{
         "page":"566",
         "meaning":"PROFOUND",
-        "id":"2135"
+        "id":"2135",
+        "mnemonic":""
     },
     "眩":{
         "page":"566",
         "meaning":"DAZZLING",
-        "id":"2136"
+        "id":"2136",
+        "mnemonic":""
     },
     "呟":{
         "page":"567",
         "meaning":"MUTTER",
-        "id":"2137"
+        "id":"2137",
+        "mnemonic":""
     },
     "囁":{
         "page":"567",
         "meaning":"WHISPER",
-        "id":"2138"
+        "id":"2138",
+        "mnemonic":""
     },
     "喋":{
         "page":"567",
         "meaning":"SPEAK",
-        "id":"2139"
+        "id":"2139",
+        "mnemonic":""
     },
     "喩":{
         "page":"567",
         "meaning":"LIKEN",
-        "id":"2140"
+        "id":"2140",
+        "mnemonic":""
     },
     "鬱":{
         "page":"568",
         "meaning":"DEPRESSION, CONGESTED",
-        "id":"2141"
+        "id":"2141",
+        "mnemonic":""
     },
     "弦":{
         "page":"568",
         "meaning":"STRING",
-        "id":"2142"
+        "id":"2142",
+        "mnemonic":""
     },
     "舷":{
         "page":"568",
         "meaning":"GUNWALE",
-        "id":"2143"
+        "id":"2143",
+        "mnemonic":""
     },
     "舵":{
         "page":"568",
         "meaning":"RUDDER",
-        "id":"2144"
+        "id":"2144",
+        "mnemonic":""
     },
     "幻":{
         "page":"569",
         "meaning":"PHANTOM",
-        "id":"2145"
+        "id":"2145",
+        "mnemonic":""
     },
     "幽":{
         "page":"569",
         "meaning":"QUIET AND SECLUDED",
-        "id":"2146"
+        "id":"2146",
+        "mnemonic":""
     },
     "幼":{
         "page":"569",
         "meaning":"VERY YOUNG",
-        "id":"2147"
+        "id":"2147",
+        "mnemonic":""
     },
     "稚":{
         "page":"569",
         "meaning":"CHILD",
-        "id":"2148"
+        "id":"2148",
+        "mnemonic":""
     },
     "維":{
         "page":"570",
         "meaning":"FIBER",
-        "id":"2149"
+        "id":"2149",
+        "mnemonic":""
     },
     "推":{
         "page":"570",
         "meaning":"INFER, PUSH FORWARD",
-        "id":"2150"
+        "id":"2150",
+        "mnemonic":""
     },
     "堆":{
         "page":"570",
         "meaning":"PILE UP",
-        "id":"2151"
+        "id":"2151",
+        "mnemonic":""
     },
     "椎":{
         "page":"570",
         "meaning":"SPINE, CHINQUAPIN",
-        "id":"2152"
+        "id":"2152",
+        "mnemonic":""
     },
     "脊":{
         "page":"571",
         "meaning":"SPINE",
-        "id":"2153"
+        "id":"2153",
+        "mnemonic":""
     },
     "雛":{
         "page":"571",
         "meaning":"CHICK",
-        "id":"2154"
+        "id":"2154",
+        "mnemonic":""
     },
     "誰":{
         "page":"571",
         "meaning":"WHO",
-        "id":"2155"
+        "id":"2155",
+        "mnemonic":""
     },
     "唯":{
         "page":"571",
         "meaning":"MERELY",
-        "id":"2156"
+        "id":"2156",
+        "mnemonic":""
     },
     "鳴":{
         "page":"572",
         "meaning":"CRY, SOUND",
-        "id":"2157"
+        "id":"2157",
+        "mnemonic":""
     },
     "亥":{
         "page":"572",
         "meaning":"THE BOAR",
-        "id":"2158"
+        "id":"2158",
+        "mnemonic":""
     },
     "刻":{
         "page":"572",
         "meaning":"ENGRAVE, POINT IN TIME",
-        "id":"2159"
+        "id":"2159",
+        "mnemonic":""
     },
     "劾":{
         "page":"572",
         "meaning":"EXPOSE CRIMES",
-        "id":"2160"
+        "id":"2160",
+        "mnemonic":""
     },
     "核":{
         "page":"573",
         "meaning":"NUCLEUS",
-        "id":"2161"
+        "id":"2161",
+        "mnemonic":""
     },
     "骸":{
         "page":"573",
         "meaning":"BODY",
-        "id":"2162"
+        "id":"2162",
+        "mnemonic":""
     },
     "咳":{
         "page":"573",
         "meaning":"COUGH",
-        "id":"2163"
+        "id":"2163",
+        "mnemonic":""
     },
     "該":{
         "page":"573",
         "meaning":"CORRESPOND TO",
-        "id":"2164"
+        "id":"2164",
+        "mnemonic":""
     },
     "診":{
         "page":"574",
         "meaning":"EXAMINE A PATIENT",
-        "id":"2165"
+        "id":"2165",
+        "mnemonic":""
     },
     "珍":{
         "page":"574",
         "meaning":"RARE",
-        "id":"2166"
+        "id":"2166",
+        "mnemonic":""
     },
     "瓦":{
         "page":"574",
         "meaning":"TILE",
-        "id":"2167"
+        "id":"2167",
+        "mnemonic":""
     },
     "併":{
         "page":"574",
         "meaning":"PUT TOGETHER",
-        "id":"2168"
+        "id":"2168",
+        "mnemonic":""
     },
     "瓶":{
         "page":"575",
         "meaning":"BOTTLE",
-        "id":"2169"
+        "id":"2169",
+        "mnemonic":""
     },
     "屏":{
         "page":"575",
         "meaning":"FENCE",
-        "id":"2170"
+        "id":"2170",
+        "mnemonic":""
     },
     "塀":{
         "page":"575",
         "meaning":"FENCE",
-        "id":"2171"
+        "id":"2171",
+        "mnemonic":""
     },
     "餅":{
         "page":"575",
         "meaning":"RICE CAKE",
-        "id":"2172"
+        "id":"2172",
+        "mnemonic":""
     },
     "餌":{
         "page":"576",
         "meaning":"FEED, BAIT",
-        "id":"2173"
+        "id":"2173",
+        "mnemonic":""
     },
     "呑":{
         "page":"576",
         "meaning":"SWALLOW",
-        "id":"2174"
+        "id":"2174",
+        "mnemonic":""
     },
     "沃":{
         "page":"576",
         "meaning":"FERTILITY",
-        "id":"2175"
+        "id":"2175",
+        "mnemonic":""
     },
     "妖":{
         "page":"576",
         "meaning":"BEWITCHING",
-        "id":"2176"
+        "id":"2176",
+        "mnemonic":""
     },
     "呪":{
         "page":"577",
         "meaning":"CHARM",
-        "id":"2177"
+        "id":"2177",
+        "mnemonic":""
     },
     "艶":{
         "page":"577",
         "meaning":"CHARMING, ROMANCE",
-        "id":"2178"
+        "id":"2178",
+        "mnemonic":""
     },
     "慈":{
         "page":"577",
         "meaning":"AFFECTIONATE",
-        "id":"2179"
+        "id":"2179",
+        "mnemonic":""
     },
     "滋":{
         "page":"577",
         "meaning":"NOURISH",
-        "id":"2180"
+        "id":"2180",
+        "mnemonic":""
     },
     "磁":{
         "page":"578",
         "meaning":"MAGNETISM",
-        "id":"2181"
+        "id":"2181",
+        "mnemonic":""
     },
     "擁":{
         "page":"578",
         "meaning":"EMBRACE",
-        "id":"2182"
+        "id":"2182",
+        "mnemonic":""
     },
     "腐":{
         "page":"578",
         "meaning":"ROT",
-        "id":"2183"
+        "id":"2183",
+        "mnemonic":""
     },
     "芯":{
         "page":"578",
         "meaning":"CORE",
-        "id":"2184"
+        "id":"2184",
+        "mnemonic":""
     },
     "蒔":{
         "page":"579",
         "meaning":"SOW",
-        "id":"2185"
+        "id":"2185",
+        "mnemonic":""
     },
     "撒":{
         "page":"579",
         "meaning":"SCATTER",
-        "id":"2186"
+        "id":"2186",
+        "mnemonic":""
     },
     "撤":{
         "page":"579",
         "meaning":"WITHDRAW",
-        "id":"2187"
+        "id":"2187",
+        "mnemonic":""
     },
     "徹":{
         "page":"579",
         "meaning":"GO THROUGH",
-        "id":"2188"
+        "id":"2188",
+        "mnemonic":""
     },
     "微":{
         "page":"580",
         "meaning":"SLIGHT",
-        "id":"2189"
+        "id":"2189",
+        "mnemonic":""
     },
     "徴":{
         "page":"580",
         "meaning":"LEVY, SIGN",
-        "id":"2190"
+        "id":"2190",
+        "mnemonic":""
     },
     "懲":{
         "page":"580",
         "meaning":"CHASTISE",
-        "id":"2191"
+        "id":"2191",
+        "mnemonic":""
     },
     "殆":{
         "page":"580",
         "meaning":"ALMOST",
-        "id":"2192"
+        "id":"2192",
+        "mnemonic":""
     },
     "后":{
         "page":"581",
         "meaning":"EMPRESS",
-        "id":"2193"
+        "id":"2193",
+        "mnemonic":""
     },
     "垢":{
         "page":"581",
         "meaning":"DIRT",
-        "id":"2194"
+        "id":"2194",
+        "mnemonic":""
     },
     "妃":{
         "page":"581",
         "meaning":"PRINCESS",
-        "id":"2195"
+        "id":"2195",
+        "mnemonic":""
     },
     "姫":{
         "page":"581",
         "meaning":"DAUGHTER OF NOBLE BIRTH",
-        "id":"2196"
+        "id":"2196",
+        "mnemonic":""
     },
     "如":{
         "page":"582",
         "meaning":"AS",
-        "id":"2197"
+        "id":"2197",
+        "mnemonic":""
     },
     "茹":{
         "page":"582",
         "meaning":"BOIL",
-        "id":"2198"
+        "id":"2198",
+        "mnemonic":""
     },
     "婿":{
         "page":"582",
         "meaning":"SON-IN-LAW",
-        "id":"2199"
+        "id":"2199",
+        "mnemonic":""
     },
     "娘":{
         "page":"582",
         "meaning":"DAUGHTER, GIRL",
-        "id":"2200"
+        "id":"2200",
+        "mnemonic":""
     },
     "嫁":{
         "page":"583",
         "meaning":"WED A MAN, BRIDE",
-        "id":"2201"
+        "id":"2201",
+        "mnemonic":""
     },
     "稼":{
         "page":"583",
         "meaning":"WORK",
-        "id":"2202"
+        "id":"2202",
+        "mnemonic":""
     },
     "塚":{
         "page":"583",
         "meaning":"MOUND",
-        "id":"2203"
+        "id":"2203",
+        "mnemonic":""
     },
     "豪":{
         "page":"583",
         "meaning":"GREAT MAN, MAGNIFICENT",
-        "id":"2204"
+        "id":"2204",
+        "mnemonic":""
     },
     "蒙":{
         "page":"584",
         "meaning":"IGNORANCE, PHONETIC [MÔ]",
-        "id":"2205"
+        "id":"2205",
+        "mnemonic":""
     },
     "墾":{
         "page":"584",
         "meaning":"CLEAR LAND FOR FARMING",
-        "id":"2206"
+        "id":"2206",
+        "mnemonic":""
     },
     "懇":{
         "page":"584",
         "meaning":"FAMILIAR, EARNEST",
-        "id":"2207"
+        "id":"2207",
+        "mnemonic":""
     },
     "貌":{
         "page":"584",
         "meaning":"APPEARANCE",
-        "id":"2208"
+        "id":"2208",
+        "mnemonic":""
     },
     "逐":{
         "page":"585",
         "meaning":"DRIVE OUT, ONE BY ONE",
-        "id":"2209"
+        "id":"2209",
+        "mnemonic":""
     },
     "遂":{
         "page":"585",
         "meaning":"ACCOMPLISH",
-        "id":"2210"
+        "id":"2210",
+        "mnemonic":""
     },
     "墜":{
         "page":"585",
         "meaning":"DROP DOWN",
-        "id":"2211"
+        "id":"2211",
+        "mnemonic":""
     },
     "堕":{
         "page":"585",
         "meaning":"DEGENERATE",
-        "id":"2212"
+        "id":"2212",
+        "mnemonic":""
     },
     "随":{
         "page":"586",
         "meaning":"FOLLOW",
-        "id":"2213"
+        "id":"2213",
+        "mnemonic":""
     },
     "附":{
         "page":"586",
         "meaning":"ATTACH",
-        "id":"2214"
+        "id":"2214",
+        "mnemonic":""
     },
     "髄":{
         "page":"586",
         "meaning":"MARROW",
-        "id":"2215"
+        "id":"2215",
+        "mnemonic":""
     },
     "怠":{
         "page":"586",
         "meaning":"IDLE",
-        "id":"2216"
+        "id":"2216",
+        "mnemonic":""
     },
     "惰":{
         "page":"587",
         "meaning":"LAZY",
-        "id":"2217"
+        "id":"2217",
+        "mnemonic":""
     },
     "佐":{
         "page":"587",
         "meaning":"ASSIST, FIELD OFFICER",
-        "id":"2218"
+        "id":"2218",
+        "mnemonic":""
     },
     "玩":{
         "page":"587",
         "meaning":"PLAY WITH",
-        "id":"2219"
+        "id":"2219",
+        "mnemonic":""
     },
     "弄":{
         "page":"587",
         "meaning":"PLAY WITH",
-        "id":"2220"
+        "id":"2220",
+        "mnemonic":""
     },
     "嘲":{
         "page":"588",
         "meaning":"RIDICULE",
-        "id":"2221"
+        "id":"2221",
+        "mnemonic":""
     },
     "奔":{
         "page":"588",
         "meaning":"RUSH",
-        "id":"2222"
+        "id":"2222",
+        "mnemonic":""
     },
     "弊":{
         "page":"588",
         "meaning":"EVIL PRACTICE",
-        "id":"2223"
+        "id":"2223",
+        "mnemonic":""
     },
     "幣":{
         "page":"588",
         "meaning":"CURRENCY, SHINTO PAPER OFFERING",
-        "id":"2224"
+        "id":"2224",
+        "mnemonic":""
     },
     "蔽":{
         "page":"589",
         "meaning":"COVER",
-        "id":"2225"
+        "id":"2225",
+        "mnemonic":""
     },
     "朋":{
         "page":"589",
         "meaning":"COMRADE",
-        "id":"2226"
+        "id":"2226",
+        "mnemonic":""
     },
     "棚":{
         "page":"589",
         "meaning":"SHELF",
-        "id":"2227"
+        "id":"2227",
+        "mnemonic":""
     },
     "柵":{
         "page":"589",
         "meaning":"FENCE",
-        "id":"2228"
+        "id":"2228",
+        "mnemonic":""
     },
     "桁":{
         "page":"590",
         "meaning":"DIGIT, BEAM",
-        "id":"2229"
+        "id":"2229",
+        "mnemonic":""
     },
     "栓":{
         "page":"590",
         "meaning":"STOPPER",
-        "id":"2230"
+        "id":"2230",
+        "mnemonic":""
     },
     "詮":{
         "page":"590",
         "meaning":"INQUIRY",
-        "id":"2231"
+        "id":"2231",
+        "mnemonic":""
     },
     "塞":{
         "page":"590",
         "meaning":"PLUG UP",
-        "id":"2232"
+        "id":"2232",
+        "mnemonic":""
     },
     "梗":{
         "page":"591",
         "meaning":"BLOCK",
-        "id":"2233"
+        "id":"2233",
+        "mnemonic":""
     },
     "柿":{
         "page":"591",
         "meaning":"PERSIMMON",
-        "id":"2234"
+        "id":"2234",
+        "mnemonic":""
     },
     "藤":{
         "page":"591",
         "meaning":"WISTERIA",
-        "id":"2235"
+        "id":"2235",
+        "mnemonic":""
     },
     "騰":{
         "page":"591",
         "meaning":"RISE",
-        "id":"2236"
+        "id":"2236",
+        "mnemonic":""
     },
     "謄":{
         "page":"592",
         "meaning":"TRANSCRIBE",
-        "id":"2237"
+        "id":"2237",
+        "mnemonic":""
     },
     "麺":{
         "page":"592",
         "meaning":"NOODLES",
-        "id":"2238"
+        "id":"2238",
+        "mnemonic":""
     },
     "拉":{
         "page":"592",
         "meaning":"KIDNAP",
-        "id":"2239"
+        "id":"2239",
+        "mnemonic":""
     },
     "晃":{
         "page":"592",
         "meaning":"DAZZLING",
-        "id":"2240"
+        "id":"2240",
+        "mnemonic":""
     },
     "幌":{
         "page":"593",
         "meaning":"AWNING",
-        "id":"2241"
+        "id":"2241",
+        "mnemonic":""
     },
     "厘":{
         "page":"593",
         "meaning":"RIN (0.001 yen)",
-        "id":"2242"
+        "id":"2242",
+        "mnemonic":""
     },
     "畝":{
         "page":"593",
         "meaning":"SE (RIDGE)",
-        "id":"2243"
+        "id":"2243",
+        "mnemonic":""
     },
     "匁":{
         "page":"593",
         "meaning":"MONME (3.75 grams)",
-        "id":"2244"
+        "id":"2244",
+        "mnemonic":""
     },
     "匂":{
         "page":"594",
         "meaning":"SMELL",
-        "id":"2245"
+        "id":"2245",
+        "mnemonic":""
     },
     "勾":{
         "page":"594",
         "meaning":"BENT",
-        "id":"2246"
+        "id":"2246",
+        "mnemonic":""
     },
     "挨":{
         "page":"594",
         "meaning":"GREET",
-        "id":"2247"
+        "id":"2247",
+        "mnemonic":""
     },
     "拶":{
         "page":"594",
         "meaning":"GREET",
-        "id":"2248"
+        "id":"2248",
+        "mnemonic":""
     },
     "曖":{
         "page":"595",
         "meaning":"NOT CLEAR",
-        "id":"2249"
+        "id":"2249",
+        "mnemonic":""
     },
     "昧":{
         "page":"595",
         "meaning":"DARK",
-        "id":"2250"
+        "id":"2250",
+        "mnemonic":""
     },
     "瑠":{
         "page":"595",
         "meaning":"LAPIS LAZULI",
-        "id":"2251"
+        "id":"2251",
+        "mnemonic":""
     },
     "璃":{
         "page":"595",
         "meaning":"GLASSY SUBSTANCE",
-        "id":"2252"
+        "id":"2252",
+        "mnemonic":""
     },
     "嫉":{
         "page":"596",
         "meaning":"ENVY",
-        "id":"2253"
+        "id":"2253",
+        "mnemonic":""
     },
     "妬":{
         "page":"596",
         "meaning":"ENVY",
-        "id":"2254"
+        "id":"2254",
+        "mnemonic":""
     },
     "鹿":{
         "page":"596",
         "meaning":"DEER",
-        "id":"2255"
+        "id":"2255",
+        "mnemonic":""
     },
     "塵":{
         "page":"596",
         "meaning":"DUST",
-        "id":"2256"
+        "id":"2256",
+        "mnemonic":""
     },
     "麓":{
         "page":"597",
         "meaning":"FOOT OF A MOUNTAIN",
-        "id":"2257"
+        "id":"2257",
+        "mnemonic":""
     },
     "麗":{
         "page":"597",
         "meaning":"OF GRACEFUL BEAUTY",
-        "id":"2258"
+        "id":"2258",
+        "mnemonic":""
     },
     "薦":{
         "page":"597",
         "meaning":"RECOMMEND",
-        "id":"2259"
+        "id":"2259",
+        "mnemonic":""
     },
     "慶":{
         "page":"597",
         "meaning":"FELICITATION",
-        "id":"2260"
+        "id":"2260",
+        "mnemonic":""
     },
     "兜":{
         "page":"598",
         "meaning":"HELMET",
-        "id":"2261"
+        "id":"2261",
+        "mnemonic":""
     },
     "睨":{
         "page":"598",
         "meaning":"GLARE AT",
-        "id":"2262"
+        "id":"2262",
+        "mnemonic":""
     },
     "鼠":{
         "page":"598",
         "meaning":"RAT",
-        "id":"2263"
+        "id":"2263",
+        "mnemonic":""
     },
     "溺":{
         "page":"598",
         "meaning":"DROWN",
-        "id":"2264"
+        "id":"2264",
+        "mnemonic":""
     },
     "潟":{
         "page":"599",
         "meaning":"LAGOON",
-        "id":"2265"
+        "id":"2265",
+        "mnemonic":""
     },
     "濁":{
         "page":"599",
         "meaning":"TURBID",
-        "id":"2266"
+        "id":"2266",
+        "mnemonic":""
     },
     "渇":{
         "page":"599",
         "meaning":"RUN DRY, THIRST",
-        "id":"2267"
+        "id":"2267",
+        "mnemonic":""
     },
     "褐":{
         "page":"599",
         "meaning":"BROWN",
-        "id":"2268"
+        "id":"2268",
+        "mnemonic":""
     },
     "葛":{
         "page":"600",
         "meaning":"KUDZU",
-        "id":"2269"
+        "id":"2269",
+        "mnemonic":""
     },
     "喝":{
         "page":"600",
         "meaning":"SHOUT AT",
-        "id":"2270"
+        "id":"2270",
+        "mnemonic":""
     },
     "謁":{
         "page":"600",
         "meaning":"BE GRANTED AN AUDIENCE",
-        "id":"2271"
+        "id":"2271",
+        "mnemonic":""
     },
     "掲":{
         "page":"600",
         "meaning":"PUT UP",
-        "id":"2272"
+        "id":"2272",
+        "mnemonic":""
     },
     "戌":{
         "page":"601",
         "meaning":"THE DOG",
-        "id":"2273"
+        "id":"2273",
+        "mnemonic":""
     },
     "尤":{
         "page":"601",
         "meaning":"REASONABLE",
-        "id":"2274"
+        "id":"2274",
+        "mnemonic":""
     },
     "駄":{
         "page":"601",
         "meaning":"GOOD FOR NOTHING, CLOGS",
-        "id":"2275"
+        "id":"2275",
+        "mnemonic":""
     },
     "駒":{
         "page":"601",
         "meaning":"HORSE, CHESS PIECE",
-        "id":"2276"
+        "id":"2276",
+        "mnemonic":""
     },
     "篤":{
         "page":"602",
         "meaning":"SERIOUS, KIND",
-        "id":"2277"
+        "id":"2277",
+        "mnemonic":""
     },
     "罵":{
         "page":"602",
         "meaning":"SPEAK ILL OF",
-        "id":"2278"
+        "id":"2278",
+        "mnemonic":""
     },
     "蔑":{
         "page":"602",
         "meaning":"SCORN",
-        "id":"2279"
+        "id":"2279",
+        "mnemonic":""
     },
     "罠":{
         "page":"602",
         "meaning":"TRAP",
-        "id":"2280"
+        "id":"2280",
+        "mnemonic":""
     },
     "烏":{
         "page":"603",
         "meaning":"RAVEN",
-        "id":"2281"
+        "id":"2281",
+        "mnemonic":""
     },
     "鴨":{
         "page":"603",
         "meaning":"DUCK",
-        "id":"2282"
+        "id":"2282",
+        "mnemonic":""
     },
     "鳩":{
         "page":"603",
         "meaning":"PIGEON",
-        "id":"2283"
+        "id":"2283",
+        "mnemonic":""
     },
     "鶏":{
         "page":"603",
         "meaning":"CHICKEN",
-        "id":"2284"
+        "id":"2284",
+        "mnemonic":""
     },
     "渓":{
         "page":"604",
         "meaning":"RAVINE",
-        "id":"2285"
+        "id":"2285",
+        "mnemonic":""
     },
     "鷹":{
         "page":"604",
         "meaning":"HAWK",
-        "id":"2286"
+        "id":"2286",
+        "mnemonic":""
     },
     "鷲":{
         "page":"604",
         "meaning":"EAGLE",
-        "id":"2287"
+        "id":"2287",
+        "mnemonic":""
     },
     "璽":{
         "page":"604",
         "meaning":"IMPERIAL SEAL",
-        "id":"2288"
+        "id":"2288",
+        "mnemonic":""
     },
     "爽":{
         "page":"605",
         "meaning":"REFRESHING",
-        "id":"2289"
+        "id":"2289",
+        "mnemonic":""
     },
     "綴":{
         "page":"605",
         "meaning":"STITCH TOGETHER, COMPOSE",
-        "id":"2290"
+        "id":"2290",
+        "mnemonic":""
     },
     "桑":{
         "page":"605",
         "meaning":"MULBERRY",
-        "id":"2291"
+        "id":"2291",
+        "mnemonic":""
     },
     "蚕":{
         "page":"605",
         "meaning":"SILKWORM",
-        "id":"2292"
+        "id":"2292",
+        "mnemonic":""
     },
     "蛋":{
         "page":"606",
         "meaning":"EGG",
-        "id":"2293"
+        "id":"2293",
+        "mnemonic":""
     },
     "蟹":{
         "page":"606",
         "meaning":"CRAB",
-        "id":"2294"
+        "id":"2294",
+        "mnemonic":""
     },
     "蚊":{
         "page":"606",
         "meaning":"MOSQUITO",
-        "id":"2295"
+        "id":"2295",
+        "mnemonic":""
     },
     "巳":{
         "page":"606",
         "meaning":"THE SERPENT",
-        "id":"2296"
+        "id":"2296",
+        "mnemonic":""
     },
     "蛇":{
         "page":"607",
         "meaning":"SNAKE",
-        "id":"2297"
+        "id":"2297",
+        "mnemonic":""
     },
     "繭":{
         "page":"607",
         "meaning":"COCOON",
-        "id":"2298"
+        "id":"2298",
+        "mnemonic":""
     },
     "蝶":{
         "page":"607",
         "meaning":"BUTTERFLY",
-        "id":"2299"
+        "id":"2299",
+        "mnemonic":""
     },
     "虹":{
         "page":"607",
         "meaning":"RAINBOW",
-        "id":"2300"
+        "id":"2300",
+        "mnemonic":""
     }
 };
