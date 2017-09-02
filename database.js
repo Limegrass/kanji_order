@@ -6157,97 +6157,97 @@ var database = {
         "page":"338",
         "meaning":"BEFORE",
         "id":"1222",
-        "mnemonic":""
+        "mnemonic":"Build up morpheme. A lot of layers accumulating before the current state."
     },
     "増":{
         "page":"338",
         "meaning":"INCREASE",
         "id":"1223",
-        "mnemonic":""
+        "mnemonic":"Earth piling up, increasing its size."
     },
     "層":{
         "page":"338",
         "meaning":"STRATUM",
         "id":"1224",
-        "mnemonic":""
+        "mnemonic":"The door marks the level of the stratum."
     },
     "憎":{
         "page":"339",
         "meaning":"HATE",
         "id":"1225",
-        "mnemonic":""
+        "mnemonic":"Feelings build up into hatred."
     },
     "僧":{
         "page":"339",
         "meaning":"BONZE",
         "id":"1226",
-        "mnemonic":""
+        "mnemonic":"Monks/Priests aspire to build themselves up to be more holy."
     },
     "贈":{
         "page":"339",
         "meaning":"PRESENT A GIFT",
         "id":"1227",
-        "mnemonic":""
+        "mnemonic":"Save up money to buy someone a gift."
     },
     "賄":{
         "page":"339",
         "meaning":"BRIBE",
         "id":"1228",
-        "mnemonic":""
+        "mnemonic":"If there's money involved, there's probably a bribe involved."
     },
     "賂":{
         "page":"340",
         "meaning":"BRIBE",
         "id":"1229",
-        "mnemonic":""
+        "mnemonic":"Everybody needs some money, so it's a useful tool to use as a bribe."
     },
     "賦":{
         "page":"340",
         "meaning":"INSTALLMENT",
         "id":"1230",
-        "mnemonic":""
+        "mnemonic":"Money paid to the military in installments."
     },
     "賊":{
         "page":"340",
         "meaning":"BANDIT",
         "id":"1231",
-        "mnemonic":""
+        "mnemonic":"A bandit armed with a spear to steal money."
     },
     "帯":{
         "page":"340",
         "meaning":"BELT, WEAR",
         "id":"1232",
-        "mnemonic":""
+        "mnemonic":"A belt separates the cloth from the basket on top."
     },
     "滞":{
         "page":"341",
         "meaning":"STAGNATE, STAY",
         "id":"1233",
-        "mnemonic":""
+        "mnemonic":"A belt restricting the flow of water, causing stagnation."
     },
     "渋":{
         "page":"341",
         "meaning":"NOT GO SMOOTHLY, ASTRINGENT",
         "id":"1234",
-        "mnemonic":""
+        "mnemonic":"All the taste in the juice stop to concentrate on one point, which not as good as being well dispersed."
     },
     "摂":{
         "page":"341",
         "meaning":"TAKE IN, ACT AS REGENT",
         "id":"1235",
-        "mnemonic":""
+        "mnemonic":"Close your eyes and take in your surroundings at the single point you're at with your sense of feeling and hearing."
     },
     "為":{
         "page":"341",
         "meaning":"DO, SAKE",
         "id":"1236",
-        "mnemonic":""
+        "mnemonic":"The right hooking strokes are a team of horses, running with the purpose of pulling the chariot."
     },
     "偽":{
         "page":"342",
         "meaning":"FALSIFY",
         "id":"1237",
-        "mnemonic":""
+        "mnemonic":"Even a fake master of the chariot can control the horses"
     },
     "参":{
         "page":"342",
