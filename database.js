@@ -6253,91 +6253,91 @@ var database = {
         "page":"342",
         "meaning":"PARTICIPATE, VISIT A HOLY PLACE",
         "id":"1238",
-        "mnemonic":""
+        "mnemonic":"Imagine VISITING a big shrine with a pointed roof, kinda like a pagoda and taking part in the worship with 3 others bowing down."
     },
     "惨":{
         "page":"342",
         "meaning":"MISERABLE, CRUEL",
         "id":"1239",
-        "mnemonic":""
+        "mnemonic":"Your heart is miserable because you can't participate in the activities."
     },
     "呂":{
         "page":"342",
         "meaning":"PHONETIC [RO]",
         "id":"1240",
-        "mnemonic":""
+        "mnemonic":"The box shape is like the katakana ロthat it signifies."
     },
     "侶":{
         "page":"343",
         "meaning":"COMPANION",
         "id":"1241",
-        "mnemonic":""
+        "mnemonic":"Get in the bath with your companion."
     },
     "宮":{
         "page":"343",
         "meaning":"ROYAL PALACE, SHINTO SHRINE",
         "id":"1242",
-        "mnemonic":""
+        "mnemonic":"The fancy indoor bath of a palace or shinto shrine."
     },
     "営":{
         "page":"343",
         "meaning":"OPERATE, BARRACKS",
         "id":"1243",
-        "mnemonic":""
+        "mnemonic":"The bright lights of the barrack's bath's roof tells us the business is operational."
     },
     "蛍":{
         "page":"343",
         "meaning":"FIREFLY",
         "id":"1244",
-        "mnemonic":""
+        "mnemonic":"A bug that emits bright lights through the roof."
     },
     "栄":{
         "page":"344",
         "meaning":"FLOURISH, GLORY",
         "id":"1245",
-        "mnemonic":""
+        "mnemonic":"The flourishing, glorious flowers are beautiful when lit."
     },
     "誉":{
         "page":"344",
         "meaning":"HONOR",
         "id":"1246",
-        "mnemonic":""
+        "mnemonic":"Big, brilliant, flowery words are used to honor someone."
     },
     "挙":{
         "page":"344",
         "meaning":"NOMINATE, NOTEWORTHY ACT, RAISE",
         "id":"1247",
-        "mnemonic":""
+        "mnemonic":"The hand lifts brilliant flowers to nominate a person for a noteworthy act."
     },
     "拳":{
         "page":"344",
         "meaning":"FIST",
         "id":"1248",
-        "mnemonic":""
+        "mnemonic":"Top shows that every person has two fists, jutting out from both sides of a person."
     },
     "桜":{
         "page":"345",
         "meaning":"CHERRY",
         "id":"1249",
-        "mnemonic":""
+        "mnemonic":"Cherry blossoms falling from a tree, flowering a girl."
     },
     "妥":{
         "page":"345",
         "meaning":"COME TO TERMS",
         "id":"1250",
-        "mnemonic":""
+        "mnemonic":"A claw stroking a woman's head as they come to an agreement."
     },
     "咲":{
         "page":"345",
         "meaning":"BLOOM",
         "id":"1251",
-        "mnemonic":""
+        "mnemonic":"The breeze blown from the mouth of Spring from Heaven causes two cherry blossom leaves to fall."
     },
     "朕":{
         "page":"345",
         "meaning":"IMPERIAL WE",
         "id":"1252",
-        "mnemonic":""
+        "mnemonic":"We are the embodiment of heaven."
     },
     "茎":{
         "page":"346",
