@@ -6343,193 +6343,193 @@ var database = {
         "page":"346",
         "meaning":"STEM",
         "id":"1253",
-        "mnemonic":""
+        "mnemonic":"You have to handle the flower/grass by the stem when planting it to the ground."
     },
     "径":{
         "page":"346",
         "meaning":"PATH, DIAMETER",
         "id":"1254",
-        "mnemonic":""
+        "mnemonic":"Hold onto the wheel if you want to drive straight through the circle."
     },
     "怪":{
         "page":"346",
         "meaning":"MYSTERIOUS",
         "id":"1255",
-        "mnemonic":""
+        "mnemonic":"You might break down and grasp onto the known ground when dealing with the mysterious."
     },
     "軽":{
         "page":"346",
         "meaning":"LIGHT",
         "id":"1256",
-        "mnemonic":""
+        "mnemonic":"A vehicle can only travel through the grounds if it is light enough."
     },
     "経":{
         "page":"347",
         "meaning":"PASS THROUGH, MANAGE, SUTRA",
         "id":"1257",
-        "mnemonic":""
+        "mnemonic":"On the thread of life, you are composed of what you have felt (hands) and the places you've gone (ground)."
     },
     "斉":{
         "page":"347",
         "meaning":"EQUAL",
         "id":"1258",
-        "mnemonic":""
+        "mnemonic":"If you cross things together (Top), sometimes you get equal things (= vertically and horizontally)."
     },
     "斎":{
         "page":"347",
         "meaning":"OBSERVE RELIGIOUS ABSTINENCE, STUDY",
         "id":"1259",
-        "mnemonic":""
+        "mnemonic":"Studying literature on a table with small legs"
     },
     "済":{
         "page":"347",
         "meaning":"SETTLE, RELIEVE",
         "id":"1260",
-        "mnemonic":""
+        "mnemonic":"Settled, equal-leveled waters"
     },
     "剤":{
         "page":"348",
         "meaning":"PREPARATION",
         "id":"1261",
-        "mnemonic":""
+        "mnemonic":"Portions are equally cut in preparation to application."
     },
     "剖":{
         "page":"348",
         "meaning":"DISSECT",
         "id":"1262",
-        "mnemonic":""
+        "mnemonic":"Dissect the person standing on the box from the box with a knife."
     },
     "陪":{
         "page":"348",
         "meaning":"ATTEND UPON A SUPERIOR",
         "id":"1263",
-        "mnemonic":""
+        "mnemonic":"Superior decending from the hills to the short person."
     },
     "培":{
         "page":"348",
         "meaning":"CULTIVATE",
         "id":"1264",
-        "mnemonic":""
+        "mnemonic":"Short and close to the ground to cultivate crops."
     },
     "賠":{
         "page":"349",
         "meaning":"COMPENSATE",
         "id":"1265",
-        "mnemonic":""
+        "mnemonic":"Compensate the person standing on a box for his work."
     },
     "貼":{
         "page":"349",
         "meaning":"STICK ON",
         "id":"1266",
-        "mnemonic":""
+        "mnemonic":"You really want to hold onto that money."
     },
     "粘":{
         "page":"349",
         "meaning":"STICKY",
         "id":"1267",
-        "mnemonic":""
+        "mnemonic":"The STICKY glutinous rice is a nice adhesive."
     },
     "衡":{
         "page":"349",
         "meaning":"BALANCE",
         "id":"1268",
-        "mnemonic":""
+        "mnemonic":"The weight of the big fish can cause the BALANCE scale to go one way or another."
     },
     "換":{
         "page":"350",
         "meaning":"EXCHANGE",
         "id":"1269",
-        "mnemonic":""
+        "mnemonic":"Two people, four big hands, EXCHANGING goods."
     },
     "喚":{
         "page":"350",
         "meaning":"CALL",
         "id":"1270",
-        "mnemonic":""
+        "mnemonic":"Four people with big mouths, CALLING out for more food."
     },
     "絶":{
         "page":"350",
         "meaning":"BREAK OFF, COME TO AN END, WITHOUT MATCH",
         "id":"1271",
-        "mnemonic":""
+        "mnemonic":"A change in color marks where to break off the end of the thread."
     },
     "免":{
         "page":"350",
         "meaning":"EXEMPTION",
         "id":"1272",
-        "mnemonic":""
+        "mnemonic":"Borrowing from 晩, Escape into the night where there is no sun."
     },
     "逸":{
         "page":"351",
         "meaning":"LET SLIP",
         "id":"1273",
-        "mnemonic":""
+        "mnemonic":"Escape from the slave truck, and slip away into the night."
     },
     "勉":{
         "page":"351",
         "meaning":"ENDEAVOR",
         "id":"1274",
-        "mnemonic":""
+        "mnemonic":"A power watches over, stopping the endeavors of escaping your duties."
     },
     "晩":{
         "page":"351",
         "meaning":"EVENING",
         "id":"1275",
-        "mnemonic":""
+        "mnemonic":"The sun escapes, causing night."
     },
     "許":{
         "page":"351",
         "meaning":"PERMIT",
         "id":"1276",
-        "mnemonic":""
+        "mnemonic":"Lunch (noon) permits one to relax and talk to others."
     },
     "象":{
         "page":"352",
         "meaning":"PHENOMENON, ELEPHANT",
         "id":"1277",
-        "mnemonic":""
+        "mnemonic":"The phenomenon of looking at the Kanji long enough to be able to see an elephant from it."
     },
     "像":{
         "page":"352",
         "meaning":"IMAGE",
         "id":"1278",
-        "mnemonic":""
+        "mnemonic":"A person taking an image of a phenomenon."
     },
     "彫":{
         "page":"352",
         "meaning":"CARVE",
         "id":"1279",
-        "mnemonic":""
+        "mnemonic":"Going around a block and carving into it with three strikes."
     },
     "景":{
         "page":"352",
         "meaning":"SCENE",
         "id":"1280",
-        "mnemonic":""
+        "mnemonic":"The sun shining over the capital is a beautiful scene."
     },
     "影":{
         "page":"353",
         "meaning":"SHADOW",
         "id":"1281",
-        "mnemonic":""
+        "mnemonic":"Three beams of light strikes the scene to cast a shadow."
     },
     "撮":{
         "page":"353",
         "meaning":"PHOTOGRAPH",
         "id":"1282",
-        "mnemonic":""
+        "mnemonic":"Take some light into your hands with a photograph."
     },
     "就":{
         "page":"353",
         "meaning":"SET ABOUT",
         "id":"1283",
-        "mnemonic":""
+        "mnemonic":"Sink into a new life in the city."
     },
     "涼":{
         "page":"353",
         "meaning":"COOL",
         "id":"1284",
-        "mnemonic":""
+        "mnemonic":"A body of water by the capital keeps the busy metropolis cool and refreshing."
     },
     "鯨":{
         "page":"354",
