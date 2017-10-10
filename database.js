@@ -6535,241 +6535,241 @@ var database = {
         "page":"354",
         "meaning":"WHALE",
         "id":"1285",
-        "mnemonic":""
+        "mnemonic":"Capital sized fish."
     },
     "隔":{
         "page":"354",
         "meaning":"SEPARATE",
         "id":"1286",
-        "mnemonic":""
+        "mnemonic":"Think of the right to mean distance, with the some distance formed by the box to keep the 1 from getting inside the T-pee. The hills causes a distance separation between the cities."
     },
     "融":{
         "page":"354",
         "meaning":"FUSE, FINANCE",
         "id":"1287",
-        "mnemonic":""
+        "mnemonic":"Bugs always manage to find their way inside no matter the distance."
     },
     "肖":{
         "page":"354",
         "meaning":"LIKENESS",
         "id":"1288",
-        "mnemonic":""
+        "mnemonic":"Stick a head and hands on a piece of meat to make it seem like a person."
     },
     "消":{
         "page":"355",
         "meaning":"EXTINGUISH, SPEND",
         "id":"1289",
-        "mnemonic":""
+        "mnemonic":"Place water on the sparks to extinguish the flame."
     },
     "硝":{
         "page":"355",
         "meaning":"NITER",
         "id":"1290",
-        "mnemonic":""
+        "mnemonic":"Niter is a stone that causes sparks when stuck. Used in gunpowder."
     },
     "梢":{
         "page":"355",
         "meaning":"TIP OF A TWIG",
         "id":"1291",
-        "mnemonic":""
+        "mnemonic":"The twigs of a tree spark out in every direction."
     },
     "削":{
         "page":"355",
         "meaning":"CUT BY CHIPPING",
         "id":"1292",
-        "mnemonic":""
+        "mnemonic":"A knife chips away at something and causes sparks/fragments to fly."
     },
     "宵":{
         "page":"356",
         "meaning":"EARLY EVENING",
         "id":"1293",
-        "mnemonic":""
+        "mnemonic":"The light sparks on in the house when people get home in the early evening."
     },
     "宴":{
         "page":"356",
         "meaning":"BANQUET",
         "id":"1294",
-        "mnemonic":""
+        "mnemonic":"A woman under a roof all day preparing the banquet."
     },
     "郷":{
         "page":"356",
         "meaning":"HOMETOWN",
         "id":"1295",
-        "mnemonic":""
+        "mnemonic":"A good(mid) child(left) explores only up to the walls surrounding the city."
     },
     "饗":{
         "page":"356",
         "meaning":"BANQUET",
         "id":"1296",
-        "mnemonic":""
+        "mnemonic":"When you return to your hometown, you are often greated with a feast/banquet."
     },
     "響":{
         "page":"357",
         "meaning":"REVERBERATE",
         "id":"1297",
-        "mnemonic":""
+        "mnemonic":"You can find peace in sounds that resound with you, just like your hometown."
     },
     "城":{
         "page":"357",
         "meaning":"CASTLE",
         "id":"1298",
-        "mnemonic":""
+        "mnemonic":"The earthen forts in which the spearmen reside become castles."
     },
     "誠":{
         "page":"357",
         "meaning":"SINCERITY",
         "id":"1299",
-        "mnemonic":""
+        "mnemonic":"When one speaks with sincerity, worsd become reality."
     },
     "盛":{
         "page":"357",
         "meaning":"PROSPER",
         "id":"1300",
-        "mnemonic":""
+        "mnemonic":"Putting a lot on a plate shows that you prosperous."
     },
     "旺":{
         "page":"358",
         "meaning":"FLOURISHING",
         "id":"1301",
-        "mnemonic":""
+        "mnemonic":"King Day celebrates the flourishing the king has brought to the kingdom."
     },
     "盆":{
         "page":"358",
         "meaning":"TRAY, BON FESTIVAL",
         "id":"1302",
-        "mnemonic":""
+        "mnemonic":"Portions are placed on a tray with a plate."
     },
     "蓋":{
         "page":"358",
         "meaning":"LID",
         "id":"1303",
-        "mnemonic":""
+        "mnemonic":"Pull away the grass lid from the plate."
     },
     "盗":{
         "page":"358",
         "meaning":"STEAL",
         "id":"1304",
-        "mnemonic":""
+        "mnemonic":"Don't steal food from the plate next to you."
     },
     "盟":{
         "page":"359",
         "meaning":"ALLIANCE",
         "id":"1305",
-        "mnemonic":""
+        "mnemonic":"The sun and moon, or two opposites, share in their alliance over a plate of food."
     },
     "塩":{
         "page":"359",
         "meaning":"SALT",
         "id":"1306",
-        "mnemonic":""
+        "mnemonic":"Salt comes from the earth and will end up in a person's mouth from a plate, fed through the spoon (top)."
     },
     "傷":{
         "page":"359",
         "meaning":"WOUND",
         "id":"1307",
-        "mnemonic":""
+        "mnemonic":"It would be difficult to wound a person with a spoon (top)."
     },
     "揚":{
         "page":"359",
         "meaning":"RAISE HIGH, FRY",
         "id":"1308",
-        "mnemonic":""
+        "mnemonic":"It's difficult to lift anything up high with just your hands."
     },
     "暢":{
         "page":"360",
         "meaning":"FLUENT",
         "id":"1309",
-        "mnemonic":""
+        "mnemonic":"Pierce through all difficulties with your fluency"
     },
     "陽":{
         "page":"360",
         "meaning":"SUN, POSITIVE",
         "id":"1310",
-        "mnemonic":""
+        "mnemonic":"The sun had difficulty shining through the hill"
     },
     "陰":{
         "page":"360",
         "meaning":"SHADOW, NEGATIVE",
         "id":"1311",
-        "mnemonic":""
+        "mnemonic":"Now (top right) the clouds (bot right) brings shadow to the hills"
     },
     "隠":{
         "page":"360",
         "meaning":"HIDE",
         "id":"1312",
-        "mnemonic":""
+        "mnemonic":"Hurry and hide in the hills"
     },
     "穏":{
         "page":"361",
         "meaning":"CALM, MILD",
         "id":"1313",
-        "mnemonic":""
+        "mnemonic":"A warm bowl of rice calms a hurried heart"
     },
     "穂":{
         "page":"361",
         "meaning":"SPIKE",
         "id":"1314",
-        "mnemonic":""
+        "mnemonic":"It's a blessing to see the first head of rice."
     },
     "稲":{
         "page":"361",
         "meaning":"RICE PLANT",
         "id":"1315",
-        "mnemonic":""
+        "mnemonic":"A old farmer claws into the ground for the rice plants."
     },
     "愁":{
         "page":"361",
         "meaning":"MELANCHOLY",
         "id":"1316",
-        "mnemonic":""
+        "mnemonic":"Autumn is a time of leaving, which brings out feelings of melancholy in the heart."
     },
     "裁":{
         "page":"362",
         "meaning":"CUT OUT, JUDGE",
         "id":"1317",
-        "mnemonic":""
+        "mnemonic":"Use the spear of truth to cut out the falsities hidden under the clothes."
     },
     "載":{
         "page":"362",
         "meaning":"LOAD, PUT IN PRINT",
         "id":"1318",
-        "mnemonic":""
+        "mnemonic":"The large spear is loaded onto a vehicle for transport. You can cut the body of the vehicle with a spear that large."
     },
     "栽":{
         "page":"362",
         "meaning":"PLANTING",
         "id":"1319",
-        "mnemonic":""
+        "mnemonic":"The large spear is planted into the ground, looking like a tree from far away."
     },
     "赦":{
         "page":"362",
         "meaning":"AMNESTY",
         "id":"1320",
-        "mnemonic":""
+        "mnemonic":"A person is awarded amnesty after being struck so many times that red blood came out."
     },
     "跡":{
         "page":"363",
         "meaning":"TRACE",
         "id":"1321",
-        "mnemonic":""
+        "mnemonic":"The legs leaves traces of a person (see right as a person)."
     },
     "踪":{
         "page":"363",
         "meaning":"TRACE",
         "id":"1322",
-        "mnemonic":""
+        "mnemonic":"A person's legs/footprints marked a trace to the roofed altar they visited."
     },
     "痕":{
         "page":"363",
         "meaning":"SCAR",
         "id":"1323",
-        "mnemonic":""
+        "mnemonic":"A scar stops (inside) the diseases from getting inside."
     },
     "蹴":{
         "page":"363",
         "meaning":"KICK",
         "id":"1324",
-        "mnemonic":""
+        "mnemonic":"A kick start(right two) to a new job."
     },
     "踊":{
         "page":"364",
