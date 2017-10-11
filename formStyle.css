@@ -3,30 +3,37 @@ body {
     background: #292B2A;
 }
 
-#outer-wrapper {
-    display: table; 
-    position: absolute; 
-    width: 100%;
-    height: 100%; 
+a:link{
+    color: #AFAFAF;
+}
 
+a:visited {
+    color: #AFAFAF;
+}
+
+#outer-wrapper {
+    display: table;
+    position: absolute;
+    width: 100%;
+    height: 100%;
     /*     border: 2px dashed red;  */
-}    
+}
 
 #middle-wrapper {
     display: table-cell;
-    padding-top: 40px; 
-    vertical-align: top; 
+    padding-top: 40px;
+    vertical-align: top;
     text-align: center; /* To center child elements*/
 }
 
 #description-wrapper {
     display: inline-block; /* text-align affects inline-block */
-    text-align: left; 
-    margin-bottom: 20px; 
+    text-align: left;
+    margin-bottom: 20px;
 }
 
 .description {
-    color: #AFAFAF; 
+    color: #AFAFAF;
     margin: 0 auto;
     font-family: sans-serif;
     line-height: 1.5;
@@ -34,51 +41,51 @@ body {
 
 #shortcut {
     border: 1px solid #AFAFAF;
-    padding: 0 4px; 
+    padding: 0 4px;
 }
 
-#search-box {    
+#search-box {
     display: block;
-    margin: auto; 
-    width: 40%; 
-    padding: 7px; 
-    font-size: 25px; 
-    color: white; 
+    margin: auto;
+    width: 40%;
+    padding: 7px;
+    font-size: 25px;
+    color: white;
     border: 3px solid #33A6C4;
     /*     border: 5px solid #292B2B; */
-    border-radius: 5px; 
+    border-radius: 5px;
     /*     border: 2px solid black;  */
-    background: none; 
+    background: none;
 }
 
 #search-button {
-    display: block; 
-    margin: auto; 
+    display: block;
+    margin: auto;
     padding: 10px;
-    margin-top: 10px; 
-    font-size: 25px; 
+    margin-top: 10px;
+    font-size: 25px;
     color: #33A6C4;
-    background: none; 
-    border-radius: 5px; 
-    border: 3px solid #33A6C4; 
+    background: none;
+    border-radius: 5px;
+    border: 3px solid #33A6C4;
     /*     border: 2px solid black;  */
 }
 
 #search-button:hover {
     -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s; 
-    color: white; 
+    transition-duration: 0.4s;
+    color: white;
     background: #33A6C4;
 }
 
 
 #results {
-    margin-top: 20px; 
+    margin-top: 20px;
     font-size: 22px;
-    font-family: sans-serif;  
-    color: #BFBFBF; 
+    font-family: sans-serif;
+    color: #BFBFBF;
     /* border: 2px solid white;  */
-    text-align: center; 
+    text-align: center;
 }
 
 

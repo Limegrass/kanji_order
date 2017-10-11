@@ -6775,49 +6775,49 @@ var database = {
         "page":"364",
         "meaning":"DANCE",
         "id":"1325",
-        "mnemonic":""
+        "mnemonic":"Move forward (right) with your legs to dance."
     },
     "踏":{
         "page":"364",
         "meaning":"TREAD",
         "id":"1326",
-        "mnemonic":""
+        "mnemonic":"Step on the layers to squeeze the water out of them."
     },
     "躍":{
         "page":"364",
         "meaning":"LEAP",
         "id":"1327",
-        "mnemonic":""
+        "mnemonic":"Leap with your legs to catch the winged bird."
     },
     "濯":{
         "page":"364",
         "meaning":"RINSE",
         "id":"1328",
-        "mnemonic":""
+        "mnemonic":"The bird rinses it's wings with water."
     },
     "奇":{
         "page":"365",
         "meaning":"UNUSUAL",
         "id":"1329",
-        "mnemonic":""
+        "mnemonic":"An odd/unusual person is one that is NOT big and able."
     },
     "寄":{
         "page":"365",
         "meaning":"CONTRIBUTE, DRAW NEAR",
         "id":"1330",
-        "mnemonic":""
+        "mnemonic":"You can draw near all the weird people by contributing to their welfare with a roof."
     },
     "騎":{
         "page":"365",
         "meaning":"RIDE ON HORSEBACK",
         "id":"1331",
-        "mnemonic":""
+        "mnemonic":"An unusual horse is one that is not big and able to be ridden."
     },
     "椅":{
         "page":"365",
         "meaning":"CHAIR",
         "id":"1332",
-        "mnemonic":""
+        "mnemonic":"You can make a tree into an unusual chair."
     },
     "崎":{
         "page":"366",
