@@ -6787,7 +6787,7 @@ var database = {
         "page":"364",
         "meaning":"LEAP",
         "id":"1327",
-        "mnemonic":"Leap with your legs to catch the winged bird."
+        "mnemonic":"The bird leaps into flight with his legs"
     },
     "濯":{
         "page":"364",
@@ -6823,97 +6823,97 @@ var database = {
         "page":"366",
         "meaning":"PROMONTORY",
         "id":"1333",
-        "mnemonic":""
+        "mnemonic":"A odd mountain, one that sticks out and causes a ciff next to the ocean."
     },
     "埼":{
         "page":"366",
         "meaning":"PROMONTORY",
         "id":"1334",
-        "mnemonic":""
+        "mnemonic":"Same as prior, but odd land that sticks out to cause the cape/cliff."
     },
     "岬":{
         "page":"366",
         "meaning":"CAPE",
         "id":"1335",
-        "mnemonic":""
+        "mnemonic":"The field drops straight down into a the ocean, making the field look like a mountain. -> Cliff, Cape."
     },
     "模":{
         "page":"366",
         "meaning":"PATTERN",
         "id":"1336",
-        "mnemonic":""
+        "mnemonic":"The trees and large grasses forms a pattern on the ground. Right side: 'no more', from a sun sinking behind large grasses."
     },
     "膜":{
         "page":"367",
         "meaning":"MEMBRANE",
         "id":"1337",
-        "mnemonic":""
+        "mnemonic":"Right side: 'no more'. No more flesh, or the boundary membrane of a body part."
     },
     "漠":{
         "page":"367",
         "meaning":"DESERT, OBSCURE",
         "id":"1338",
-        "mnemonic":""
+        "mnemonic":"No more water."
     },
     "幕":{
         "page":"367",
         "meaning":"CURTAIN, SHOGUNATE",
         "id":"1339",
-        "mnemonic":""
+        "mnemonic":"Cloth which signifies that there is no more to the show, or an ending curtain."
     },
     "墓":{
         "page":"367",
         "meaning":"GRAVE",
         "id":"1340",
-        "mnemonic":""
+        "mnemonic":"Ground which marks that which lives no more."
     },
     "募":{
         "page":"368",
         "meaning":"RAISE",
         "id":"1341",
-        "mnemonic":""
+        "mnemonic":"Raise your level to the max until you can't increase your power any more."
     },
     "暮":{
         "page":"368",
         "meaning":"DUSK, LIVE",
         "id":"1342",
-        "mnemonic":""
+        "mnemonic":"No more sun at dusk."
     },
     "慕":{
         "page":"368",
         "meaning":"ADORE",
         "id":"1343",
-        "mnemonic":""
+        "mnemonic":"Adore someone so much your heart can't handle it anymore."
     },
     "添":{
         "page":"368",
         "meaning":"ADD TO",
         "id":"1344",
-        "mnemonic":""
+        "mnemonic":"Add water and air (sky) to your body so your heart continues beating."
     },
     "恭":{
         "page":"369",
         "meaning":"RESPECTFUL",
         "id":"1345",
-        "mnemonic":""
+        "mnemonic":"People should be respectful of each other's thoughts (heart)."
     },
     "暴":{
         "page":"369",
         "meaning":"VIOLENT, DISCLOSE",
         "id":"1346",
-        "mnemonic":""
+        "mnemonic":"The sun and water coming together leads to a violent event (evaporation), breaking up (disclosing) its constituent parts."
     },
     "爆":{
         "page":"369",
         "meaning":"EXPLODE",
         "id":"1347",
-        "mnemonic":""
+        "mnemonic":"Violent fire, or an explosion."
     },
     "沿":{
         "page":"369",
         "meaning":"ALONG(SIDE)",
         "id":"1348",
-        "mnemonic":""
+        "mnemonic":"Look at everything as a bunch of lines/sticks which are along-side a box"
     },
     "礎":{
         "page":"370",
