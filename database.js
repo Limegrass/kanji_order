@@ -6919,145 +6919,145 @@ var database = {
         "page":"370",
         "meaning":"FOUNDATION STONE",
         "id":"1349",
-        "mnemonic":""
+        "mnemonic":"The trees stands upright after laying the foundation stones beneath it."
     },
     "疑":{
         "page":"370",
         "meaning":"DOUBT",
         "id":"1350",
-        "mnemonic":""
+        "mnemonic":"The top spells ”暇” in Katakana, doubt anyone who idles their time away."
     },
     "凝":{
         "page":"370",
         "meaning":"CONGEAL",
         "id":"1351",
-        "mnemonic":""
+        "mnemonic":"Doubt can make you freeze/grow stiff and not be able to make a decision."
     },
     "擬":{
         "page":"370",
         "meaning":"IMITATE",
         "id":"1352",
-        "mnemonic":""
+        "mnemonic":"A mime using hand motion puts doubt on whether there really is a box around him."
     },
     "倣":{
         "page":"371",
         "meaning":"COPY AFTER",
         "id":"1353",
-        "mnemonic":""
+        "mnemonic":"A person copies after something that is let go."
     },
     "似":{
         "page":"371",
         "meaning":"RESEMBLE",
         "id":"1354",
-        "mnemonic":""
+        "mnemonic":"The person resembles the things lines that comes after it."
     },
     "俵":{
         "page":"371",
         "meaning":"STRAW SACK",
         "id":"1355",
-        "mnemonic":""
+        "mnemonic":"A person presenting himself with a straw sack of the rice he harvested."
     },
     "俺":{
         "page":"371",
         "meaning":"I",
         "id":"1356",
-        "mnemonic":""
+        "mnemonic":"A person with a big thing and a full field coming from between his legs."
     },
     "庵":{
         "page":"372",
         "meaning":"HERMITAGE",
         "id":"1357",
-        "mnemonic":""
+        "mnemonic":"A house that is big, uses a lot of electricity, and is surrounded by fields."
     },
     "僕":{
         "page":"372",
         "meaning":"I, MANSERVANT",
         "id":"1358",
-        "mnemonic":""
+        "mnemonic":"A man who has to work a lot. (Right side looks like 業)"
     },
     "撲":{
         "page":"372",
         "meaning":"DEAL A BLOW",
         "id":"1359",
-        "mnemonic":""
+        "mnemonic":"If you don't do your work, your master will hit you with their hands."
     },
     "叩":{
         "page":"372",
         "meaning":"STRIKE",
         "id":"1360",
-        "mnemonic":""
+        "mnemonic":"A mouth before and after, with the mouth bleeding and swollen."
     },
     "伐":{
         "page":"373",
         "meaning":"CUT DOWN",
         "id":"1361",
-        "mnemonic":""
+        "mnemonic":"A person with a spear will cut down."
     },
     "閥":{
         "page":"373",
         "meaning":"CLIQUE",
         "id":"1362",
-        "mnemonic":""
+        "mnemonic":"Anyone who is not part of the clique and tries to pass through the gates will get cut down."
     },
     "闘":{
         "page":"373",
         "meaning":"FIGHT",
         "id":"1363",
-        "mnemonic":""
+        "mnemonic":"A body guard name tiny and another person reaching their hand out to try to enter the gate fight."
     },
     "闇":{
         "page":"373",
         "meaning":"DARK",
         "id":"1364",
-        "mnemonic":""
+        "mnemonic":"The gates covers the light so well that all you can sense is sound."
     },
     "閑":{
         "page":"374",
         "meaning":"LEISURE, QUIET",
         "id":"1365",
-        "mnemonic":""
+        "mnemonic":"A peaceful/leisurely park with many trees inside the gates"
     },
     "脈":{
         "page":"374",
         "meaning":"VEIN, PULSE",
         "id":"1366",
-        "mnemonic":""
+        "mnemonic":"A bunch of lines/veins going through the flesh."
     },
     "派":{
         "page":"374",
         "meaning":"SECT, DISPATCH",
         "id":"1367",
-        "mnemonic":""
+        "mnemonic":"Streams of water going off in different directions signifying people going their separate ways, forming different factions."
     },
     "缶":{
         "page":"374",
         "meaning":"CAN",
         "id":"1368",
-        "mnemonic":""
+        "mnemonic":"A can, with a pull off tab."
     },
     "揺":{
         "page":"375",
         "meaning":"SHAKE",
         "id":"1369",
-        "mnemonic":""
+        "mnemonic":"Two hands of a bartender shaking a mixing can."
     },
     "謡":{
         "page":"375",
         "meaning":"POPULAR SONG",
         "id":"1370",
-        "mnemonic":""
+        "mnemonic":"Hands makes a beat on the drum cans, words provide lyrics for a popular song."
     },
     "遥":{
         "page":"375",
         "meaning":"FAR",
         "id":"1371",
-        "mnemonic":""
+        "mnemonic":"Mechanical claws drag boxes of manufactured cans away when placed on the back of a truck."
     },
     "陶":{
         "page":"375",
         "meaning":"POTTERY",
         "id":"1372",
-        "mnemonic":""
+        "mnemonic":"Take clay from the hills and form the shape of a can by wrapping your hands around it."
     },
     "陳":{
         "page":"376",
