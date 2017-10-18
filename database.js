@@ -7063,7 +7063,7 @@ var database = {
         "page":"376",
         "meaning":"SET FORTH",
         "id":"1373",
-        "mnemonic":""
+        "mnemonic":"Test"
     },
     "陣":{
         "page":"376",
