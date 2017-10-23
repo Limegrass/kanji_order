@@ -7063,169 +7063,169 @@ var database = {
         "page":"376",
         "meaning":"SET FORTH",
         "id":"1373",
-        "mnemonic":"Test"
+        "mnemonic":"Set forth onto your journey once the sun peaks from behind the tree."
     },
     "陣":{
         "page":"376",
         "meaning":"BATTLE FORMATION, CAMP",
         "id":"1374",
-        "mnemonic":""
+        "mnemonic":"A vehicle carries weapon supplies to the stronghold on the hill."
     },
     "陥":{
         "page":"376",
         "meaning":"FALL IN [INTO]",
         "id":"1375",
-        "mnemonic":""
+        "mnemonic":"The top shows two lines falling in between the cracks of the hills and the old town."
     },
     "隆":{
         "page":"376",
         "meaning":"PROSPER",
         "id":"1376",
-        "mnemonic":""
+        "mnemonic":"You are prospering when you can sit atop the work another person did on your hill of money. or Visualize top as the summit, and you accomplished your task and are sitting at the peak of the hill."
     },
     "降":{
         "page":"377",
         "meaning":"DESCEND",
         "id":"1377",
-        "mnemonic":""
+        "mnemonic":"The more years you sit atop your mountain of money, the more your net worth will descend. As the years past your will descend past your prime."
     },
     "峰":{
         "page":"377",
         "meaning":"PEAK",
         "id":"1378",
-        "mnemonic":""
+        "mnemonic":"A wood laiden path to the peak of the mountain."
     },
     "逢":{
         "page":"377",
         "meaning":"MEET",
         "id":"1379",
-        "mnemonic":""
+        "mnemonic":"Walking forward to meet the crosslegged person at the end of the path."
     },
     "縫":{
         "page":"377",
         "meaning":"SEW",
         "id":"1380",
-        "mnemonic":""
+        "mnemonic":"Make the threads meet (1379)"
     },
     "蜂":{
         "page":"378",
         "meaning":"BEE",
         "id":"1381",
-        "mnemonic":""
+        "mnemonic":"Bug with stripes and pointy end that stings."
     },
     "蜜":{
         "page":"378",
         "meaning":"HONEY",
         "id":"1382",
-        "mnemonic":""
+        "mnemonic":"Bees always need one bug (the queen) under the roof to keep command of the honey."
     },
     "密":{
         "page":"378",
         "meaning":"CLOSE, SECRET",
         "id":"1383",
-        "mnemonic":""
+        "mnemonic":"The house would be pretty densely filled if you tried to put a mountain under it."
     },
     "秘":{
         "page":"378",
         "meaning":"SECRET",
         "id":"1384",
-        "mnemonic":""
+        "mnemonic":"If rices signifies your funds, one must always keep their funds secret."
     },
     "欧":{
         "page":"379",
         "meaning":"EUROPE",
         "id":"1385",
-        "mnemonic":""
+        "mnemonic":"Europe lacks divisioning/districting, with the EU and many cultural similarities at the border of countries."
     },
     "枢":{
         "page":"379",
         "meaning":"PIVOT",
         "id":"1386",
-        "mnemonic":""
+        "mnemonic":"The tree marks a border, or a point where pivotal change will happen."
     },
     "殴":{
         "page":"379",
         "meaning":"BEAT",
         "id":"1387",
-        "mnemonic":""
+        "mnemonic":"An X-shaped slash with a lance to beat up your enemies."
     },
     "駆":{
         "page":"379",
         "meaning":"DRIVE",
         "id":"1388",
-        "mnemonic":""
+        "mnemonic":"A horse pulling a chariot, with x's on its butt from whippings by the chariot master.."
     },
     "馳":{
         "page":"380",
         "meaning":"GALLOP",
         "id":"1389",
-        "mnemonic":""
+        "mnemonic":"A male horse gallops into action when it sees an other female horse, or it was stung by a scorpion and starts gallopping.."
     },
     "騒":{
         "page":"380",
         "meaning":"CLAMOR",
         "id":"1390",
-        "mnemonic":""
+        "mnemonic":"Put a bug in front of the horse to cause a clamor."
     },
     "旭":{
         "page":"380",
         "meaning":"RISING SUN",
         "id":"1391",
-        "mnemonic":""
+        "mnemonic":"The sun rises on the 9th hour."
     },
     "旦":{
         "page":"380",
         "meaning":"DAWN",
         "id":"1392",
-        "mnemonic":""
+        "mnemonic":"The sun coming over the horizon."
     },
     "但":{
         "page":"381",
         "meaning":"PROVIDED THAT",
         "id":"1393",
-        "mnemonic":""
+        "mnemonic":"A man gets paid provided that he comes to work in the morning."
     },
     "担":{
         "page":"381",
         "meaning":"BEAR ON SHOULDER, UNDERTAKE",
         "id":"1394",
-        "mnemonic":""
+        "mnemonic":"Hands shouldering the packed supplies on the wood pallet."
     },
     "亘":{
         "page":"381",
         "meaning":"SPAN",
         "id":"1395",
-        "mnemonic":""
+        "mnemonic":"A day is the span of between when the sun crosses the two horizons in the sky."
     },
     "恒":{
         "page":"381",
         "meaning":"CONSTANT",
         "id":"1396",
-        "mnemonic":""
+        "mnemonic":"Love persists all of time, day in and day out, so it is a constant."
     },
     "垣":{
         "page":"382",
         "meaning":"FENCE",
         "id":"1397",
-        "mnemonic":""
+        "mnemonic":"The earthen wall spans the city to prevent intruders."
     },
     "宣":{
         "page":"382",
         "meaning":"PROCLAIM",
         "id":"1398",
-        "mnemonic":""
+        "mnemonic":"Proclaim something so loudly that the whole house (span) knows about it."
     },
     "喧":{
         "page":"382",
         "meaning":"CLAMOROUS",
         "id":"1399",
-        "mnemonic":""
+        "mnemonic":"A mouth just keeps shouting proclamations, making it clamorous."
     },
     "嘩":{
         "page":"382",
         "meaning":"NOISY",
         "id":"1400",
-        "mnemonic":""
+        "mnemonic":"A bunch of flowery words spills from the mouth, making it noisy."
     },
     "唾":{
         "page":"383",
