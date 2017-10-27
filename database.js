@@ -7231,529 +7231,529 @@ var database = {
         "page":"383",
         "meaning":"SALIVA",
         "id":"1401",
-        "mnemonic":""
+        "mnemonic":"Something dangling (right) from the mouth."
     },
     "壷":{
         "page":"383",
         "meaning":"JAR",
         "id":"1402",
-        "mnemonic":""
+        "mnemonic":"A man with his jar."
     },
     "坪":{
         "page":"383",
         "meaning":"TSUBO (about 3.3 square meters)",
         "id":"1403",
-        "mnemonic":""
+        "mnemonic":"Level (right) land (left)"
     },
     "畔":{
         "page":"383",
         "meaning":"WATERSIDE",
         "id":"1404",
-        "mnemonic":""
+        "mnemonic":"Half a water slide of a rice field.
     },
     "衆":{
         "page":"384",
         "meaning":"MULTITUDE",
         "id":"1405",
-        "mnemonic":""
+        "mnemonic":"Blood branching into a MULTITUDE of bloodlines."
     },
     "伊":{
         "page":"384",
         "meaning":"PHONETIC [I]",
         "id":"1406",
-        "mnemonic":""
+        "mnemonic":"Kinda looks like an I"
     },
     "君":{
         "page":"384",
         "meaning":"RULER, FAMILIAR TITLE, YOU",
         "id":"1407",
-        "mnemonic":""
+        "mnemonic":"Hand holding a royal staff, mouth issuing orders."
     },
     "群":{
         "page":"384",
         "meaning":"GROUP",
         "id":"1408",
-        "mnemonic":""
+        "mnemonic":"Group of sheep following their ruler."
     },
     "郡":{
         "page":"385",
         "meaning":"COUNTY",
         "id":"1409",
-        "mnemonic":""
+        "mnemonic":"A ruler over the capital town of the county."
     },
     "那":{
         "page":"385",
         "meaning":"PHONETIC [NA]",
         "id":"1410",
-        "mnemonic":""
+        "mnemonic":"Chinese na"
     },
     "邦":{
         "page":"385",
         "meaning":"STATE, JAPAN",
         "id":"1411",
-        "mnemonic":""
+        "mnemonic":"Visual fence on left for the state/Japan"
     },
     "郊":{
         "page":"385",
         "meaning":"SUBURB",
         "id":"1412",
-        "mnemonic":""
+        "mnemonic":"Crossing out of town brings you to the suburbs."
     },
     "効":{
         "page":"386",
         "meaning":"EFFECT",
         "id":"1413",
-        "mnemonic":""
+        "mnemonic":"Exchange strengths to produce the greatest effect."
     },
     "絞":{
         "page":"386",
         "meaning":"STRANGLE, WRING",
         "id":"1414",
-        "mnemonic":""
+        "mnemonic":"Criss cross a thread around someone's neck to strangle them."
     },
     "搾":{
         "page":"386",
         "meaning":"SQUEEZE",
         "id":"1415",
-        "mnemonic":""
+        "mnemonic":"To get something stuck out, first you need to saw (bottom right) a hole (top right) and then squeeze it out with your hands."
     },
     "紋":{
         "page":"386",
         "meaning":"CREST",
         "id":"1416",
-        "mnemonic":""
+        "mnemonic":"A thread that is like writing the symbolisms of your clan: a chest sewn on clothes and objects."
     },
     "菊":{
         "page":"387",
         "meaning":"CHRYSANTHEMUM",
         "id":"1417",
-        "mnemonic":""
+        "mnemonic":"A flower with tightly packed, large leaves."
     },
     "帝":{
         "page":"387",
         "meaning":"EMPEROR",
         "id":"1418",
-        "mnemonic":""
+        "mnemonic":"Emporer wearing a belt, standing tall, and with a cloth gown."
     },
     "締":{
         "page":"387",
         "meaning":"CONCLUDE, TIGHTEN",
         "id":"1419",
-        "mnemonic":""
+        "mnemonic":"The thread of the emporer's belt should be tightened to emphasize his statue."
     },
     "諦":{
         "page":"387",
         "meaning":"GIVE UP",
         "id":"1420",
-        "mnemonic":""
+        "mnemonic":"Instead of an emporer, think of the cloth as the white flag hanging and standing tall, with someone saving 'I give up!'"
     },
     "享":{
         "page":"388",
         "meaning":"ENJOY",
         "id":"1421",
-        "mnemonic":""
+        "mnemonic":"Every child should enjoy a roof over his head and have his mouth fed."
     },
     "郭":{
         "page":"388",
         "meaning":"OUTER ENCLOSURE",
         "id":"1422",
-        "mnemonic":""
+        "mnemonic":"Enjoy the safety inside the city walls."
     },
     "亭":{
         "page":"388",
         "meaning":"INN, PSEUDONYM SUFFIX",
         "id":"1423",
-        "mnemonic":""
+        "mnemonic":"An inn at the T shaped intersection provides a roof and feeds your mouth."
     },
     "停":{
         "page":"388",
         "meaning":"STOP",
         "id":"1424",
-        "mnemonic":""
+        "mnemonic":"A man stops for the night at an inn."
     },
     "昆":{
         "page":"389",
         "meaning":"INSECT",
         "id":"1425",
-        "mnemonic":""
+        "mnemonic":"There's a lot of insects when it's sunny compared to a rainy day."
     },
     "混":{
         "page":"389",
         "meaning":"MIX",
         "id":"1426",
-        "mnemonic":""
+        "mnemonic":"Many insects mix together in the water."
     },
     "皆":{
         "page":"389",
         "meaning":"ALL",
         "id":"1427",
-        "mnemonic":""
+        "mnemonic":"Everyone in Japan is white compared to other countries."
     },
     "楷":{
         "page":"389",
         "meaning":"BLOCK CHARACTER STYLE",
         "id":"1428",
-        "mnemonic":""
+        "mnemonic":"Make printing blocks from wood so everyone can read."
     },
     "諧":{
         "page":"390",
         "meaning":"HARMONY",
         "id":"1429",
-        "mnemonic":""
+        "mnemonic":"Everyone saying words of agreement."
     },
     "階":{
         "page":"390",
         "meaning":"FLOOR, RANK",
         "id":"1430",
-        "mnemonic":""
+        "mnemonic":"The hills are raised up to better separate the stratum between people's ranks."
     },
     "陛":{
         "page":"390",
         "meaning":"IMPERIAL PALACE STEPS",
         "id":"1431",
-        "mnemonic":""
+        "mnemonic":"The imperial palace is on a higher ground compared to those around it."
     },
     "陸":{
         "page":"390",
         "meaning":"LAND",
         "id":"1432",
-        "mnemonic":""
+        "mnemonic":"You will reach ground land before you reach the hills."
     },
     "睦":{
         "page":"391",
         "meaning":"FRIENDLY",
         "id":"1433",
-        "mnemonic":""
+        "mnemonic":"See eye to eye with someone standing before you."
     },
     "勢":{
         "page":"391",
         "meaning":"POWER, CONDITION",
         "id":"1434",
-        "mnemonic":""
+        "mnemonic":"The enemy forces stands before you all directions, do you have the power to break through?"
     },
     "熱":{
         "page":"391",
         "meaning":"HEAT",
         "id":"1435",
-        "mnemonic":""
+        "mnemonic":"Standing anywhere around a flame will be hot."
     },
     "熟":{
         "page":"391",
         "meaning":"MATURE",
         "id":"1436",
-        "mnemonic":""
+        "mnemonic":"A growing child will go around his firey rebellious phase before coming around and becoming mature."
     },
     "塾":{
         "page":"392",
         "meaning":"PRIVATE SCHOOL",
         "id":"1437",
-        "mnemonic":""
+        "mnemonic":"The land where a growing child becomes well rounded: private school."
     },
     "陵":{
         "page":"392",
         "meaning":"IMPERIAL MAUSOLEUM",
         "id":"1438",
-        "mnemonic":""
+        "mnemonic":"One that sits on the mausoleum on the hill in front/above all others."
     },
     "菱":{
         "page":"392",
         "meaning":"RHOMBUS",
         "id":"1439",
-        "mnemonic":""
+        "mnemonic":"Sitting crosslegged in the together with someone on the grass, forming a rombus between everyone."
     },
     "俊":{
         "page":"392",
         "meaning":"BRILLIANT PERSON",
         "id":"1440",
-        "mnemonic":""
+        "mnemonic":"Right is sharply stimulating (stinky feet odors coming to a nose), person, so someone smart."
     },
     "唆":{
         "page":"393",
         "meaning":"INSTIGATE",
         "id":"1441",
-        "mnemonic":""
+        "mnemonic":"Verbally giving someone something to become simulated (heated) over."
     },
     "筈":{
         "page":"393",
         "meaning":"TO BE EXPECTED",
         "id":"1442",
-        "mnemonic":""
+        "mnemonic":"It's to be expected to bring the bamboo chopsticks to your tongue."
     },
     "箸":{
         "page":"393",
         "meaning":"CHOPSTICKS",
         "id":"1443",
-        "mnemonic":""
+        "mnemonic":"Every persn should have their own pair of bamboo chopsticks."
     },
     "暑":{
         "page":"393",
         "meaning":"HOT",
         "id":"1444",
-        "mnemonic":""
+        "mnemonic":"Being between two suns is really hot."
     },
     "署":{
         "page":"394",
         "meaning":"GOVERNMENT OFFICE, SIGN ONE'S NAME",
         "id":"1445",
-        "mnemonic":""
+        "mnemonic":"The net of law catches all under its rule, and is administered from the government office."
     },
     "曙":{
         "page":"394",
         "meaning":"DAWN",
         "id":"1446",
-        "mnemonic":""
+        "mnemonic":"The government office opens at dawn."
     },
     "賭":{
         "page":"394",
         "meaning":"WAGER",
         "id":"1447",
-        "mnemonic":""
+        "mnemonic":"A person putting down money."
     },
     "諸":{
         "page":"394",
         "meaning":"VARIOUS",
         "id":"1448",
-        "mnemonic":""
+        "mnemonic":"People speak various languages."
     },
     "儲":{
         "page":"395",
         "meaning":"PROFIT",
         "id":"1449",
-        "mnemonic":""
+        "mnemonic":"Two people discussing a deal, figuring out their profits."
     },
     "緒":{
         "page":"395",
         "meaning":"OUTSET, LINE",
         "id":"1450",
-        "mnemonic":""
+        "mnemonic":"A thread of planned events that helps lead a person to begin."
     },
     "翁":{
         "page":"395",
         "meaning":"OLD MAN",
         "id":"1451",
-        "mnemonic":""
+        "mnemonic":"A old public servant dies and goes to heaven with his wings."
     },
     "婆":{
         "page":"395",
         "meaning":"OLD WOMAN",
         "id":"1452",
-        "mnemonic":""
+        "mnemonic":"An old woman has been through many waves of life's emotional rollercoaster."
     },
     "姿":{
         "page":"396",
         "meaning":"FIGURE",
         "id":"1453",
-        "mnemonic":""
+        "mnemonic":"You might sneak a passing glance at the next passing woman's shape."
     },
     "恣":{
         "page":"396",
         "meaning":"ARBITRARY",
         "id":"1454",
-        "mnemonic":""
+        "mnemonic":"Your loves may be a bit abritrary if you fall for the next person you see."
     },
     "妄":{
         "page":"396",
         "meaning":"RASH",
         "id":"1455",
-        "mnemonic":""
+        "mnemonic":"A demented crazy old woman about to die."
     },
     "萎":{
         "page":"396",
         "meaning":"WILT",
         "id":"1456",
-        "mnemonic":""
+        "mnemonic":"The rice bales used to cover the woman's graves have wilted to look like grass."
     },
     "妻":{
         "page":"397",
         "meaning":"WIFE",
         "id":"1457",
-        "mnemonic":""
+        "mnemonic":"See a woman holding a broom."
     },
     "凄":{
         "page":"397",
         "meaning":"TREMENDOUS",
         "id":"1458",
-        "mnemonic":""
+        "mnemonic":"A tremendous, terrible wife that is as cold as ice."
     },
     "章":{
         "page":"397",
         "meaning":"CHAPTER, BADGE",
         "id":"1459",
-        "mnemonic":""
+        "mnemonic":"The list of chapter stands first in the book, or stand fast to receive your badge of honor."
     },
     "彰":{
         "page":"397",
         "meaning":"PROCLAIM MERITS",
         "id":"1460",
-        "mnemonic":""
+        "mnemonic":"Three marks for three chapters that you really enjoyed, or three marks of honor on your badge."
     },
     "障":{
         "page":"398",
         "meaning":"HINDRANCE",
         "id":"1461",
-        "mnemonic":""
+        "mnemonic":"The hills hinder the person from going up the hill fast."
     },
     "辛":{
         "page":"398",
         "meaning":"PUNGENT, HARD",
         "id":"1462",
-        "mnemonic":""
+        "mnemonic":"Standing on a pointy needle can be harsh."
     },
     "宰":{
         "page":"398",
         "meaning":"PRESIDE",
         "id":"1463",
-        "mnemonic":""
+        "mnemonic":"It's hard to hold everything inside when times are hard."
     },
     "辣":{
         "page":"398",
         "meaning":"SHARP",
         "id":"1464",
-        "mnemonic":""
+        "mnemonic":"A bunch of spicy peppers makes for a sharp tasten."
     },
     "辞":{
         "page":"399",
         "meaning":"WORD, RESIGN",
         "id":"1465",
-        "mnemonic":""
+        "mnemonic":"Take two separate meanings, a harsh tongue spits out a lot of words, and a spicy tongue wants to give up and stop tasting."
     },
     "壁":{
         "page":"399",
         "meaning":"WALL",
         "id":"1466",
-        "mnemonic":""
+        "mnemonic":"It was a hard life to erect the great wall of china, and led to many corpses in the wall."
     },
     "璧":{
         "page":"399",
         "meaning":"MAGNIFICENT JEWEL",
         "id":"1467",
-        "mnemonic":""
+        "mnemonic":"Many people died and became corpses in the quest to obtain the MAGNIFICENT JEWEL."
     },
     "癖":{
         "page":"399",
         "meaning":"HABIT",
         "id":"1468",
-        "mnemonic":""
+        "mnemonic":"Eating too much spicy food can make you feel sick, but the spiciness is addicting and you can't stop the habit."
     },
     "避":{
         "page":"400",
         "meaning":"AVOID",
         "id":"1469",
-        "mnemonic":""
+        "mnemonic":"You generally want to avoid anything harsh and anything that may cause you to become a corpse."
     },
     "幸":{
         "page":"400",
         "meaning":"GOOD FORTUNE, HAPPINESS",
         "id":"1470",
-        "mnemonic":""
+        "mnemonic":"The sheep enjoy grazing on the land."
     },
     "服":{
         "page":"400",
         "meaning":"CLOTHES, SUBMIT",
         "id":"1471",
-        "mnemonic":""
+        "mnemonic":"The right is a covered hand (Not really, personal phoneme meaning), so take meaning of cover. Cover the flesh."
     },
     "報":{
         "page":"400",
         "meaning":"REPORT, REQUITE",
         "id":"1472",
-        "mnemonic":""
+        "mnemonic":"See right as a covered hand. Cover the happy things in a report."
     },
     "執":{
         "page":"401",
         "meaning":"EXECUTE, SEIZE",
         "id":"1473",
-        "mnemonic":""
+        "mnemonic":"People around always wants to seize your happiness."
     },
     "摯":{
         "page":"401",
         "meaning":"SINCERE",
         "id":"1474",
-        "mnemonic":""
+        "mnemonic":"You are sincere when you want to seize and grasp someone's hand."
     },
     "達":{
         "page":"401",
         "meaning":"ATTAIN, PLURAL SUFFIX",
         "id":"1475",
-        "mnemonic":""
+        "mnemonic":"More people travelling together are happy while seeking happiness."
     },
     "朗":{
         "page":"401",
         "meaning":"CHEERFUL, CLEAR",
         "id":"1476",
-        "mnemonic":""
+        "mnemonic":"A good moon brings cheer as you can celebrate, and it is bright and clear."
     },
     "浪":{
         "page":"402",
         "meaning":"BILLOW, ROAM",
         "id":"1477",
-        "mnemonic":""
+        "mnemonic":"Still water can be dangerous, but good water will roam around."
     },
     "呉":{
         "page":"402",
         "meaning":"KINGDOM OF WU, GIVE",
         "id":"1478",
-        "mnemonic":""
+        "mnemonic":"A fancy box on a pedastal, served on a tray, given to whoever."
     },
     "娯":{
         "page":"402",
         "meaning":"ENJOYMENT",
         "id":"1479",
-        "mnemonic":""
+        "mnemonic":"A woman enjoying her giving her life to provide for the family."
     },
     "誤":{
         "page":"402",
         "meaning":"MISTAKE",
         "id":"1480",
-        "mnemonic":""
+        "mnemonic":"The words are bent out of shape, written mistakenly."
     },
     "富":{
         "page":"403",
         "meaning":"RICH",
         "id":"1481",
-        "mnemonic":""
+        "mnemonic":"Put what you find in the field into a box and cover it with a lid. Twice. So you can really contain your riches."
     },
     "副":{
         "page":"403",
         "meaning":"SECONDARY",
         "id":"1482",
-        "mnemonic":""
+        "mnemonic":"Slice your field harvests in half and give them to your subordinates/secondary men."
     },
     "幅":{
         "page":"403",
         "meaning":"WIDTH",
         "id":"1483",
-        "mnemonic":""
+        "mnemonic":"A cloth is used to cover the width of the field harvest, since the top is already covered with a lid."
     },
     "福":{
         "page":"403",
         "meaning":"FORTUNE",
         "id":"1484",
-        "mnemonic":""
+        "mnemonic":"A god blessing with good harvest to have plenty left over to store, and thus good fortune."
     },
     "祉":{
         "page":"404",
         "meaning":"BLESSEDNESS",
         "id":"1485",
-        "mnemonic":""
+        "mnemonic":"Offer and appropriate amount to the altar, stop before you over do it (see 1486)."
     },
     "禍":{
         "page":"404",
         "meaning":"CALAMITY",
         "id":"1486",
-        "mnemonic":""
+        "mnemonic":"You over did the offerings and the gods bring CALAMITY."
     },
     "渦":{
         "page":"404",
         "meaning":"WHIRLPOOL",
         "id":"1487",
-        "mnemonic":""
+        "mnemonic":"Too much water swirling around causes a whirlpool."
     },
     "鍋":{
         "page":"404",
         "meaning":"POT",
         "id":"1488",
-        "mnemonic":""
+        "mnemonic":"A lot of metal pots and pans stacked up in the kitchen sink.."
     },
     "蘭":{
         "page":"405",
