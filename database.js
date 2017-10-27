@@ -7153,13 +7153,13 @@ var database = {
         "page":"379",
         "meaning":"DRIVE",
         "id":"1388",
-        "mnemonic":"A horse pulling a chariot, with x's on its butt from whippings by the chariot master.."
+        "mnemonic":"A horse pulling a chariot, with x's on its butt from whippings by the chariot master."
     },
     "馳":{
         "page":"380",
         "meaning":"GALLOP",
         "id":"1389",
-        "mnemonic":"A male horse gallops into action when it sees an other female horse, or it was stung by a scorpion and starts gallopping.."
+        "mnemonic":"A male horse gallops into action when it sees an other female horse, or it was stung by a scorpion and starts gallopping."
     },
     "騒":{
         "page":"380",
@@ -7249,7 +7249,7 @@ var database = {
         "page":"383",
         "meaning":"WATERSIDE",
         "id":"1404",
-        "mnemonic":"Half a water slide of a rice field.
+        "mnemonic":"Half a water slide of a rice field."
     },
     "衆":{
         "page":"384",
@@ -7753,7 +7753,7 @@ var database = {
         "page":"404",
         "meaning":"POT",
         "id":"1488",
-        "mnemonic":"A lot of metal pots and pans stacked up in the kitchen sink.."
+        "mnemonic":"A lot of metal pots and pans stacked up in the kitchen sink."
     },
     "蘭":{
         "page":"405",
