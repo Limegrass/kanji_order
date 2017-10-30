@@ -7669,7 +7669,7 @@ var database = {
         "page":"401",
         "meaning":"SINCERE",
         "id":"1474",
-        "mnemonic":"You are sincere when you want to seize and grasp someone's hand."
+        "mnemonic":"You are most sincere when you wrap your hand around someone you like and are happy with."
     },
     "達":{
         "page":"401",
@@ -7759,613 +7759,613 @@ var database = {
         "page":"405",
         "meaning":"ORCHID, HOLLAND",
         "id":"1489",
-        "mnemonic":""
+        "mnemonic":"You want to present the gate to the east as a gate to a flowery orchid garden."
     },
     "欄":{
         "page":"405",
         "meaning":"COLUMN",
         "id":"1490",
-        "mnemonic":""
+        "mnemonic":"The news which provides a gate to knowing about the east is written on columns of paper made from wood."
     },
     "潤":{
         "page":"405",
         "meaning":"MOIST",
         "id":"1491",
-        "mnemonic":""
+        "mnemonic":"The gate is kept moist with water to keep the courtyard cool by the king's orders."
     },
     "淵":{
         "page":"405",
         "meaning":"EDGE, DEEP POOL",
         "id":"1492",
-        "mnemonic":""
+        "mnemonic":"Water fills the gate between the edge of a building, to create a deep moat so people can't cross straight from one side to the other."
     },
     "滑":{
         "page":"406",
         "meaning":"SLIDE, SMOOTH",
         "id":"1493",
-        "mnemonic":""
+        "mnemonic":"Water slides right off smooth bones."
     },
     "稽":{
         "page":"406",
         "meaning":"PRACTICE",
         "id":"1494",
-        "mnemonic":""
+        "mnemonic":"One person alone (middle) practices every day (bottom) using his halberd like weapon (top) to slice rice bales (left)."
     },
     "肩":{
         "page":"406",
         "meaning":"SHOULDER",
         "id":"1495",
-        "mnemonic":""
+        "mnemonic":"Door provides a frame which the triangular flesh can cross under."
     },
     "脅":{
         "page":"406",
         "meaning":"THREATEN",
         "id":"1496",
-        "mnemonic":""
+        "mnemonic":"Three powers gang up on one blob of flesh to threaten it."
     },
     "肯":{
         "page":"407",
         "meaning":"ASSENT",
         "id":"1497",
-        "mnemonic":""
+        "mnemonic":"Everyone can agree (assent) to stopping for the night when the moon comes out."
     },
     "双":{
         "page":"407",
         "meaning":"SET OF TWO",
         "id":"1498",
-        "mnemonic":""
+        "mnemonic":"Two hands, a pair."
     },
     "江":{
         "page":"407",
         "meaning":"INLET",
         "id":"1499",
-        "mnemonic":""
+        "mnemonic":"Water flowing into a curved inlet."
     },
     "湾":{
         "page":"407",
         "meaning":"BAY",
         "id":"1500",
-        "mnemonic":""
+        "mnemonic":"Water bows around the bay of the red sea near Taiwan."
     },
     "港":{
         "page":"408",
         "meaning":"PORT",
         "id":"1501",
-        "mnemonic":""
+        "mnemonic":"Ships are wrapped up together in the water at the port."
     },
     "選":{
         "page":"408",
         "meaning":"SELECT",
         "id":"1502",
-        "mnemonic":""
+        "mnemonic":"Two people picking the stuff they want to take together on the truck when they move."
     },
     "択":{
         "page":"408",
         "meaning":"SELECT",
         "id":"1503",
-        "mnemonic":""
+        "mnemonic":"Right is a two handed shovel that the digger chose to use to make it easier."
     },
     "沢":{
         "page":"408",
         "meaning":"SWAMP, ABUNDANT",
         "id":"1504",
-        "mnemonic":""
+        "mnemonic":"If you're digging (right) in a swamp, you're digging into plenty of water."
     },
     "訳":{
         "page":"409",
         "meaning":"TRANSLATE, SENSE",
         "id":"1505",
-        "mnemonic":""
+        "mnemonic":"A translator digs for the right words to translate to another language."
     },
     "釈":{
         "page":"409",
         "meaning":"ELUCIDATE, RELEASE",
         "id":"1506",
-        "mnemonic":""
+        "mnemonic":"The digger accidentally cuts into some rice bundles and releases the stored rice out. Spilling the beans."
     },
     "敷":{
         "page":"409",
         "meaning":"LAY",
         "id":"1507",
-        "mnemonic":""
+        "mnemonic":"A person strikes the cauldron when the food is done, and begins to lay out the tableware."
     },
     "傲":{
         "page":"409",
         "meaning":"PROUD",
         "id":"1508",
-        "mnemonic":""
+        "mnemonic":"A person proudly bears with the pain of bring struck on the ground."
     },
     "贅":{
         "page":"410",
         "meaning":"LUXURY",
         "id":"1509",
-        "mnemonic":""
+        "mnemonic":"A person lays (top, 1507) a bunch of money on the ground."
     },
     "審":{
         "page":"410",
         "meaning":"EXAMINE CAREFULLY, TRY",
         "id":"1510",
-        "mnemonic":""
+        "mnemonic":"A person keeps careful watch under the roof as it's their job."
     },
     "藩":{
         "page":"410",
         "meaning":"FEUDAL DOMAIN",
         "id":"1511",
-        "mnemonic":""
+        "mnemonic":"A feudal domain consisting of land, water, and guards."
     },
     "翻":{
         "page":"410",
         "meaning":"TURN OVER, RENDER IN ANOTHER FORM",
         "id":"1512",
-        "mnemonic":""
+        "mnemonic":"Watch the wings turn over as they flap, changing into another form (like another language)."
     },
     "翔":{
         "page":"411",
         "meaning":"SOAR",
         "id":"1513",
-        "mnemonic":""
+        "mnemonic":"Gryphon (winged sheep) soaring through the sky."
     },
     "査":{
         "page":"411",
         "meaning":"LOOK INTO",
         "id":"1514",
-        "mnemonic":""
+        "mnemonic":"Climb the ladder up the tree to look for something."
     },
     "租":{
         "page":"411",
         "meaning":"LAND TAX",
         "id":"1515",
-        "mnemonic":""
+        "mnemonic":"Land tax, as growing rice takes up land. Your money goes up the social ladder as a result."
     },
     "粗":{
         "page":"411",
         "meaning":"COARSE",
         "id":"1516",
-        "mnemonic":""
+        "mnemonic":"Unprocessed, coarse grains of rice used for the land tax (1515)."
     },
     "阻":{
         "page":"412",
         "meaning":"HAMPER",
         "id":"1517",
-        "mnemonic":""
+        "mnemonic":"The hills hinder seeing past everything on the ladder."
     },
     "狙":{
         "page":"412",
         "meaning":"AIM AT",
         "id":"1518",
-        "mnemonic":""
+        "mnemonic":"A dog of the state who wishes to climb the social ladder."
     },
     "宜":{
         "page":"412",
         "meaning":"RIGHT",
         "id":"1519",
-        "mnemonic":""
+        "mnemonic":"Climbing a ladder is the right way to get to the roof."
     },
     "畳":{
         "page":"412",
         "meaning":"TATAMI (straw mat), FOLD UP",
         "id":"1520",
-        "mnemonic":""
+        "mnemonic":"A bundle of tatami mats, spread out on top and folded up on bottom."
     },
     "甲":{
         "page":"413",
         "meaning":"SHELL, FIRST IN A SERIES",
         "id":"1521",
-        "mnemonic":""
+        "mnemonic":"A shell stops the light from the sun from piercing the insides. For something first, it is marked by the placard."
     },
     "乙":{
         "page":"413",
         "meaning":"SECOND IN A SERIES",
         "id":"1522",
-        "mnemonic":""
+        "mnemonic":"Looks like a 2."
     },
     "丙":{
         "page":"413",
         "meaning":"THIRD IN A SERIES",
         "id":"1523",
-        "mnemonic":""
+        "mnemonic":"Both distinct parts of the character are 3 strokes."
     },
     "柄":{
         "page":"413",
         "meaning":"CHARACTER, STATUS",
         "id":"1524",
-        "mnemonic":""
+        "mnemonic":"A tree's bark and a lid covers the character inside."
     },
     "押":{
         "page":"414",
         "meaning":"PUSH",
         "id":"1525",
-        "mnemonic":""
+        "mnemonic":"Push the button down the stem with your hands."
     },
     "抽":{
         "page":"414",
         "meaning":"DRAW OUT",
         "id":"1526",
-        "mnemonic":""
+        "mnemonic":"Draw/pull the button back up after it got stuck (1525)."
     },
     "捜":{
         "page":"414",
         "meaning":"LOOK FOR",
         "id":"1527",
-        "mnemonic":""
+        "mnemonic":"You're holding a torch in your hands to look for something."
     },
     "届":{
         "page":"414",
         "meaning":"DELIVER, REACH",
         "id":"1528",
-        "mnemonic":""
+        "mnemonic":"A person holding a pizza box delivering to your door."
     },
     "宙":{
         "page":"415",
         "meaning":"SPACE, MIDAIR",
         "id":"1529",
-        "mnemonic":""
+        "mnemonic":"Through reason and science, we were able to uncap our terrestial roof and reach space."
     },
     "笛":{
         "page":"415",
         "meaning":"FLUTE",
         "id":"1530",
-        "mnemonic":""
+        "mnemonic":"Blow into the bamboo holey object, a flute."
     },
     "袖":{
         "page":"415",
         "meaning":"SLEEVE",
         "id":"1531",
-        "mnemonic":""
+        "mnemonic":"A cloth, with your arms poking out of the sleeves."
     },
     "襟":{
         "page":"415",
         "meaning":"COLLAR",
         "id":"1532",
-        "mnemonic":""
+        "mnemonic":"A tight collar can make your clothes feel restricting."
     },
     "衿":{
         "page":"416",
         "meaning":"COLLAR",
         "id":"1533",
-        "mnemonic":""
+        "mnemonic":"You should be generally clothed starting from now, at the collar, down to your feet."
     },
     "裾":{
         "page":"416",
         "meaning":"CUFF",
         "id":"1534",
-        "mnemonic":""
+        "mnemonic":"Cloth, and visually see the cuff/hem as your arm pokes out on the right."
     },
     "据":{
         "page":"416",
         "meaning":"SET",
         "id":"1535",
-        "mnemonic":""
+        "mnemonic":"Use your hands to set up something that will exist from here on out."
     },
     "握":{
         "page":"416",
         "meaning":"GRASP",
         "id":"1536",
-        "mnemonic":""
+        "mnemonic":"Grasp items you want in the shop."
     },
     "揃":{
         "page":"417",
         "meaning":"MAKE UNIFORM",
         "id":"1537",
-        "mnemonic":""
+        "mnemonic":"Use your hand to make all items before you uniform."
     },
     "撫":{
         "page":"417",
         "meaning":"STROKE",
         "id":"1538",
-        "mnemonic":""
+        "mnemonic":"A hand strokes the pain away."
     },
     "託":{
         "page":"417",
         "meaning":"ENTRUST",
         "id":"1539",
-        "mnemonic":""
+        "mnemonic":"Entrust what you want someone else to do by telling the person relaxing on the right what you want to be done, since he's not doing anything anyways."
     },
     "宅":{
         "page":"417",
         "meaning":"DWELLING HOUSE",
         "id":"1540",
-        "mnemonic":""
+        "mnemonic":"Person relaxing under the roof of his house."
     },
     "詫":{
         "page":"418",
         "meaning":"APOLOGIZE",
         "id":"1541",
-        "mnemonic":""
+        "mnemonic":"Come to the house of the person you want to apologize directly to."
     },
     "宇":{
         "page":"418",
         "meaning":"UNIVERSE",
         "id":"1542",
-        "mnemonic":""
+        "mnemonic":"We are stuck under the roof of the universe."
     },
     "芋":{
         "page":"418",
         "meaning":"POTATO",
         "id":"1543",
-        "mnemonic":""
+        "mnemonic":"Potatoes are stuck under the grasses/flower of its plant above, as it's a root."
     },
     "寿":{
         "page":"418",
         "meaning":"LONGEVITY, CONGRATULATIONS",
         "id":"1544",
-        "mnemonic":""
+        "mnemonic":"See the many tiers as many stages of life, and the 寸 as a congratulatory hand."
     },
     "鋳":{
         "page":"419",
         "meaning":"CAST",
         "id":"1545",
-        "mnemonic":""
+        "mnemonic":"Cast the metal into the shape it will hold for a long time."
     },
     "銘":{
         "page":"419",
         "meaning":"INSCRIPTION",
         "id":"1546",
-        "mnemonic":""
+        "mnemonic":"Inscribe your name onto the metal you casted."
     },
     "鏡":{
         "page":"419",
         "meaning":"MIRROR, OPTICAL INSTRUMENT",
         "id":"1547",
-        "mnemonic":""
+        "mnemonic":"Stand (top) in front of reflective metal (left) to see (bot) yourself."
     },
     "境":{
         "page":"419",
         "meaning":"BOUNDARY, SITUATION",
         "id":"1548",
-        "mnemonic":""
+        "mnemonic":"You can't cross the border of your lands, but you can stand next to it and see across."
     },
     "環":{
         "page":"420",
         "meaning":"RING, SURROUND",
         "id":"1549",
-        "mnemonic":""
+        "mnemonic":"You are dumbfounded by the ring (net, above) that surrounds the jewel."
     },
     "還":{
         "page":"420",
         "meaning":"RETURN",
         "id":"1550",
-        "mnemonic":""
+        "mnemonic":"Sending the ring (1549) back."
     },
     "盾":{
         "page":"420",
         "meaning":"SHIELD",
         "id":"1551",
-        "mnemonic":""
+        "mnemonic":"Protect yourself by holding out a shield in front of you."
     },
     "循":{
         "page":"420",
         "meaning":"CIRCULATE",
         "id":"1552",
-        "mnemonic":""
+        "mnemonic":"If you can't penetrate the shield, you can go around it, 'circulating' it."
     },
     "巡":{
         "page":"421",
         "meaning":"MAKE THE ROUNDS",
         "id":"1553",
-        "mnemonic":""
+        "mnemonic":"A sign telling the car to detour left, making it go around."
     },
     "這":{
         "page":"421",
         "meaning":"CRAWL",
         "id":"1554",
-        "mnemonic":""
+        "mnemonic":"A baby that can't talk, but can only crawl."
     },
     "逓":{
         "page":"421",
         "meaning":"RELAY",
         "id":"1555",
-        "mnemonic":""
+        "mnemonic":"A radio tower (inside), carrying the signal wave (shield-like portion) to relay it."
     },
     "息":{
         "page":"421",
         "meaning":"BREATH",
         "id":"1556",
-        "mnemonic":""
+        "mnemonic":"Breath through the nose to let oxygen get to the heart."
     },
     "憩":{
         "page":"422",
         "meaning":"TAKE A REST",
         "id":"1557",
-        "mnemonic":""
+        "mnemonic":"Take a breath and sate your thrist."
     },
     "鼻":{
         "page":"422",
         "meaning":"NOSE",
         "id":"1558",
-        "mnemonic":""
+        "mnemonic":"Your nose (top) is where the air (bottom) comes through your head (mid)."
     },
     "孔":{
         "page":"422",
         "meaning":"OPEN HOLE",
         "id":"1559",
-        "mnemonic":""
+        "mnemonic":"A child with a hook will end up making a lot of open holes in fabrics."
     },
     "臭":{
         "page":"422",
         "meaning":"BAD SMELL",
         "id":"1560",
-        "mnemonic":""
+        "mnemonic":"A bad odor coming together to pierce the nose."
     },
     "嗅":{
         "page":"423",
         "meaning":"SMELL",
         "id":"1561",
-        "mnemonic":""
+        "mnemonic":"A dog (and everyone) kinda smell with both it's mouth and it's nose."
     },
     "奥":{
         "page":"423",
         "meaning":"INNER PART",
         "id":"1562",
-        "mnemonic":""
+        "mnemonic":"Hide your big bag of rice deep in your house."
     },
     "尖":{
         "page":"423",
         "meaning":"POINTY",
         "id":"1563",
-        "mnemonic":""
+        "mnemonic":"Something is pointy if it goes from big to small."
     },
     "突":{
         "page":"423",
         "meaning":"THRUST",
         "id":"1564",
-        "mnemonic":""
+        "mnemonic":"Visually piercing into the hole by thrusting."
     },
     "窒":{
         "page":"424",
         "meaning":"CHOKE, NITROGEN",
         "id":"1565",
-        "mnemonic":""
+        "mnemonic":"Some plugs arrive into a hole and chokes any air from coming air. Nitrogen causes suffocation."
     },
     "窃":{
         "page":"424",
         "meaning":"STEAL",
         "id":"1566",
-        "mnemonic":""
+        "mnemonic":"Cut a hole into a container to steal the contents within."
     },
     "衝":{
         "page":"424",
         "meaning":"COLLIDE",
         "id":"1567",
-        "mnemonic":""
+        "mnemonic":"A heavy impact between two moving vehicle."
     },
     "契":{
         "page":"424",
         "meaning":"PLEDGE",
         "id":"1568",
-        "mnemonic":""
+        "mnemonic":"Pledge to use your sword (right) to protect the life (left) of someone bigger than you (bot)."
     },
     "喫":{
         "page":"425",
         "meaning":"INGEST",
         "id":"1569",
-        "mnemonic":""
+        "mnemonic":"Bring the sake cup to your mouth to complete the pledge (right, 1568)"
     },
     "潔":{
         "page":"425",
         "meaning":"IMMACULATE",
         "id":"1570",
-        "mnemonic":""
+        "mnemonic":"A raw plant is fine grained by the swod into a thread, and rinsed with water to create and immaculate thread."
     },
     "侮":{
         "page":"425",
         "meaning":"INSULT",
         "id":"1571",
-        "mnemonic":""
+        "mnemonic":"Saying someone lives day by day and has no ambition is an insult."
     },
     "梅":{
         "page":"425",
         "meaning":"JAPANESE APRICOT",
         "id":"1572",
-        "mnemonic":""
+        "mnemonic":"Apricot are used for every purpose. Pickling, sauces, liquor, medicine."
     },
     "悔":{
         "page":"426",
         "meaning":"REPENT",
         "id":"1573",
-        "mnemonic":""
+        "mnemonic":"The mind (heart) thinks back to all possible decisions and regrets."
     },
     "敏":{
         "page":"426",
         "meaning":"NIMBLE",
         "id":"1574",
-        "mnemonic":""
+        "mnemonic":"Every strike of the whip causes the trainee to be more nimble and alert."
     },
     "繁":{
         "page":"426",
         "meaning":"THRIVE",
         "id":"1575",
-        "mnemonic":""
+        "mnemonic":"If you are nimble and alert, you can handle many threads of work and thrive, but you'll be very busy."
     },
     "繋":{
         "page":"426",
         "meaning":"CONNECT",
         "id":"1576",
-        "mnemonic":""
+        "mnemonic":"Connect the lances to the vehicles with the thread."
     },
     "茂":{
         "page":"427",
         "meaning":"GROW THICK",
         "id":"1577",
-        "mnemonic":""
+        "mnemonic":"The grass has grown so thick that you need a spear to cut your way through it."
     },
     "橋":{
         "page":"427",
         "meaning":"BRIDGE",
         "id":"1578",
-        "mnemonic":""
+        "mnemonic":"Bridges are wooden structure that exists high so you can cross whatever is below it."
     },
     "矯":{
         "page":"427",
         "meaning":"RECTIFY",
         "id":"1579",
-        "mnemonic":""
+        "mnemonic":"If the arrow is bent, it doesn't stand tall. You need to rectify that."
     },
     "稿":{
         "page":"427",
         "meaning":"MANUSCRIPT",
         "id":"1580",
-        "mnemonic":""
+        "mnemonic":"A manuscript, written on a scroll of rice paper, that is really tall (long) when expanded."
     },
     "縞":{
         "page":"428",
         "meaning":"STRIPE",
         "id":"1581",
-        "mnemonic":""
+        "mnemonic":"A thread that runs along the whole flag is a stripe."
     },
     "箋":{
         "page":"428",
         "meaning":"WRITING PAPER",
         "id":"1582",
-        "mnemonic":""
+        "mnemonic":"Use the spears to shred the bamboo into writing paper."
     },
     "残":{
         "page":"428",
         "meaning":"LEAVE BEHIND, RUTHLESS",
         "id":"1583",
-        "mnemonic":""
+        "mnemonic":"The group of spearmen (right, 1582 bot) were ruthless and only left behind dead bodies (left)."
     },
     "桟":{
         "page":"428",
         "meaning":"SCAFFOLD",
         "id":"1584",
-        "mnemonic":""
+        "mnemonic":"A bunch of spearmen (right, 1582 bot) working on the wooden scaffolding to build something."
     },
     "銭":{
         "page":"429",
         "meaning":"MONEY",
         "id":"1585",
-        "mnemonic":""
+        "mnemonic":"The bunch of spearmen of course wants to be paid money."
     },
     "践":{
         "page":"429",
         "meaning":"PUT INTO ACTION",
         "id":"1586",
-        "mnemonic":""
+        "mnemonic":"The bunch of spearmen set out on foot to put their plan into action."
     },
     "浅":{
         "page":"429",
         "meaning":"SHALLOW",
         "id":"1587",
-        "mnemonic":""
+        "mnemonic":"The water is shallow enough that the group of spearmen can cross it on foot."
     },
     "洩":{
         "page":"429",
         "meaning":"LEAK",
         "id":"1588",
-        "mnemonic":""
+        "mnemonic":"The box is leaking water while it is being dragged across the field, leaving it's trail."
     },
     "壮":{
         "page":"430",
         "meaning":"VIGOROUS, GRAND",
         "id":"1589",
-        "mnemonic":""
+        "mnemonic":"A vigorous soldier carrying a tablet inscribed with tales of grand deeds."
     },
     "荘":{
         "page":"430",
         "meaning":"VILLA, DIGNIFIED",
         "id":"1590",
-        "mnemonic":""
+        "mnemonic":"Grand grassland with a villa."
     },
     "装":{
         "page":"430",
