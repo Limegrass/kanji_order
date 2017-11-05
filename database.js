@@ -6883,7 +6883,7 @@ var database = {
         "page":"368",
         "meaning":"ADORE",
         "id":"1343",
-        "mnemonic":"Adore someone so much your heart can't handle it anymore."
+        "mnemonic":"Adore someone so much your heart can't handle it anymore (no more, top)."
     },
     "添":{
         "page":"368",
@@ -7249,7 +7249,7 @@ var database = {
         "page":"383",
         "meaning":"WATERSIDE",
         "id":"1404",
-        "mnemonic":"Half a water slide of a rice field."
+        "mnemonic":"The half of the character is on the watery side of a rice paddy."
     },
     "衆":{
         "page":"384",
@@ -8371,421 +8371,421 @@ var database = {
         "page":"430",
         "meaning":"DRESS, FIT OUT",
         "id":"1591",
-        "mnemonic":""
+        "mnemonic":"Dress yourself in grand (top) clothing (bot) for an event."
     },
     "冥":{
         "page":"430",
-        "meaning":"DARK",
+        "meaning":"(metaphorically) DARK",
         "id":"1592",
-        "mnemonic":""
+        "mnemonic":"It's dark if you cover the sun in six layers."
     },
     "暗":{
         "page":"431",
         "meaning":"DARK",
         "id":"1593",
-        "mnemonic":""
+        "mnemonic":"If something stands and covers the source of light, it is dark."
     },
     "韻":{
         "page":"431",
         "meaning":"RHYME",
         "id":"1594",
-        "mnemonic":""
+        "mnemonic":"Right side sound component インsame as 員, and it is used in meaning of word sound component. Sounds makes rhymes."
     },
     "損":{
         "page":"431",
         "meaning":"LOSS",
         "id":"1595",
-        "mnemonic":""
+        "mnemonic":"An employee makes a mistake with their hands and cause the company losses."
     },
     "捕":{
         "page":"431",
         "meaning":"CATCH",
         "id":"1596",
-        "mnemonic":""
+        "mnemonic":"The hand catches the cauldron before it spills (see top right mark as a little spill)."
     },
     "挿":{
         "page":"432",
         "meaning":"INSERT",
         "id":"1597",
-        "mnemonic":""
+        "mnemonic":"Hand sticking a pin into a hole."
     },
     "補":{
         "page":"432",
         "meaning":"SUPPLEMENT",
         "id":"1598",
-        "mnemonic":""
+        "mnemonic":"The fishing nets (right) must be fixed all the time by supplementing/replenishing it's threads."
     },
     "浦":{
         "page":"432",
         "meaning":"SEASIDE",
         "id":"1599",
-        "mnemonic":""
+        "mnemonic":"Fishing nets cast by the seaside waters."
     },
     "哺":{
         "page":"432",
         "meaning":"SUCKLE",
         "id":"1600",
-        "mnemonic":""
+        "mnemonic":"A mouth suckling on the breasts of a fishnet-wearing lady."
     },
     "舗":{
         "page":"433",
         "meaning":"PAVE, SHOP",
         "id":"1601",
-        "mnemonic":""
+        "mnemonic":"A small hut (left) of a shop with fishnets (right) hanging everywhere."
     },
     "掴":{
         "page":"433",
         "meaning":"GRASP",
         "id":"1602",
-        "mnemonic":""
+        "mnemonic":"Many people seek to grasp the power of a whole country in their hands."
     },
     "捉":{
         "page":"433",
         "meaning":"CATCH",
         "id":"1603",
-        "mnemonic":""
+        "mnemonic":"Used for catching ideas, not physically. But use your legs and run to catch the ball."
     },
     "促":{
         "page":"433",
         "meaning":"HASTEN",
         "id":"1604",
-        "mnemonic":""
+        "mnemonic":"A person using their legs in a hurry."
     },
     "筆":{
         "page":"434",
         "meaning":"BRUSH, WRITING",
         "id":"1605",
-        "mnemonic":""
+        "mnemonic":"A bamboo brush."
     },
     "津":{
         "page":"434",
         "meaning":"HARBOR",
         "id":"1606",
-        "mnemonic":""
+        "mnemonic":"A ferry brushes along side the harbor as it closes in from the water."
     },
     "律":{
         "page":"434",
         "meaning":"LAW, RHYTHM",
         "id":"1607",
-        "mnemonic":""
+        "mnemonic":"A brush going -> letting the law do it's actions."
     },
     "逮":{
         "page":"434",
         "meaning":"CATCH A CRIMINAL",
         "id":"1608",
-        "mnemonic":""
+        "mnemonic":"See a criminal chained by his hands and feet to the truck bed."
     },
     "建":{
         "page":"435",
         "meaning":"BUILD",
         "id":"1609",
-        "mnemonic":""
+        "mnemonic":"An architect drawing the schematics of his build."
     },
     "健":{
         "page":"435",
         "meaning":"ROBUST",
         "id":"1610",
-        "mnemonic":""
+        "mnemonic":"A man with a built, robust body."
     },
     "康":{
         "page":"435",
         "meaning":"HEALTHY",
         "id":"1611",
-        "mnemonic":""
+        "mnemonic":"A brush wet covered in water is a healthy brush."
     },
     "庸":{
         "page":"435",
         "meaning":"MEDIOCRE",
         "id":"1612",
-        "mnemonic":""
+        "mnemonic":"If you only practice writing with your brush once a month inside, you will be a mediocre calligrapher."
     },
     "粛":{
         "page":"436",
         "meaning":"PURGE, HUSHED",
         "id":"1613",
-        "mnemonic":""
+        "mnemonic":"If you dip your wet brush into a bale of rice, it'll purge all the moisture from the brush."
     },
     "繍":{
         "page":"436",
         "meaning":"EMBROIDERY",
         "id":"1614",
-        "mnemonic":""
+        "mnemonic":"A thread embroidered with the design of the rice kanji."
     },
     "唐":{
         "page":"436",
         "meaning":"TANG DYNASTY",
         "id":"1615",
-        "mnemonic":""
+        "mnemonic":"A pen accompanied by a orator in a sheltering roof to signify the cultural flourishing of the Tang dynasty."
     },
     "糖":{
         "page":"436",
         "meaning":"SUGAR",
         "id":"1616",
-        "mnemonic":""
+        "mnemonic":"White granular substance like rice from the Tang dynasty."
     },
     "粧":{
         "page":"437",
         "meaning":"APPLY MAKEUP",
         "id":"1617",
-        "mnemonic":""
+        "mnemonic":"If you shelter (top) rice (left) inside an earthen (bot) jar, it'll 'make-up' the jar to be a rice jar."
     },
     "糧":{
         "page":"437",
         "meaning":"FOOD PROVISIONS",
         "id":"1618",
-        "mnemonic":""
+        "mnemonic":"Large quantities of rice is stored as food provisions."
     },
     "粉":{
         "page":"437",
         "meaning":"POWDER",
         "id":"1619",
-        "mnemonic":""
+        "mnemonic":"If you divide the rice, it'll just become a powder."
     },
     "紛":{
         "page":"437",
         "meaning":"CONFUSED",
         "id":"1620",
-        "mnemonic":""
+        "mnemonic":"Divide the thread of continuity to cause confusion."
     },
     "糾":{
         "page":"438",
         "meaning":"INQUIRE INTO",
         "id":"1621",
-        "mnemonic":""
+        "mnemonic":"Yell to inquire where the thread leads."
     },
     "粋":{
         "page":"438",
         "meaning":"REFINED",
         "id":"1622",
-        "mnemonic":""
+        "mnemonic":"Rice refined to ninety percent purity."
     },
     "砕":{
         "page":"438",
         "meaning":"CRUSH UP",
         "id":"1623",
-        "mnemonic":""
+        "mnemonic":"Crush a stone into ninety pieces."
     },
     "枠":{
         "page":"438",
         "meaning":"FRAME",
         "id":"1624",
-        "mnemonic":""
+        "mnemonic":"Ninety logs builds the frame of a house."
     },
     "酔":{
         "page":"439",
         "meaning":"BECOME INTOXICATED",
         "id":"1625",
-        "mnemonic":""
+        "mnemonic":"Ninety bottles of liquor makes you drunk."
     },
     "醒":{
         "page":"439",
         "meaning":"WAKE UP",
         "id":"1626",
-        "mnemonic":""
+        "mnemonic":"You wake up and sober up with the light of the stars (or the sun) after drinking all night."
     },
     "酬":{
         "page":"439",
         "meaning":"RECIPROCATE",
         "id":"1627",
-        "mnemonic":""
+        "mnemonic":"Share some liquor with the neighboring state to reciprocate their good will."
     },
     "酷":{
         "page":"439",
         "meaning":"SEVERE",
         "id":"1628",
-        "mnemonic":""
+        "mnemonic":"Things said while drunk can be pretty severe/cruel."
     },
     "凡":{
         "page":"440",
         "meaning":"COMMONPLACE",
         "id":"1629",
-        "mnemonic":""
+        "mnemonic":"A table cloth with a single decorative dot in the center is common place."
     },
     "凧":{
         "page":"440",
         "meaning":"KITE",
         "id":"1630",
-        "mnemonic":""
+        "mnemonic":"A cloth flying in the wind."
     },
     "帆":{
         "page":"440",
         "meaning":"SAIL",
         "id":"1631",
-        "mnemonic":""
+        "mnemonic":"A cloth spread wide (right) to sail with the wind."
     },
     "汎":{
         "page":"440",
         "meaning":"PAN-",
         "id":"1632",
-        "mnemonic":""
+        "mnemonic":"Spread wide across the ocean."
     },
     "恐":{
         "page":"441",
         "meaning":"FEAR",
         "id":"1633",
-        "mnemonic":""
+        "mnemonic":"A carpenter's table is filled with dangerous tools that makes your heart fear."
     },
     "怖":{
         "page":"441",
         "meaning":"FEARFUL",
         "id":"1634",
-        "mnemonic":""
+        "mnemonic":"A cloth bloodied (with blood from the heart) causes fear."
     },
     "築":{
         "page":"441",
         "meaning":"CONSTRUCT",
         "id":"1635",
-        "mnemonic":""
+        "mnemonic":"Bamboo and wooden supports are setup so you can construct something with the table."
     },
     "尋":{
         "page":"441",
         "meaning":"INQUIRE",
         "id":"1636",
-        "mnemonic":""
+        "mnemonic":"A hand (top) reaching out (bot) to ask (right) about a construct (left)."
     },
     "訊":{
         "page":"442",
         "meaning":"INTERROGATE",
         "id":"1637",
-        "mnemonic":""
+        "mnemonic":"Interrogate on something you caught wind (see right as wind-like outside)."
     },
     "諮":{
         "page":"442",
         "meaning":"CONSULT",
         "id":"1638",
-        "mnemonic":""
+        "mnemonic":"Consult the person next to you to hear their opinions."
     },
     "抗":{
         "page":"442",
         "meaning":"RESIST",
         "id":"1639",
-        "mnemonic":""
+        "mnemonic":"Put a lid to block the wind from passing, and hold strong to the lid/shield."
     },
     "航":{
         "page":"442",
         "meaning":"NAVIGATE",
         "id":"1640",
-        "mnemonic":""
+        "mnemonic":"Controlling the wind (bot right) with your sail (top right) on the ship."
     },
     "坑":{
         "page":"443",
         "meaning":"PIT",
         "id":"1641",
-        "mnemonic":""
+        "mnemonic":"The wind is blocked (right) by the ground in the pit."
     },
     "拝":{
         "page":"443",
         "meaning":"WORSHIP, HUMBLY",
         "id":"1642",
-        "mnemonic":""
+        "mnemonic":"Right is fingers crossed in prayer."
     },
     "耕":{
         "page":"443",
         "meaning":"TILL",
         "id":"1643",
-        "mnemonic":""
+        "mnemonic":"Left is a tiller, right is the pattern tilled into the ground."
     },
     "耗":{
         "page":"443",
         "meaning":"WEAR AWAY",
         "id":"1644",
-        "mnemonic":""
+        "mnemonic":"The tiller on the left wore away at the wool."
     },
     "崇":{
         "page":"444",
         "meaning":"REVERENCE",
         "id":"1645",
-        "mnemonic":""
+        "mnemonic":"A house of worship at the base of the mountain."
     },
     "灰":{
         "page":"444",
         "meaning":"ASH",
         "id":"1646",
-        "mnemonic":""
+        "mnemonic":"Fire smouldering inside and creating a cliff of ash."
     },
     "炭":{
         "page":"444",
         "meaning":"COAL, CHARCOAL, CARBON",
         "id":"1647",
-        "mnemonic":""
+        "mnemonic":"Ash compressed by the mountain into coal."
     },
     "岸":{
         "page":"444",
         "meaning":"SHORE",
         "id":"1648",
-        "mnemonic":""
+        "mnemonic":"The shore is the dry land, which rises up like a mountain relative to the level sea."
     },
     "岩":{
         "page":"445",
         "meaning":"ROCK",
         "id":"1649",
-        "mnemonic":""
+        "mnemonic":"A mountain like rock."
     },
     "崩":{
         "page":"445",
         "meaning":"CRUMBLE",
         "id":"1650",
-        "mnemonic":""
+        "mnemonic":"The mountain crumbles into the two different piles of moon rocks."
     },
     "嵐":{
         "page":"445",
         "meaning":"STORM",
         "id":"1651",
-        "mnemonic":""
+        "mnemonic":"Winds as powerful as a mountain."
     },
     "崖":{
         "page":"445",
         "meaning":"CLIFF",
         "id":"1652",
-        "mnemonic":""
+        "mnemonic":"A mountain piled up from layers of earth, creating a cliff."
     },
     "催":{
         "page":"446",
         "meaning":"SPONSOR",
         "id":"1653",
-        "mnemonic":""
+        "mnemonic":"The man sponsors a pointed position (like a finger mountain) for the bird to perch."
     },
     "焦":{
         "page":"446",
         "meaning":"SCORCH, BE IMPATIENT",
         "id":"1654",
-        "mnemonic":""
+        "mnemonic":"The bird meat got scorched on the fire, so you hurry to take it off the fire."
     },
     "礁":{
         "page":"446",
         "meaning":"REEF",
         "id":"1655",
-        "mnemonic":""
+        "mnemonic":"Instead of fire, see pointy, rocky reefs. The birds love diving in for the fish."
     },
     "奮":{
         "page":"446",
         "meaning":"ROUSE UP",
         "id":"1656",
-        "mnemonic":""
+        "mnemonic":"Make a big noise to rouse up the bird sitting on the scarecrow in the field."
     },
     "奪":{
         "page":"447",
         "meaning":"SEIZE",
         "id":"1657",
-        "mnemonic":""
+        "mnemonic":"Stretch out your farm to grab the big bird before it flies away."
     },
     "隻":{
         "page":"447",
         "meaning":"ONE OF A PAIR, COUNTER FOR SHIPS",
         "id":"1658",
-        "mnemonic":""
+        "mnemonic":"You can't hold two birds with one hand (jank 一石二鳥), you can only hold one of the two."
     },
     "獲":{
         "page":"447",
         "meaning":"CATCH GAME",
         "id":"1659",
-        "mnemonic":""
+        "mnemonic":"Right is bird grasping some grasp with its hand. Hand grasps the hunted creature/food."
     },
     "穫":{
         "page":"447",
         "meaning":"HARVEST",
         "id":"1660",
-        "mnemonic":""
+        "mnemonic":"Right is bird grasping grass. Grasp all the rice to harvest them."
     },
     "護":{
         "page":"448",
