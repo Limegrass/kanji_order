@@ -8791,127 +8791,127 @@ var database = {
         "page":"448",
         "meaning":"PROTECT",
         "id":"1661",
-        "mnemonic":""
+        "mnemonic":"Grasp onto your words to protect them."
     },
     "譲":{
         "page":"448",
         "meaning":"CEDE",
         "id":"1662",
-        "mnemonic":""
+        "mnemonic":"See the split clothes on the right. There is a bunch of padding between them."
     },
     "嬢":{
         "page":"448",
         "meaning":"YOUNG LADY",
         "id":"1663",
-        "mnemonic":""
+        "mnemonic":"A lady with padded (right) clothing."
     },
     "醸":{
         "page":"448",
         "meaning":"BREW",
         "id":"1664",
-        "mnemonic":""
+        "mnemonic":"Pad (right) the liquor with fermenting agents."
     },
     "壌":{
         "page":"449",
         "meaning":"ARABLE SOIL",
         "id":"1665",
-        "mnemonic":""
+        "mnemonic":"Land that is well padded (right) with nutrients."
     },
     "壊":{
         "page":"449",
         "meaning":"BREAK DOWN",
         "id":"1666",
-        "mnemonic":""
+        "mnemonic":"Clothes break down when it is old (kinda top) and if it gets caught on hard ground."
     },
     "懐":{
         "page":"449",
         "meaning":"BOSOM, LONG FOR",
         "id":"1667",
-        "mnemonic":""
+        "mnemonic":"Old (kinda top) clothes (bot) makes your heart feel nostalgic."
     },
     "徳":{
         "page":"449",
         "meaning":"VIRTUE",
         "id":"1668",
-        "mnemonic":""
+        "mnemonic":"Your virtues are how your heart wants you to act (kinda left) until you grow old (kinda top)."
     },
     "聴":{
         "page":"450",
         "meaning":"LISTEN",
         "id":"1669",
-        "mnemonic":""
+        "mnemonic":"Use your ear and your hear to listen to what the wise old (kinda top) man is saying."
     },
     "恥":{
         "page":"450",
         "meaning":"SHAME",
         "id":"1670",
-        "mnemonic":""
+        "mnemonic":"Your ears go red and your heart beats faster when you are ashamed."
     },
     "羞":{
         "page":"450",
         "meaning":"SHAME",
         "id":"1671",
-        "mnemonic":""
+        "mnemonic":"An ox that is smaller than a sheep is ashamed of itself."
     },
     "爵":{
         "page":"450",
         "meaning":"RANK OF NOBILITY",
         "id":"1672",
-        "mnemonic":""
+        "mnemonic":"A person reaching out (right) to place a crown (top) on the good person's head."
     },
     "侯":{
         "page":"451",
         "meaning":"FEUDAL LORD",
         "id":"1673",
-        "mnemonic":""
+        "mnemonic":"A who wears a fancy hat."
     },
     "喉":{
         "page":"451",
         "meaning":"THROAT",
         "id":"1674",
-        "mnemonic":""
+        "mnemonic":"The throat is the only uncovered part of the feudal lord's body."
     },
     "候":{
         "page":"451",
         "meaning":"SEASON, SEASONAL WEATHER",
         "id":"1675",
-        "mnemonic":""
+        "mnemonic":"The weather man with the fancy hat uses the rod to point at the weather patterns on the map."
     },
     "修":{
         "page":"451",
         "meaning":"CULTIVATE, REPAIR",
         "id":"1676",
-        "mnemonic":""
+        "mnemonic":"The three strikes disciplines oneself to repair their own faults."
     },
     "悠":{
         "page":"452",
         "meaning":"LEISURELY",
         "id":"1677",
-        "mnemonic":""
+        "mnemonic":"The person with the whip gets to relax leisurely while others work their hearts out."
     },
     "是":{
         "page":"452",
         "meaning":"RIGHT",
         "id":"1678",
-        "mnemonic":""
+        "mnemonic":"The correct path of the sun from our perspective is a straight path through the sky."
     },
     "提":{
         "page":"452",
         "meaning":"PRESENT, CARRY IN HAND",
         "id":"1679",
-        "mnemonic":""
+        "mnemonic":"Hold your hand out straight to present your gift."
     },
     "堤":{
         "page":"452",
         "meaning":"EMBANKMENT",
         "id":"1680",
-        "mnemonic":""
+        "mnemonic":"The embankment is a level straight land."
     },
     "題":{
         "page":"453",
         "meaning":"HEADING, TOPIC, PROBLEM",
         "id":"1681",
-        "mnemonic":""
+        "mnemonic":"The headline (head right, straight left) appears straight at the top of the article."
     },
     "匙":{
         "page":"453",
