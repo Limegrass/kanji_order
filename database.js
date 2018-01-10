@@ -9175,367 +9175,367 @@ var database = {
         "page":"464",
         "meaning":"CAUSE",
         "id":"1725",
-        "mnemonic":""
+        "mnemonic":"What caused the big thing to be caged?"
     },
     "姻":{
         "page":"464",
         "meaning":"MARRIAGE",
         "id":"1726",
-        "mnemonic":""
+        "mnemonic":"The woman is the cause of marriage."
     },
     "咽":{
         "page":"464",
         "meaning":"THROAT",
         "id":"1727",
-        "mnemonic":""
+        "mnemonic":"The origin of the mouth begins at the throat."
     },
     "恩":{
         "page":"464",
         "meaning":"GRACE, DEBT OF GRATITUDE",
         "id":"1728",
-        "mnemonic":""
+        "mnemonic":"The origin of grace and gratitude begins at the heart."
     },
     "菌":{
         "page":"465",
         "meaning":"BACTERIA",
         "id":"1729",
-        "mnemonic":""
+        "mnemonic":"The fungal grass growing on the stored rice."
     },
     "漢":{
         "page":"465",
         "meaning":"CHINESE HAN DYNASTY, FELLOW",
         "id":"1730",
-        "mnemonic":""
+        "mnemonic":"The Han Dynasty had a lot of water control, and the han scholar keeps watch over it."
     },
     "嘆":{
         "page":"465",
         "meaning":"SIGH",
         "id":"1731",
-        "mnemonic":""
+        "mnemonic":"The scholar lets out a sigh from his mouth."
     },
     "勤":{
         "page":"465",
         "meaning":"SERVICE",
         "id":"1732",
-        "mnemonic":""
+        "mnemonic":"The scholar puts his power into use in his service."
     },
     "謹":{
         "page":"466",
         "meaning":"RESPECTFULLY",
         "id":"1733",
-        "mnemonic":""
+        "mnemonic":"The scholar uses respectful and carefully chosen words."
     },
     "僅":{
         "page":"466",
         "meaning":"A FEW",
         "id":"1734",
-        "mnemonic":""
+        "mnemonic":"There was only a few men selected as capable to be Han Scholars."
     },
     "索":{
         "page":"466",
         "meaning":"SEARCH FOR",
         "id":"1735",
-        "mnemonic":""
+        "mnemonic":"A person on top following the threads of connection in a search."
     },
     "牽":{
         "page":"466",
         "meaning":"PULL",
         "id":"1736",
-        "mnemonic":""
+        "mnemonic":"A brace put on a cow to have it pull something across the field."
     },
     "牢":{
         "page":"467",
         "meaning":"PRISON, HARDNESS",
         "id":"1737",
-        "mnemonic":""
+        "mnemonic":"Cows are basically put into prisons under a roof."
     },
     "啓":{
         "page":"467",
         "meaning":"ENLIGHTEN, ADDRESS RESPECTFULLY",
         "id":"1738",
-        "mnemonic":""
+        "mnemonic":"You knock (strike) on the door to heaven before you speak with your mouth as you reach enlightenment."
     },
     "庶":{
         "page":"467",
         "meaning":"MANIFOLD",
         "id":"1739",
-        "mnemonic":""
+        "mnemonic":"Manifolds of flames (many flames) envelop the stove as it cooks."
     },
     "遮":{
         "page":"467",
         "meaning":"INTERRUPT",
         "id":"1740",
-        "mnemonic":""
+        "mnemonic":"Interrupt the truck's progress to load it with a manifold of goods."
     },
     "燕":{
         "page":"468",
         "meaning":"SWALLOW",
         "id":"1741",
-        "mnemonic":""
+        "mnemonic":"Swallows nest in the north with an egg in the center as a bird on top sits to warm it."
     },
     "雀":{
         "page":"468",
         "meaning":"SPARROW, MAHJONG",
         "id":"1742",
-        "mnemonic":""
+        "mnemonic":"Small bird: a sparrow"
     },
     "劣":{
         "page":"468",
         "meaning":"INFERIOR",
         "id":"1743",
-        "mnemonic":""
+        "mnemonic":"Little strength"
     },
     "抄":{
         "page":"468",
         "meaning":"EXCERPT",
         "id":"1744",
-        "mnemonic":""
+        "mnemonic":"Hands pick out a small excerpt."
     },
     "秒":{
         "page":"469",
         "meaning":"SECOND",
         "id":"1745",
-        "mnemonic":""
+        "mnemonic":"Hour glass made of grains of rice/sands counting the seconds."
     },
     "妙":{
         "page":"469",
         "meaning":"MARVELOUS",
         "id":"1746",
-        "mnemonic":""
+        "mnemonic":"Marvelous little woman."
     },
     "沙":{
         "page":"469",
         "meaning":"SAND",
         "id":"1747",
-        "mnemonic":""
+        "mnemonic":"Water moves the small grains of sand."
     },
     "汰":{
         "page":"469",
         "meaning":"SIFT OUT",
         "id":"1748",
-        "mnemonic":""
+        "mnemonic":"Use water to sift out the small objects from those too thick to pass through."
     },
     "煎":{
         "page":"470",
         "meaning":"BOIL",
         "id":"1749",
-        "mnemonic":""
+        "mnemonic":"Boil/roast before a fire before eating the raw cut meat.."
     },
     "炒":{
         "page":"470",
         "meaning":"ROAST",
         "id":"1750",
-        "mnemonic":""
+        "mnemonic":"A small fire used to lightly roast."
     },
     "炊":{
         "page":"470",
         "meaning":"COOK",
         "id":"1751",
-        "mnemonic":""
+        "mnemonic":"The fire blows over the food to cook it."
     },
     "焚":{
         "page":"470",
         "meaning":"KINDLE",
         "id":"1752",
-        "mnemonic":""
+        "mnemonic":"Forest wood bundled together to kindle a fire."
     },
     "薪":{
         "page":"471",
         "meaning":"FIREWOOD",
         "id":"1753",
-        "mnemonic":""
+        "mnemonic":"New grasses/branches can be good as firewood."
     },
     "乃":{
         "page":"471",
         "meaning":"POSSESSIVE PARTICLE",
         "id":"1754",
-        "mnemonic":""
+        "mnemonic":"Looks like のand 丿"
     },
     "之":{
         "page":"471",
         "meaning":"POSSESSIVE PARTICLE",
         "id":"1755",
-        "mnemonic":""
+        "mnemonic":"Looks like のand 丿"
     },
     "此":{
         "page":"471",
         "meaning":"THIS",
         "id":"1756",
-        "mnemonic":""
+        "mnemonic":"Stop before this bend."
     },
     "其":{
         "page":"472",
         "meaning":"THAT",
         "id":"1757",
-        "mnemonic":""
+        "mnemonic":"Stand before that post."
     },
     "乏":{
         "page":"472",
         "meaning":"SCANTY",
         "id":"1758",
-        "mnemonic":""
+        "mnemonic":"A person bent over in stomach pain because of their scanty/poor lifestyle."
     },
     "芝":{
         "page":"472",
         "meaning":"LAWN GRASS",
         "id":"1759",
-        "mnemonic":""
+        "mnemonic":"Lawn grass with a zigzag pattern due to the uneven mowing."
     },
     "及":{
         "page":"472",
         "meaning":"REACH TO",
         "id":"1760",
-        "mnemonic":""
+        "mnemonic":"The extra stroke reaching into the character"
     },
     "扱":{
         "page":"473",
         "meaning":"HANDLE",
         "id":"1761",
-        "mnemonic":""
+        "mnemonic":"A hand reaching out to take charge of something."
     },
     "級":{
         "page":"473",
         "meaning":"GRADE",
         "id":"1762",
-        "mnemonic":""
+        "mnemonic":"Reaching a new rank changes what type of threads you will be wearing."
     },
     "吸":{
         "page":"473",
         "meaning":"SUCK, BREATHE IN",
         "id":"1763",
-        "mnemonic":""
+        "mnemonic":"Air reaching deep into the body through the mouth by breathing."
     },
     "吹":{
         "page":"473",
         "meaning":"BLOW",
         "id":"1764",
-        "mnemonic":""
+        "mnemonic":"Air visually escaping from the mouth as it is blown out."
     },
     "呼":{
         "page":"474",
         "meaning":"CALL",
         "id":"1765",
-        "mnemonic":""
+        "mnemonic":"Keep your voice level when calling to others."
     },
     "吐":{
         "page":"474",
         "meaning":"SPEW",
         "id":"1766",
-        "mnemonic":""
+        "mnemonic":"If you get dirt in your mouth, you'll want to spew it out."
     },
     "叶":{
         "page":"474",
         "meaning":"BE FULFILLED",
         "id":"1767",
-        "mnemonic":""
+        "mnemonic":"A prayer to the cross will be fulfilled (never xd)."
     },
     "叱":{
         "page":"474",
         "meaning":"SCOLD",
         "id":"1768",
-        "mnemonic":""
+        "mnemonic":"Scold the person."
     },
     "叫":{
         "page":"475",
         "meaning":"SHOUT",
         "id":"1769",
-        "mnemonic":""
+        "mnemonic":"Make your voice 4 times louder by shouting."
     },
     "吟":{
         "page":"475",
         "meaning":"RECITE",
         "id":"1770",
-        "mnemonic":""
+        "mnemonic":"Now is the time to recite your piece."
     },
     "含":{
         "page":"475",
         "meaning":"CONTAIN",
         "id":"1771",
-        "mnemonic":""
+        "mnemonic":"You can check what is contained in the box now."
     },
     "琴":{
         "page":"475",
         "meaning":"KOTO (japanese zither)",
         "id":"1772",
-        "mnemonic":""
+        "mnemonic":"The music of now (back in the day) was played on the koto."
     },
     "迷":{
         "page":"476",
         "meaning":"PERPLEXED",
         "id":"1773",
-        "mnemonic":""
+        "mnemonic":"Eight different forking directions leaves the truck perplexed on which way to go."
     },
     "謎":{
         "page":"476",
         "meaning":"RIDDLE",
         "id":"1774",
-        "mnemonic":""
+        "mnemonic":"A bunch of perplexing words make up a riddle."
     },
     "逆":{
         "page":"476",
         "meaning":"REVERSE",
         "id":"1775",
-        "mnemonic":""
+        "mnemonic":"The middle stroke falls in reverse to the direction of motion of the truck."
     },
     "遡":{
         "page":"476",
         "meaning":"GO BACK IN TIME",
         "id":"1776",
-        "mnemonic":""
+        "mnemonic":"Reverse the months to go back in time."
     },
     "塑":{
         "page":"477",
         "meaning":"MODEL",
         "id":"1777",
-        "mnemonic":""
+        "mnemonic":"Create a mold by patting down the lid onto a bunch of earth in layers."
     },
     "勲":{
         "page":"477",
         "meaning":"MERITORIOUS SERVICE",
         "id":"1778",
-        "mnemonic":""
+        "mnemonic":"Work/movement that deserves to be illuminated by fire."
     },
     "薫":{
         "page":"477",
         "meaning":"BALMY",
         "id":"1779",
-        "mnemonic":""
+        "mnemonic":"A bunch of grasses burning on top of fire to make the room fragrant/balmy."
     },
     "芳":{
         "page":"477",
         "meaning":"FRAGRANT",
         "id":"1780",
-        "mnemonic":""
+        "mnemonic":"A person running through a fragrant meadow."
     },
     "香":{
         "page":"478",
         "meaning":"SWEET SMELL",
         "id":"1781",
-        "mnemonic":""
+        "mnemonic":"The sweet smell of rice drying under the sun."
     },
     "秀":{
         "page":"478",
         "meaning":"EXCELLENT",
         "id":"1782",
-        "mnemonic":""
+        "mnemonic":"A hand picking out all the excellent grains of rice from the bundle."
     },
     "誘":{
         "page":"478",
         "meaning":"INDUCE",
         "id":"1783",
-        "mnemonic":""
+        "mnemonic":"Excellent, approrpiate words to induce someone to do something."
     },
     "拐":{
         "page":"478",
         "meaning":"KIDNAP",
         "id":"1784",
-        "mnemonic":""
+        "mnemonic":"Hand with a knife over the mouth during a kidnapping."
     },
     "透":{
         "page":"479",
         "meaning":"PASS THROUGH, SEE THROUGH",
         "id":"1785",
-        "mnemonic":""
+        "mnemonic":"The truck with the excellent bundles of rice gets an immediate pass through the gate."
     },
     "携":{
         "page":"479",
