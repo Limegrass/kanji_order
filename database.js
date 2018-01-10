@@ -8917,259 +8917,259 @@ var database = {
         "page":"453",
         "meaning":"SPOON",
         "id":"1682",
-        "mnemonic":""
+        "mnemonic":"Straight spoon (right)."
     },
     "冒":{
         "page":"453",
         "meaning":"RISK",
         "id":"1683",
-        "mnemonic":""
+        "mnemonic":"The risky act of looking directly at the sun."
     },
     "昌":{
         "page":"453",
         "meaning":"CLEAR",
         "id":"1684",
-        "mnemonic":""
+        "mnemonic":"The day would be very clear with two bright suns."
     },
     "唱":{
         "page":"454",
         "meaning":"SING",
         "id":"1685",
-        "mnemonic":""
+        "mnemonic":"A mouth singing clearly"
     },
     "晶":{
         "page":"454",
         "meaning":"CRYSTAL",
         "id":"1686",
-        "mnemonic":""
+        "mnemonic":"Three suns would be a crystal clear day."
     },
     "帽":{
         "page":"454",
         "meaning":"HEADGEAR",
         "id":"1687",
-        "mnemonic":""
+        "mnemonic":"A cloth headgear protects the eye from the risk of looking at the sun."
     },
     "棟":{
         "page":"454",
         "meaning":"BUILDING",
         "id":"1688",
-        "mnemonic":""
+        "mnemonic":"The wooden ridgepole penetrates throughout the roof of the building."
     },
     "凍":{
         "page":"455",
         "meaning":"FREEZE",
         "id":"1689",
-        "mnemonic":""
+        "mnemonic":"Ice (left), penetrating through water as it freezes."
     },
     "氷":{
         "page":"455",
         "meaning":"ICE",
         "id":"1690",
-        "mnemonic":""
+        "mnemonic":"Snowflake ice"
     },
     "永":{
         "page":"455",
         "meaning":"ETERNAL",
         "id":"1691",
-        "mnemonic":""
+        "mnemonic":"i for infinity."
     },
     "泳":{
         "page":"455",
         "meaning":"SWIM",
         "id":"1692",
-        "mnemonic":""
+        "mnemonic":"You need to swim to stay long in water."
     },
     "詠":{
         "page":"456",
         "meaning":"RECITE POETRY",
         "id":"1693",
-        "mnemonic":""
+        "mnemonic":"A long recitation of words."
     },
     "札":{
         "page":"456",
         "meaning":"TAG",
         "id":"1694",
-        "mnemonic":""
+        "mnemonic":"Wooden inscribed tag hanging on a hook."
     },
     "枚":{
         "page":"456",
         "meaning":"COUNTER FOR FLAT THINGS",
         "id":"1695",
-        "mnemonic":""
+        "mnemonic":"Strike the wood until it is flat."
     },
     "杯":{
         "page":"456",
         "meaning":"CUP",
         "id":"1696",
-        "mnemonic":""
+        "mnemonic":"Visual wooden wineglass."
     },
     "析":{
         "page":"457",
         "meaning":"ANALYZE",
         "id":"1697",
-        "mnemonic":""
+        "mnemonic":"Saw the tree apart to analyze it."
     },
     "折":{
         "page":"457",
         "meaning":"BREAK (OFF), FOLD",
         "id":"1698",
-        "mnemonic":""
+        "mnemonic":"Sawing something with solely your hands is not possible, but you can fold and bend until it breaks."
     },
     "挫":{
         "page":"457",
         "meaning":"BREAK",
         "id":"1699",
-        "mnemonic":""
+        "mnemonic":"If something sits too hard on your hands, it'll sprain/break it."
     },
     "捻":{
         "page":"457",
         "meaning":"TWIST",
         "id":"1700",
-        "mnemonic":""
+        "mnemonic":"Wrestle (twist) with some thoughts until you come to a solutions."
     },
     "誓":{
         "page":"458",
         "meaning":"SWEAR",
         "id":"1701",
-        "mnemonic":""
+        "mnemonic":"Break word: promises are meant to be broken."
     },
     "逝":{
         "page":"458",
         "meaning":"DEPART THIS LIFE",
         "id":"1702",
-        "mnemonic":""
+        "mnemonic":"A broken body carried away to the next life."
     },
     "哲":{
         "page":"458",
         "meaning":"WISE, PHILOSOPHY",
         "id":"1703",
-        "mnemonic":""
+        "mnemonic":"Mind break someone with wisedom and philosophy."
     },
     "斬":{
         "page":"458",
         "meaning":"KILL",
         "id":"1704",
-        "mnemonic":""
+        "mnemonic":"Cutting down a vessel will kill those within."
     },
     "漸":{
         "page":"459",
         "meaning":"GRADUALLY",
         "id":"1705",
-        "mnemonic":""
+        "mnemonic":"If you cut a vessel, it's liquid contents will gradually trickle out."
     },
     "暫":{
         "page":"459",
         "meaning":"SHORT WHILE",
         "id":"1706",
-        "mnemonic":""
+        "mnemonic":"Cutting into a short while of someone's day."
     },
     "斥":{
         "page":"459",
         "meaning":"REJECT",
         "id":"1707",
-        "mnemonic":""
+        "mnemonic":"A saw with defective tooth, so it has been rejected from Quality Control."
     },
     "訴":{
         "page":"459",
         "meaning":"APPEAL TO, SUE",
         "id":"1708",
-        "mnemonic":""
+        "mnemonic":"Words of rejection: appeals and complaints"
     },
     "訟":{
         "page":"460",
         "meaning":"LITIGATE",
         "id":"1709",
-        "mnemonic":""
+        "mnemonic":"Public discussion of a trial."
     },
     "究":{
         "page":"460",
         "meaning":"STUDY EXHAUSTIVELY",
         "id":"1710",
-        "mnemonic":""
+        "mnemonic":"Fill the nine holes in your knowledge by studying exhaustively."
     },
     "窮":{
         "page":"460",
         "meaning":"BE IN EXTREMITY",
         "id":"1711",
-        "mnemonic":""
+        "mnemonic":"A body shaping itself to a bow to fit into the hole due to an extreme situation."
     },
     "極":{
         "page":"460",
         "meaning":"EXTREME, POLE",
         "id":"1712",
-        "mnemonic":""
+        "mnemonic":"The wooden poles marks the north most and south most points."
     },
     "函":{
         "page":"461",
         "meaning":"BOX",
         "id":"1713",
-        "mnemonic":""
+        "mnemonic":"A box filled with stuff and its top taken off."
     },
     "探":{
         "page":"461",
         "meaning":"PROBE, LOOK FOR",
         "id":"1714",
-        "mnemonic":""
+        "mnemonic":"Probe the hole in the tree with your hand to look for something."
     },
     "深":{
         "page":"461",
         "meaning":"DEEP",
         "id":"1715",
-        "mnemonic":""
+        "mnemonic":"The deep inner veins of a tree carries water throughout the tree."
     },
     "慄":{
         "page":"461",
         "meaning":"TREMBLE",
         "id":"1716",
-        "mnemonic":""
+        "mnemonic":"The outer shell of a chestnut can make your heart shudder/tremble."
     },
     "惧":{
         "page":"462",
         "meaning":"FEAR",
         "id":"1717",
-        "mnemonic":""
+        "mnemonic":"The heart fears tools of destruction."
     },
     "慎":{
         "page":"462",
         "meaning":"PRUDENT",
         "id":"1718",
-        "mnemonic":""
+        "mnemonic":"It is prudent to keep the truth always with one's heart."
     },
     "鎮":{
         "page":"462",
         "meaning":"QUELL",
         "id":"1719",
-        "mnemonic":""
+        "mnemonic":"Appease people with real gold."
     },
     "塡":{
         "page":"462",
         "meaning":"FILL (IN)",
         "id":"1720",
-        "mnemonic":""
+        "mnemonic":"Fill in the ground so the whole becomes truly level."
     },
     "婚":{
         "page":"463",
         "meaning":"MARRY",
         "id":"1721",
-        "mnemonic":""
+        "mnemonic":"The day the woman takes the name of the 氏 that she is marrying."
     },
     "囚":{
         "page":"463",
         "meaning":"PRISONER",
         "id":"1722",
-        "mnemonic":""
+        "mnemonic":"A prisoner trapped inside."
     },
     "困":{
         "page":"463",
         "meaning":"BE IN TROUBLE",
         "id":"1723",
-        "mnemonic":""
+        "mnemonic":"A tree will have trouble growing trapped inside a box."
     },
     "梱":{
         "page":"463",
         "meaning":"PACKAGE",
         "id":"1724",
-        "mnemonic":""
+        "mnemonic":"A tree being packaged inside a box and it's successive tree waiting."
     },
     "因":{
         "page":"464",
