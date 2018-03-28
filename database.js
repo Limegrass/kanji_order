@@ -9541,691 +9541,691 @@ var database = {
         "page":"479",
         "meaning":"CARRY IN HAND",
         "id":"1786",
-        "mnemonic":""
+        "mnemonic":"Hand holding the dove from pulling itself away."
     },
     "雄":{
         "page":"479",
         "meaning":"MALE, HEROIC",
         "id":"1787",
-        "mnemonic":""
+        "mnemonic":"A male bird with a large beak and horns to show it's dominance."
     },
     "雌":{
         "page":"479",
         "meaning":"FEMALE",
         "id":"1788",
-        "mnemonic":""
+        "mnemonic":"Female bird (3) stopping (1) to pay attention to itself (2)."
     },
     "些":{
         "page":"480",
         "meaning":"A LITTLE BIT",
         "id":"1789",
-        "mnemonic":""
+        "mnemonic":"Stop (1) yourself (2) from having that second (3) piece of cake."
     },
     "柴":{
         "page":"480",
         "meaning":"BRUSHWOOD",
         "id":"1790",
-        "mnemonic":""
+        "mnemonic":"Stop yourself from collecting too much firewood."
     },
     "紫":{
         "page":"480",
         "meaning":"PURPLE",
         "id":"1791",
-        "mnemonic":""
+        "mnemonic":"Stop yourself from wearing too much purple thread like royalty."
     },
     "髪":{
         "page":"480",
         "meaning":"HAIR",
         "id":"1792",
-        "mnemonic":""
+        "mnemonic":"A friend combs her friends long hair."
     },
     "髭":{
         "page":"481",
         "meaning":"BEARD",
         "id":"1793",
-        "mnemonic":""
+        "mnemonic":"Stop your own long facial hair from getting out of control."
     },
     "詐":{
         "page":"481",
         "meaning":"SWINDLE",
         "id":"1794",
-        "mnemonic":""
+        "mnemonic":"Saw (2) together words (1) to swindle someone."
     },
     "欺":{
         "page":"481",
         "meaning":"DECEIVE",
         "id":"1795",
-        "mnemonic":""
+        "mnemonic":"Fly the enemies flag to decieve them."
     },
     "棋":{
         "page":"481",
         "meaning":"SHOGI (japanese chess)",
         "id":"1796",
-        "mnemonic":""
+        "mnemonic":"Wooden flag represnted by the king."
     },
     "碁":{
         "page":"482",
         "meaning":"GO (japanese checkers)",
         "id":"1797",
-        "mnemonic":""
+        "mnemonic":"Stone flags to mark your territory in GO."
     },
     "甚":{
         "page":"482",
         "meaning":"EXTREMELY",
         "id":"1798",
-        "mnemonic":""
+        "mnemonic":"An extremely low hanging flag"
     },
     "勘":{
         "page":"482",
         "meaning":"CHECK, INTUITIVE PERCEPTION",
         "id":"1799",
-        "mnemonic":""
+        "mnemonic":"Extreme power comes from your intuition."
     },
     "堪":{
         "page":"482",
         "meaning":"ENDURE",
         "id":"1800",
-        "mnemonic":""
+        "mnemonic":"Low hanging flag tolerating the dirt."
     },
     "匹":{
         "page":"483",
         "meaning":"COUNTER FOR ANIMALS",
         "id":"1801",
-        "mnemonic":""
+        "mnemonic":"Legs of animals in a cage."
     },
     "匠":{
         "page":"483",
         "meaning":"CRAFTSMAN",
         "id":"1802",
-        "mnemonic":""
+        "mnemonic":"Craftsman sawing on side of slab away."
     },
     "匿":{
         "page":"483",
         "meaning":"CONCEAL",
         "id":"1803",
-        "mnemonic":""
+        "mnemonic":"The face of the beautiful young woman is hidden behind the box/veil."
     },
     "諾":{
         "page":"483",
         "meaning":"CONSENT",
         "id":"1804",
-        "mnemonic":""
+        "mnemonic":"People underaged needs the words of consent from others."
     },
     "乞":{
         "page":"484",
         "meaning":"BEG",
         "id":"1805",
-        "mnemonic":""
+        "mnemonic":"A person kneeled over with a tray begging."
     },
     "迄":{
         "page":"484",
         "meaning":"UP TO",
         "id":"1806",
-        "mnemonic":""
+        "mnemonic":"Begging only gets you so far in life."
     },
     "乾":{
         "page":"484",
         "meaning":"DRY",
         "id":"1807",
-        "mnemonic":""
+        "mnemonic":"See it as a dry morning breeze (no lines inside 2 like in 気)"
     },
     "幹":{
         "page":"484",
         "meaning":"TRUNK",
         "id":"1808",
-        "mnemonic":""
+        "mnemonic":"See right as a tree trunk severed from it's canopy, baking in the morning sun."
     },
     "操":{
         "page":"485",
         "meaning":"MANIPULATE, FIDELITY",
         "id":"1809",
-        "mnemonic":""
+        "mnemonic":"The food products (2) grown on the trees (3) must be handled (1) with care."
     },
     "燥":{
         "page":"485",
         "meaning":"DRY OUT",
         "id":"1810",
-        "mnemonic":""
+        "mnemonic":"Dry out the products (2) picked from the trees (3) with fire (1)."
     },
     "繰":{
         "page":"485",
         "meaning":"REEL, SHIFT ONWARD",
         "id":"1811",
-        "mnemonic":""
+        "mnemonic":"Continuously reel the cotton balls to into threads."
     },
     "藻":{
         "page":"485",
         "meaning":"SEAWEED",
         "id":"1812",
-        "mnemonic":""
+        "mnemonic":"Water grown (2) grassy (1) natural products (3, 4) => Seaweed"
     },
     "噴":{
         "page":"486",
         "meaning":"SPOUT",
         "id":"1813",
-        "mnemonic":""
+        "mnemonic":"A seashell decorated into a fountain with its mouth spouting water."
     },
     "墳":{
         "page":"486",
         "meaning":"TUMULUS",
         "id":"1814",
-        "mnemonic":""
+        "mnemonic":"Earth spouting out of the ground: a tumulus aka ancient burial mount aka barrow"
     },
     "憤":{
         "page":"486",
         "meaning":"INDIGNATION",
         "id":"1815",
-        "mnemonic":""
+        "mnemonic":"The heart feels that it was treated unfairly and is about to burst (2) from anger."
     },
     "牙":{
         "page":"486",
         "meaning":"FANG",
         "id":"1816",
-        "mnemonic":""
+        "mnemonic":"A tusk jutting up, a fang jutting down."
     },
     "芽":{
         "page":"487",
         "meaning":"BUD",
         "id":"1817",
-        "mnemonic":""
+        "mnemonic":"A plant (1) that is jutting out like a fang (2) from the ground."
     },
     "雅":{
         "page":"487",
         "meaning":"ELEGANT",
         "id":"1818",
-        "mnemonic":""
+        "mnemonic":"An elegant bird with fangs jutting out from it."
     },
     "邪":{
         "page":"487",
         "meaning":"EVIL",
         "id":"1819",
-        "mnemonic":""
+        "mnemonic":"Evil lies like a fanged beast at the heart of the city/mind."
     },
     "既":{
         "page":"487",
         "meaning":"ALREADY",
         "id":"1820",
-        "mnemonic":""
+        "mnemonic":"Stop (1) before the fang (2), else you might be up like those aleady past, a body on the floor (Bot right corner)"
     },
     "概":{
         "page":"488",
         "meaning":"GENERAL",
         "id":"1821",
-        "mnemonic":""
+        "mnemonic":"Wooden structures that have already been around for a long time is part of the general background now."
     },
     "慨":{
         "page":"488",
         "meaning":"DEPLORE",
         "id":"1822",
-        "mnemonic":""
+        "mnemonic":"Deploration comes partially from what one already feels in one's heart."
     },
     "苗":{
         "page":"488",
         "meaning":"SEEDLING",
         "id":"1823",
-        "mnemonic":""
+        "mnemonic":"A small sprouting seeding in a rice field."
     },
     "描":{
         "page":"488",
         "meaning":"DEPICT",
         "id":"1824",
-        "mnemonic":""
+        "mnemonic":"A small seedling used to paint and draw."
     },
     "猫":{
         "page":"489",
         "meaning":"CAT",
         "id":"1825",
-        "mnemonic":""
+        "mnemonic":"Seedling beast, almost a lion, but juts a cat."
     },
     "萌":{
         "page":"489",
         "meaning":"GERMINATE",
         "id":"1826",
-        "mnemonic":""
+        "mnemonic":"Light from the sun and moon shine on the plant along with germination to spread the seeds."
     },
     "兆":{
         "page":"489",
         "meaning":"SIGN, TRILLION",
         "id":"1827",
-        "mnemonic":""
+        "mnemonic":"One more mark added to 北 as a sign for the Trillion of people wanting to head North."
     },
     "眺":{
         "page":"489",
         "meaning":"GAZE",
         "id":"1828",
-        "mnemonic":""
+        "mnemonic":"The eyes gaze upon the sign."
     },
     "逃":{
         "page":"490",
         "meaning":"ESCAPE",
         "id":"1829",
-        "mnemonic":""
+        "mnemonic":"The truck is gives a sign to escape the current situation."
     },
     "桃":{
         "page":"490",
         "meaning":"PEACH",
         "id":"1830",
-        "mnemonic":""
+        "mnemonic":"The peach and peach tree signifies many things in different cultures."
     },
     "跳":{
         "page":"490",
         "meaning":"JUMP",
         "id":"1831",
-        "mnemonic":""
+        "mnemonic":"Jumping ability is a sign of strong legs."
     },
     "挑":{
         "page":"490",
         "meaning":"PROVOKE",
         "id":"1832",
-        "mnemonic":""
+        "mnemonic":"The kung-fu master's hands signal to come at him."
     },
     "拙":{
         "page":"491",
         "meaning":"CLUMSY",
         "id":"1833",
-        "mnemonic":""
+        "mnemonic":"A clumsy hand slips out of the place it hopes to hold."
     },
     "屈":{
         "page":"491",
         "meaning":"BEND",
         "id":"1834",
-        "mnemonic":""
+        "mnemonic":"A body (1) juts out (2) if it is bending."
     },
     "掘":{
         "page":"491",
         "meaning":"DIG",
         "id":"1835",
-        "mnemonic":""
+        "mnemonic":"Digging with your hands while bent over."
     },
     "堀":{
         "page":"491",
         "meaning":"DITCH",
         "id":"1836",
-        "mnemonic":""
+        "mnemonic":"The ditch left after digging."
     },
     "封":{
         "page":"492",
         "meaning":"SEAL, ENFEOFF",
         "id":"1837",
-        "mnemonic":""
+        "mnemonic":"A hand (2) uses sticky earth (both left) to seal off a letter."
     },
     "筒":{
         "page":"492",
         "meaning":"TUBE",
         "id":"1838",
-        "mnemonic":""
+        "mnemonic":"Cross section (visually, 2) of a bamboo (1) tube."
     },
     "管":{
         "page":"492",
         "meaning":"PIPE, EXERCISE CONTROL",
         "id":"1839",
-        "mnemonic":""
+        "mnemonic":"Bamboo (1) pipe vessel (2)."
     },
     "棺":{
         "page":"492",
         "meaning":"COFFIN",
         "id":"1840",
-        "mnemonic":""
+        "mnemonic":"A vessel (2) for the dead body (1)."
     },
     "轄":{
         "page":"493",
         "meaning":"EXERCISE JURISDICTION OVER",
         "id":"1841",
-        "mnemonic":""
+        "mnemonic":"If a car (2) causes an accident (harm, 2), then someone needs to step in and damage control."
     },
     "洞":{
         "page":"493",
         "meaning":"CAVE",
         "id":"1842",
-        "mnemonic":""
+        "mnemonic":"Drops of water (1) bore the hole in the cave (visually, 2)"
     },
     "窟":{
         "page":"493",
         "meaning":"CAVE",
         "id":"1843",
-        "mnemonic":""
+        "mnemonic":"Bend over (2) to enter the hole (1) in the wall, or a cave."
     },
     "淫":{
         "page":"493",
         "meaning":"LEWD",
         "id":"1844",
-        "mnemonic":""
+        "mnemonic":"A person (3) clawing at himself (2) and ejecting his juices (1)."
     },
     "妊":{
         "page":"494",
         "meaning":"BECOME PREGNANT",
         "id":"1845",
-        "mnemonic":""
+        "mnemonic":"A man (2) and a woman (1) are needed to become pregnant."
     },
     "娠":{
         "page":"494",
         "meaning":"CONCEIVE",
         "id":"1846",
-        "mnemonic":""
+        "mnemonic":"Look sideways, and you can see a woman lying on an operating table giving birth."
     },
     "唇":{
         "page":"494",
         "meaning":"LIP",
         "id":"1847",
-        "mnemonic":""
+        "mnemonic":"The wavy (1) thing that lines your mouth: your lips."
     },
     "辱":{
         "page":"494",
         "meaning":"HUMILIATE",
         "id":"1848",
-        "mnemonic":""
+        "mnemonic":"If your child keeps waving (1) their arms (2) wildy in public, it'll HUMILIATE you."
     },
     "襲":{
         "page":"495",
         "meaning":"RAID, INHERIT",
         "id":"1849",
-        "mnemonic":""
+        "mnemonic":"The dragon flare and the cloth flag signifies the coming raid."
     },
     "伏":{
         "page":"495",
         "meaning":"PROSTRATE",
         "id":"1850",
-        "mnemonic":""
+        "mnemonic":"A man petting his dog, who lays out (prostrates)."
     },
     "吠":{
         "page":"495",
         "meaning":"HOWL",
         "id":"1851",
-        "mnemonic":""
+        "mnemonic":"Dog howling."
     },
     "噛":{
         "page":"495",
         "meaning":"BITE",
         "id":"1852",
-        "mnemonic":""
+        "mnemonic":"Teeth working with the mouth to bite something."
     },
     "班":{
         "page":"496",
         "meaning":"SQUAD",
         "id":"1853",
-        "mnemonic":""
+        "mnemonic":"Two lords commanding their squads. The boundaries between the squads shown by the middle knife split"
     },
     "斑":{
         "page":"496",
         "meaning":"SPOT",
         "id":"1854",
-        "mnemonic":""
+        "mnemonic":"The sentence tells where the lord's (3) treasures (1) are hidden."
     },
     "輩":{
         "page":"496",
         "meaning":"FELLOW",
         "id":"1855",
-        "mnemonic":""
+        "mnemonic":"Two people (visual top), getting into a car together."
     },
     "悲":{
         "page":"496",
         "meaning":"SAD",
         "id":"1856",
-        "mnemonic":""
+        "mnemonic":"Un/bad (1) for the heart (2)."
     },
     "忽":{
         "page":"497",
         "meaning":"SUDDENLY, CARELESS",
         "id":"1857",
-        "mnemonic":""
+        "mnemonic":"If you relax (easy, top) your heart (2), you're going to get careless."
     },
     "惚":{
         "page":"497",
         "meaning":"FALL IN LOVE WITH",
         "id":"1858",
-        "mnemonic":""
+        "mnemonic":"Love makes you careless."
     },
     "猿":{
         "page":"497",
         "meaning":"MONKEY",
         "id":"1859",
-        "mnemonic":""
+        "mnemonic":"An animal (1) that lives 'above ground' (2) with a head and 4 limbs."
     },
     "哀":{
         "page":"497",
         "meaning":"SORROW, PITY",
         "id":"1860",
-        "mnemonic":""
+        "mnemonic":"When someone is sad, they put a cap on to hide their face."
     },
     "衰":{
         "page":"498",
         "meaning":"DECLINE",
         "id":"1861",
-        "mnemonic":""
+        "mnemonic":"A wrinkle lines the old man in sorrow."
     },
     "衷":{
         "page":"498",
         "meaning":"INNER HEART",
         "id":"1862",
-        "mnemonic":""
+        "mnemonic":"All lines comes together at the middle organ, the heart."
     },
     "喪":{
         "page":"498",
         "meaning":"MOURNING, LOSS",
         "id":"1863",
-        "mnemonic":""
+        "mnemonic":"Two sad eyes hidden behind a cloth veil."
     },
     "忌":{
         "page":"498",
         "meaning":"MOURNING, ABHOR",
         "id":"1864",
-        "mnemonic":""
+        "mnemonic":"The self kneeling in mourning from sadness in its heart."
     },
     "卓":{
         "page":"499",
         "meaning":"TABLE, PROMINENT",
         "id":"1865",
-        "mnemonic":""
+        "mnemonic":"Two people playing table tennis."
     },
     "悼":{
         "page":"499",
         "meaning":"MOURN",
         "id":"1866",
-        "mnemonic":""
+        "mnemonic":"Lay your heart out on the table when you mourn with someone."
     },
     "貞":{
         "page":"499",
         "meaning":"CHASTE",
         "id":"1867",
-        "mnemonic":""
+        "mnemonic":"A fastener belt added on top of the shell clasp of a chastity belt."
     },
     "偵":{
         "page":"499",
         "meaning":"SPY",
         "id":"1868",
-        "mnemonic":""
+        "mnemonic":"A spy, fooling people by wearing a chastity belt."
     },
     "覇":{
         "page":"500",
         "meaning":"SUPREMACY",
         "id":"1869",
-        "mnemonic":""
+        "mnemonic":"The west has demonstrated supremacy over cows with their leather and meat."
     },
     "覆":{
         "page":"500",
         "meaning":"COVER, OVERTURN",
         "id":"1870",
-        "mnemonic":""
+        "mnemonic":"Go over the west again to cover the span of the lan and overturn unknown lands."
     },
     "履":{
         "page":"500",
         "meaning":"FULFILL, PUT ON FOOTWEAR",
         "id":"1871",
-        "mnemonic":""
+        "mnemonic":"At the door, you'll do the repetitive action of putting on your shoes."
     },
     "属":{
         "page":"500",
         "meaning":"BELONG TO",
         "id":"1872",
-        "mnemonic":""
+        "mnemonic":"Bugs don't belong indoors."
     },
     "嘱":{
         "page":"501",
         "meaning":"CHARGE WITH",
         "id":"1873",
-        "mnemonic":""
+        "mnemonic":"Someone telling you what belongs to who."
     },
     "偶":{
         "page":"501",
         "meaning":"BY CHANCE, COUPLE",
         "id":"1874",
-        "mnemonic":""
+        "mnemonic":"A man with a very well dressed lady by his side by chance."
     },
     "隅":{
         "page":"501",
         "meaning":"NOOK",
         "id":"1875",
-        "mnemonic":""
+        "mnemonic":"A well dressed lady hidden in the nooks of a hill."
     },
     "隙":{
         "page":"501",
         "meaning":"CREVICE",
         "id":"1876",
-        "mnemonic":""
+        "mnemonic":"The sunlight peaks through the crevice of two small hills."
     },
     "遇":{
         "page":"502",
         "meaning":"TREAT, ENCOUNTER",
         "id":"1877",
-        "mnemonic":""
+        "mnemonic":"A well dressed lady treated well by being transported around."
     },
     "愚":{
         "page":"502",
         "meaning":"FOOLISH",
         "id":"1878",
-        "mnemonic":""
+        "mnemonic":"A well dressed lady with a naive heart."
     },
     "曹":{
         "page":"502",
         "meaning":"SERGEANT",
         "id":"1879",
-        "mnemonic":""
+        "mnemonic":"A sergeant's jacket laden with many lines of badges."
     },
     "遭":{
         "page":"502",
         "meaning":"MEET WITH",
         "id":"1880",
-        "mnemonic":""
+        "mnemonic":"The sergeant is an important target that often meats with misfortunate due to his position during transport."
     },
     "槽":{
         "page":"503",
         "meaning":"TUB",
         "id":"1881",
-        "mnemonic":""
+        "mnemonic":"Sergeant bathing in a wooden tub just his size."
     },
     "妨":{
         "page":"503",
         "meaning":"HINDER",
         "id":"1882",
-        "mnemonic":""
+        "mnemonic":"The gentleperson 方 hinders others from approaching the woman."
     },
     "坊":{
         "page":"503",
         "meaning":"SONNY BOY, COLLOQUIAL PERSON SUFFIX",
         "id":"1883",
-        "mnemonic":""
+        "mnemonic":"A young person that likes playing in the dirt."
     },
     "傍":{
         "page":"503",
         "meaning":"BESIDE",
         "id":"1884",
-        "mnemonic":""
+        "mnemonic":"Stand (2) beside another person (1, 3)"
     },
     "於":{
         "page":"504",
         "meaning":"AT",
         "id":"1885",
-        "mnemonic":""
+        "mnemonic":"Poitning at the direction of the two marks that is hidden under the roof."
     },
     "房":{
         "page":"504",
         "meaning":"CHAMBER, TUFT",
         "id":"1886",
-        "mnemonic":""
+        "mnemonic":"A person has to go through a doorway to get to the chamber."
     },
     "扇":{
         "page":"504",
         "meaning":"FAN",
         "id":"1887",
-        "mnemonic":""
+        "mnemonic":"Wings that flap on a pivot like a door can act as a fan."
     },
     "扉":{
         "page":"504",
         "meaning":"HINGED DOOR",
         "id":"1888",
-        "mnemonic":""
+        "mnemonic":"Visually looks like a door or gate."
     },
     "雇":{
         "page":"505",
         "meaning":"EMPLOY",
         "id":"1889",
-        "mnemonic":""
+        "mnemonic":"A small birdy interviewer is your door to employment."
     },
     "顧":{
         "page":"505",
         "meaning":"LOOK BACK ON",
         "id":"1890",
-        "mnemonic":""
+        "mnemonic":"The interviewer looks to see if you have a good head on your shoulders by looking back on your history."
     },
     "屑":{
         "page":"505",
         "meaning":"SCRAPS",
         "id":"1891",
-        "mnemonic":""
+        "mnemonic":"The body expels small meaty lumps."
     },
     "糞":{
         "page":"505",
         "meaning":"DROPPINGS",
         "id":"1892",
-        "mnemonic":""
+        "mnemonic":"Rice goes in the top and something else comes out the bottom."
     },
     "尿":{
         "page":"506",
         "meaning":"URINE",
         "id":"1893",
-        "mnemonic":""
+        "mnemonic":"Body liquids."
     },
     "泌":{
         "page":"506",
         "meaning":"SECRETE",
         "id":"1894",
-        "mnemonic":""
+        "mnemonic":"Some liquids are certain to secrete."
     },
     "尻":{
         "page":"506",
         "meaning":"BUTTOCKS",
         "id":"1895",
-        "mnemonic":""
+        "mnemonic":"The ninth orifice of a male body."
     },
     "炉":{
         "page":"506",
         "meaning":"FURNACE",
         "id":"1896",
-        "mnemonic":""
+        "mnemonic":"Fire behind a door."
     },
     "窯":{
         "page":"507",
         "meaning":"KILN",
         "id":"1897",
-        "mnemonic":""
+        "mnemonic":"A hot hole for molding decorated pottery placed in the center."
     },
     "釜":{
         "page":"507",
         "meaning":"IRON POT",
         "id":"1898",
-        "mnemonic":""
+        "mnemonic":"An iron pot hanging by wires."
     },
     "爺":{
         "page":"507",
         "meaning":"OLD MAN",
         "id":"1899",
-        "mnemonic":""
+        "mnemonic":"A fatherly figure with two large ear lobes: an old man (Ears grow with age.)"
     },
     "窪":{
         "page":"507",
         "meaning":"SINK",
         "id":"1900",
-        "mnemonic":""
+        "mnemonic":"A hole that drains the water into the ground."
     },
     "佳":{
         "page":"508",
