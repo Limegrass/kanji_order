@@ -10231,823 +10231,823 @@ var database = {
         "page":"508",
         "meaning":"FINE",
         "id":"1901",
-        "mnemonic":""
+        "mnemonic":"The person molds the mound into a fine pile."
     },
     "涯":{
         "page":"508",
         "meaning":"FAR END",
         "id":"1902",
-        "mnemonic":""
+        "mnemonic":"You can see the far end of the cliff (R2) from the water (R1)."
     },
     "暇":{
         "page":"508",
         "meaning":"FREE TIME",
         "id":"1903",
-        "mnemonic":""
+        "mnemonic":"The day (R1) suggests time, and you can see the letters of O and F F in the R2. You don't know what to do with your hands during free time."
     },
     "霞":{
         "page":"508",
         "meaning":"MIST",
         "id":"1904",
-        "mnemonic":""
+        "mnemonic":"The mist is like free rain."
     },
     "雰":{
         "page":"509",
         "meaning":"ATMOSPHERE",
         "id":"1905",
-        "mnemonic":""
+        "mnemonic":"The rain/air is split into the many small parts of our atmosphere."
     },
     "霧":{
         "page":"509",
         "meaning":"FOG",
         "id":"1906",
-        "mnemonic":""
+        "mnemonic":"Soft rain is fog. No matter how you strike it with a halberd it's no use."
     },
     "露":{
         "page":"509",
         "meaning":"DEW, EXPOSE",
         "id":"1907",
-        "mnemonic":""
+        "mnemonic":"Moisture you see condensed on the side of the road, in the grass (DEW). Exposed to the elements."
     },
     "霜":{
         "page":"509",
         "meaning":"FROST",
         "id":"1908",
-        "mnemonic":""
+        "mnemonic":"Frost on trees and eyelashes."
     },
     "箱":{
         "page":"510",
         "meaning":"BOX",
         "id":"1909",
-        "mnemonic":""
+        "mnemonic":"Wooden and bamboo box (visual)."
     },
     "籍":{
         "page":"510",
         "meaning":"REGISTER",
         "id":"1910",
-        "mnemonic":""
+        "mnemonic":"Old bamboo records dating back to when the family was a farming/tiller faily."
     },
     "貫":{
         "page":"510",
         "meaning":"PENETRATE",
         "id":"1911",
-        "mnemonic":""
+        "mnemonic":"Pierce through the seashells to string a necklace."
     },
     "慣":{
         "page":"510",
         "meaning":"HABITUAL PRACTICE",
         "id":"1912",
-        "mnemonic":""
+        "mnemonic":"Habits that have penetrated to becoming something you know by heart."
     },
     "頂":{
         "page":"511",
         "meaning":"SUMMIT, RECEIVE HUMBLY",
         "id":"1913",
-        "mnemonic":""
+        "mnemonic":"The head of the nail. Receiving something humbly by having it placed on your head."
     },
     "戴":{
         "page":"511",
         "meaning":"RECEIVE HUMBLY",
         "id":"1914",
-        "mnemonic":""
+        "mnemonic":"A very decorated person receiving a very decorated spear."
     },
     "項":{
         "page":"511",
         "meaning":"CLAUSE",
         "id":"1915",
-        "mnemonic":""
+        "mnemonic":"The headers (right) for the clauses that exists on the scroll (left)."
     },
     "頃":{
         "page":"511",
         "meaning":"TIME, ABOUT",
         "id":"1916",
-        "mnemonic":""
+        "mnemonic":"Look through oneself back through time in your head."
     },
     "傾":{
         "page":"512",
         "meaning":"INCLINE",
         "id":"1917",
-        "mnemonic":""
+        "mnemonic":"Leaning head on another person."
     },
     "頑":{
         "page":"512",
         "meaning":"STUBBORN",
         "id":"1918",
-        "mnemonic":""
+        "mnemonic":"Head that is stubbornly rooted in its original (left) idea."
     },
     "頒":{
         "page":"512",
         "meaning":"DISTRIBUTE WIDELY",
         "id":"1919",
-        "mnemonic":""
+        "mnemonic":"Distribute by dividing by number of heads."
     },
     "頓":{
         "page":"512",
         "meaning":"SUDDENLY",
         "id":"1920",
-        "mnemonic":""
+        "mnemonic":"The stationed trooped needs to keep their heads in the game to be ready at a sudden moments notice."
     },
     "顕":{
         "page":"513",
         "meaning":"MANIFEST",
         "id":"1921",
-        "mnemonic":""
+        "mnemonic":"Rays of light from the sun manifesting itself before the head of buddha."
     },
     "領":{
         "page":"513",
         "meaning":"DOMINION",
         "id":"1922",
-        "mnemonic":""
+        "mnemonic":"The head of the dominion can command its lands."
     },
     "頻":{
         "page":"513",
         "meaning":"REPEATEDLY",
         "id":"1923",
-        "mnemonic":""
+        "mnemonic":"As people walk by REPEATEDLY, you count the numbers of heads."
     },
     "捗":{
         "page":"513",
         "meaning":"MAKE PROGRESS",
         "id":"1924",
-        "mnemonic":""
+        "mnemonic":"The work one does with one's hands walks forwards to make progress."
     },
     "順":{
         "page":"514",
         "meaning":"ORDER, OBEY",
         "id":"1925",
-        "mnemonic":""
+        "mnemonic":"Tally the number of heads to know which order each person is in."
     },
     "馴":{
         "page":"514",
         "meaning":"GET USED TO",
         "id":"1926",
-        "mnemonic":""
+        "mnemonic":"The horse is tame if riding it is as smooth as a river."
     },
     "訓":{
         "page":"514",
         "meaning":"INSTRUCT",
         "id":"1927",
-        "mnemonic":""
+        "mnemonic":"Words of instruction streaming into the young."
     },
     "須":{
         "page":"514",
         "meaning":"MUST",
         "id":"1928",
-        "mnemonic":""
+        "mnemonic":"The head comes back to the point three times because it is that important."
     },
     "額":{
         "page":"515",
         "meaning":"AMOUNT, PICTURE FRAME, FOREHEAD",
         "id":"1929",
-        "mnemonic":""
+        "mnemonic":"The amount/cost for a head (guest) to stay one night at a hotel. You recognize a guest by framing their head."
     },
     "頼":{
         "page":"515",
         "meaning":"RELY ON, ASK",
         "id":"1930",
-        "mnemonic":""
+        "mnemonic":"Bundles for the head to lie/rely on as a pillow."
     },
     "瀬":{
         "page":"515",
         "meaning":"SHALLOWS",
         "id":"1931",
-        "mnemonic":""
+        "mnemonic":"In the shallows/rapids, you can only rely on the water to bring you to safety."
     },
     "峡":{
         "page":"515",
         "meaning":"GORGE",
         "id":"1932",
-        "mnemonic":""
+        "mnemonic":"Narrow spot between mountains, gorges."
     },
     "狭":{
         "page":"516",
         "meaning":"NARROW",
         "id":"1933",
-        "mnemonic":""
+        "mnemonic":"A spot pinched so narrow that not even small animals/dogs can get through."
     },
     "挟":{
         "page":"516",
         "meaning":"HOLD BETWEEN",
         "id":"1934",
-        "mnemonic":""
+        "mnemonic":"Pinch something together with your hands."
     },
     "頰":{
         "page":"516",
         "meaning":"CHEEKS",
         "id":"1935",
-        "mnemonic":""
+        "mnemonic":"The part of the head that you want to pinch. CHEEKS."
     },
     "顎":{
         "page":"516",
         "meaning":"JAW",
         "id":"1936",
-        "mnemonic":""
+        "mnemonic":"See left as eyes and the jaw/chin."
     },
     "煩":{
         "page":"517",
         "meaning":"VEXING",
         "id":"1937",
-        "mnemonic":""
+        "mnemonic":"Irritating/vexing things sets fire to your brains."
     },
     "串":{
         "page":"517",
         "meaning":"SKEWER",
         "id":"1938",
-        "mnemonic":""
+        "mnemonic":"Skewered food."
     },
     "患":{
         "page":"517",
         "meaning":"AFFECTED BY DISEASE",
         "id":"1939",
-        "mnemonic":""
+        "mnemonic":"Heart skewered by disease."
     },
     "疾":{
         "page":"517",
         "meaning":"DISEASE, FAST",
         "id":"1940",
-        "mnemonic":""
+        "mnemonic":"A disease as swift as an arrow."
     },
     "痴":{
         "page":"518",
         "meaning":"STUPID, INFATUATED",
         "id":"1941",
-        "mnemonic":""
+        "mnemonic":"Knowledge that might as well be an illness: stupidity."
     },
     "疫":{
         "page":"518",
         "meaning":"EPIDEMIC",
         "id":"1942",
-        "mnemonic":""
+        "mnemonic":"Swift and destructive illness like a lance."
     },
     "痢":{
         "page":"518",
         "meaning":"DIARRHEA",
         "id":"1943",
-        "mnemonic":""
+        "mnemonic":"The illness when the bowels works too well."
     },
     "痘":{
         "page":"518",
         "meaning":"SMALLPOX",
         "id":"1944",
-        "mnemonic":""
+        "mnemonic":"The illness that manifests bean/pea size lumps."
     },
     "瘍":{
         "page":"519",
         "meaning":"ULCER",
         "id":"1945",
-        "mnemonic":""
+        "mnemonic":"Difficult to cure illness."
     },
     "癌":{
         "page":"519",
         "meaning":"CANCER",
         "id":"1946",
-        "mnemonic":""
+        "mnemonic":"Illness where a bunch of things keeps growing into a mountainous tumor."
     },
     "痩":{
         "page":"519",
         "meaning":"BECOME THIN",
         "id":"1947",
-        "mnemonic":""
+        "mnemonic":"Illness where you can see the backbone, ribs, and skinny legs."
     },
     "疲":{
         "page":"519",
         "meaning":"TIRED",
         "id":"1948",
-        "mnemonic":""
+        "mnemonic":"Tiredness shows in the health of your skin."
     },
     "被":{
         "page":"520",
         "meaning":"BE SUBJECTED TO",
         "id":"1949",
-        "mnemonic":""
+        "mnemonic":"Skin being subjected to clothing based on culture."
     },
     "披":{
         "page":"520",
         "meaning":"OPEN OUT",
         "id":"1950",
-        "mnemonic":""
+        "mnemonic":"Hand reaching out to reveal the skin underneath."
     },
     "抜":{
         "page":"520",
         "meaning":"PULL OUT, STAND OUT",
         "id":"1951",
-        "mnemonic":""
+        "mnemonic":"Reach out a hand to pull a friend out of a bad situation."
     },
     "控":{
         "page":"520",
         "meaning":"HOLD BACK",
         "id":"1952",
-        "mnemonic":""
+        "mnemonic":"Using arms to hold someone back from jumping into the empty air."
     },
     "扶":{
         "page":"521",
         "meaning":"LEND SUPPORT TO",
         "id":"1953",
-        "mnemonic":""
+        "mnemonic":"Husband lending a helping hand."
     },
     "抹":{
         "page":"521",
         "meaning":"WIPE",
         "id":"1954",
-        "mnemonic":""
+        "mnemonic":"Hand bringing the end to something by wiping it out/erasing it."
     },
     "拓":{
         "page":"521",
         "meaning":"OPEN UP",
         "id":"1955",
-        "mnemonic":""
+        "mnemonic":"Hand picking up a stone to free up more farmland (HARVEST MOON)."
     },
     "拷":{
         "page":"521",
         "meaning":"TORTURE",
         "id":"1956",
-        "mnemonic":""
+        "mnemonic":"Hand trying to grasp at someone's thoughts by torturing it out of them."
     },
     "楼":{
         "page":"522",
         "meaning":"TALL BUILDING",
         "id":"1957",
-        "mnemonic":""
+        "mnemonic":"A woman storing the grains on a high wooden building so the animals don't get to it."
     },
     "壇":{
         "page":"522",
         "meaning":"PLATFORM",
         "id":"1958",
-        "mnemonic":""
+        "mnemonic":"An earthen platform stage."
     },
     "塔":{
         "page":"522",
         "meaning":"TOWER",
         "id":"1959",
-        "mnemonic":""
+        "mnemonic":"Decorated slanted rooves of pagodas with strogn earthen foundations."
     },
     "搭":{
         "page":"522",
         "meaning":"LOAD ON BOARD",
         "id":"1960",
-        "mnemonic":""
+        "mnemonic":"Loading the grassy decorations on top of the towers."
     },
     "寡":{
         "page":"523",
         "meaning":"FEW, WIDOW(ER)",
         "id":"1961",
-        "mnemonic":""
+        "mnemonic":"A poor widow hiding her last few hundreds/thousands of inheritance split under a few homes."
     },
     "賓":{
         "page":"523",
         "meaning":"GUEST",
         "id":"1962",
-        "mnemonic":""
+        "mnemonic":"A guest with a fancy hat coming under the roof."
     },
     "飾":{
         "page":"523",
         "meaning":"DECORATE",
         "id":"1963",
-        "mnemonic":""
+        "mnemonic":"Decorating the dining table by putting a cloth over it."
     },
     "飽":{
         "page":"523",
         "meaning":"SATIATED",
         "id":"1964",
-        "mnemonic":""
+        "mnemonic":"Having eaten so much food wrapped around you that you feel satiated."
     },
     "餓":{
         "page":"524",
         "meaning":"STARVE",
         "id":"1965",
-        "mnemonic":""
+        "mnemonic":"So hungry you could eat yourself."
     },
     "飢":{
         "page":"524",
         "meaning":"STARVE",
         "id":"1966",
-        "mnemonic":""
+        "mnemonic":"So hungry you could eat a table."
     },
     "机":{
         "page":"524",
         "meaning":"DESK",
         "id":"1967",
-        "mnemonic":""
+        "mnemonic":"Wooden table."
     },
     "冗":{
         "page":"524",
         "meaning":"REDUNDANT",
         "id":"1968",
-        "mnemonic":""
+        "mnemonic":"Covering a table cloth is redundant."
     },
     "冠":{
         "page":"525",
         "meaning":"CROWN",
         "id":"1969",
-        "mnemonic":""
+        "mnemonic":"A hand reaching out to crown the original ruler who has a long cape."
     },
     "離":{
         "page":"525",
         "meaning":"SEPARATE",
         "id":"1970",
-        "mnemonic":""
+        "mnemonic":"Many barriers separates the misfortune (X) inside (Bot) from the small bird."
     },
     "胸":{
         "page":"525",
         "meaning":"CHEST",
         "id":"1971",
-        "mnemonic":""
+        "mnemonic":"The chest is the body part that rests at the center, marked with an X."
     },
     "悩":{
         "page":"525",
         "meaning":"SUFFER",
         "id":"1972",
-        "mnemonic":""
+        "mnemonic":"The heart (1) sinks (2) as it falls into misfortune (3)."
     },
     "脳":{
         "page":"526",
         "meaning":"BRAIN",
         "id":"1973",
-        "mnemonic":""
+        "mnemonic":"The brain computes stuff to find X."
     },
     "臓":{
         "page":"526",
         "meaning":"INTERNAL ORGAN",
         "id":"1974",
-        "mnemonic":""
+        "mnemonic":"The body is the storehouse (2) of internal organs."
     },
     "胃":{
         "page":"526",
         "meaning":"STOMACH",
         "id":"1975",
-        "mnemonic":""
+        "mnemonic":"The stomach sack and a bunch of intestines."
     },
     "炎":{
         "page":"526",
         "meaning":"FLAME, INFLAMMATION",
         "id":"1976",
-        "mnemonic":""
+        "mnemonic":"Rising fire."
     },
     "談":{
         "page":"527",
         "meaning":"TALK",
         "id":"1977",
-        "mnemonic":""
+        "mnemonic":"Talking around a camp fire."
     },
     "淡":{
         "page":"527",
         "meaning":"LIGHT",
         "id":"1978",
-        "mnemonic":""
+        "mnemonic":"If water gets on the flames, the flames becomes lighter/fainter."
     },
     "災":{
         "page":"527",
         "meaning":"NATURAL CALAMITY",
         "id":"1979",
-        "mnemonic":""
+        "mnemonic":"Fire and smoke signals a natural disaster."
     },
     "肝":{
         "page":"527",
         "meaning":"LIVER",
         "id":"1980",
-        "mnemonic":""
+        "mnemonic":"The liver drys out/detoxifies the bloodstream."
     },
     "肺":{
         "page":"528",
         "meaning":"LUNG",
         "id":"1981",
-        "mnemonic":""
+        "mnemonic":"Throat/head connected with two lungs and a backbone."
     },
     "胆":{
         "page":"528",
         "meaning":"GALLBLADDER",
         "id":"1982",
-        "mnemonic":""
+        "mnemonic":"The moon having the galls to stay out after dawn."
     },
     "腺":{
         "page":"528",
         "meaning":"GLAND",
         "id":"1983",
-        "mnemonic":""
+        "mnemonic":"Glands are where liquids springs from the body."
     },
     "胞":{
         "page":"528",
         "meaning":"MEMBRANOUS SAC",
         "id":"1984",
-        "mnemonic":""
+        "mnemonic":"Fleshy wrapping."
     },
     "腸":{
         "page":"529",
         "meaning":"INTESTINES",
         "id":"1985",
-        "mnemonic":""
+        "mnemonic":"Intestines pushing the hard stuff through the body."
     },
     "胎":{
         "page":"529",
         "meaning":"WOMB, FETUS",
         "id":"1986",
-        "mnemonic":""
+        "mnemonic":"Fleshy platform for development."
     },
     "腰":{
         "page":"529",
         "meaning":"WAIST",
         "id":"1987",
-        "mnemonic":""
+        "mnemonic":"The waist is necessary for all movements of the body. It is the core."
     },
     "肘":{
         "page":"529",
         "meaning":"ELBOW",
         "id":"1988",
-        "mnemonic":""
+        "mnemonic":"Elbow of a reached out arm."
     },
     "膝":{
         "page":"530",
         "meaning":"KNEE",
         "id":"1989",
-        "mnemonic":""
+        "mnemonic":"Drops of water falling from the tree splashing back on the knee. ひざ(座) to help remember vs 肘（ひじ）."
     },
     "股":{
         "page":"530",
         "meaning":"CROTCH",
         "id":"1990",
-        "mnemonic":""
+        "mnemonic":"Males have a lance in their crotch."
     },
     "肢":{
         "page":"530",
         "meaning":"LIMB",
         "id":"1991",
-        "mnemonic":""
+        "mnemonic":"Visually, branchy limbs."
     },
     "胴":{
         "page":"530",
         "meaning":"TRUNK",
         "id":"1992",
-        "mnemonic":""
+        "mnemonic":"Visually, a person's torso."
     },
     "脇":{
         "page":"531",
         "meaning":"ARMPIT, ASIDE",
         "id":"1993",
-        "mnemonic":""
+        "mnemonic":"People working together lifting their arms and exposing their armpits."
     },
     "脂":{
         "page":"531",
         "meaning":"FAT",
         "id":"1994",
-        "mnemonic":""
+        "mnemonic":"Essence 旨 of flesh."
     },
     "詣":{
         "page":"531",
         "meaning":"VISIT A TEMPLE",
         "id":"1995",
-        "mnemonic":""
+        "mnemonic":"Bowing down and praying to the sun when you visit a temple."
     },
     "肪":{
         "page":"531",
         "meaning":"ANIMAL FAT",
         "id":"1996",
-        "mnemonic":""
+        "mnemonic":"Meat with a slab of fat on one side."
     },
     "肌":{
         "page":"532",
         "meaning":"SKIN",
         "id":"1997",
-        "mnemonic":""
+        "mnemonic":"Table cloth for the body."
     },
     "膚":{
         "page":"532",
         "meaning":"SKIN",
         "id":"1998",
-        "mnemonic":""
+        "mnemonic":"The tiger skin covering the stomach."
     },
     "慮":{
         "page":"532",
         "meaning":"CONSIDER",
         "id":"1999",
-        "mnemonic":""
+        "mnemonic":"A tiger thinking and considering when is it the best time to strike."
     },
     "虐":{
         "page":"532",
         "meaning":"CRUEL",
         "id":"2000",
-        "mnemonic":""
+        "mnemonic":"A cruel tiger striking with it's claws."
     },
     "虞":{
         "page":"533",
         "meaning":"RISK",
         "id":"2001",
-        "mnemonic":""
+        "mnemonic":"Being stuck in a maze with a tiger has it's risks/fears."
     },
     "劇":{
         "page":"533",
         "meaning":"DRAMA",
         "id":"2002",
-        "mnemonic":""
+        "mnemonic":"A dramatic performance with a sword fighting tiger and pig."
     },
     "虚":{
         "page":"533",
         "meaning":"EMPTY, FALSE",
         "id":"2003",
-        "mnemonic":""
+        "mnemonic":"An empty tiger cave with just drops of water splashing down from stalactites."
     },
     "虜":{
         "page":"533",
         "meaning":"CAPTIVE",
         "id":"2004",
-        "mnemonic":""
+        "mnemonic":"A man is held captive by a tiger."
     },
     "勇":{
         "page":"534",
         "meaning":"BRAVE",
         "id":"2005",
-        "mnemonic":""
+        "mnemonic":"A man pushing forwards (top) bravely."
     },
     "湧":{
         "page":"534",
         "meaning":"WELL UP",
         "id":"2006",
-        "mnemonic":""
+        "mnemonic":"Sweat gushes out as the man runs forward."
     },
     "戯":{
         "page":"534",
         "meaning":"SPORT",
         "id":"2007",
-        "mnemonic":""
+        "mnemonic":"False spear play: jousting for sport."
     },
     "繊":{
         "page":"534",
         "meaning":"FINE, FIBER",
         "id":"2008",
-        "mnemonic":""
+        "mnemonic":"Threads shredded fine through the spear loom."
     },
     "緻":{
         "page":"535",
         "meaning":"FINE",
         "id":"2009",
-        "mnemonic":""
+        "mnemonic":"The threads finally reach a fine enough form."
     },
     "嘘":{
         "page":"535",
         "meaning":"LIE",
         "id":"2010",
-        "mnemonic":""
+        "mnemonic":"Talks of falsity."
     },
     "噂":{
         "page":"535",
         "meaning":"RUMOR",
         "id":"2011",
-        "mnemonic":""
+        "mnemonic":"Pouring liquor loosens the mouth to spread rumours."
     },
     "樽":{
         "page":"535",
         "meaning":"BARREL",
         "id":"2012",
-        "mnemonic":""
+        "mnemonic":"The arm fetches more liquor from the wooden barrel."
     },
     "距":{
         "page":"536",
         "meaning":"DISTANCE",
         "id":"2013",
-        "mnemonic":""
+        "mnemonic":"Leg making a giant stride covering a lot of distance."
     },
     "拒":{
         "page":"536",
         "meaning":"REFUSE",
         "id":"2014",
-        "mnemonic":""
+        "mnemonic":"Hand making a big waving gesture refusing something."
     },
     "嬉":{
         "page":"536",
         "meaning":"GLAD",
         "id":"2015",
-        "mnemonic":""
+        "mnemonic":"Woman expressing happiness."
     },
     "鼓":{
         "page":"536",
         "meaning":"DRUM",
         "id":"2016",
-        "mnemonic":""
+        "mnemonic":"Sticks/branches on the right as drum sticks hitting on the drum on the left."
     },
     "樹":{
         "page":"537",
         "meaning":"STANDING TREE",
         "id":"2017",
-        "mnemonic":""
+        "mnemonic":"Standing tree used as a drum."
     },
     "膨":{
         "page":"537",
         "meaning":"EXPAND",
         "id":"2018",
-        "mnemonic":""
+        "mnemonic":"Animal skin expanded out as the drum surface."
     },
     "脹":{
         "page":"537",
         "meaning":"SWELL",
         "id":"2019",
-        "mnemonic":""
+        "mnemonic":"Flesh swelling to become longer/larger."
     },
     "張":{
         "page":"537",
         "meaning":"SPREAD, STRAIN",
         "id":"2020",
-        "mnemonic":""
+        "mnemonic":"A bow stretched long, causing strain and tension."
     },
     "帳":{
         "page":"538",
         "meaning":"NOTEBOOK",
         "id":"2021",
-        "mnemonic":""
+        "mnemonic":"Long cloth of a scroll, used as a notebook."
     },
     "腫":{
         "page":"538",
         "meaning":"TUMOR",
         "id":"2022",
-        "mnemonic":""
+        "mnemonic":"Flesh piling up to become a tumor."
     },
     "肥":{
         "page":"538",
         "meaning":"FATTEN",
         "id":"2023",
-        "mnemonic":""
+        "mnemonic":"The meat fattened to the point where it lays on its side. Or think of Chinese Ba, it's ba'd to fatten too much."
     },
     "把":{
         "page":"538",
         "meaning":"GRIP",
         "id":"2024",
-        "mnemonic":""
+        "mnemonic":"Grip the steel knuckles with your hands."
     },
     "誇":{
         "page":"539",
         "meaning":"BOAST",
         "id":"2025",
-        "mnemonic":""
+        "mnemonic":"Big talk coming from the chin."
     },
     "覧":{
         "page":"539",
         "meaning":"LOOK OVER",
         "id":"2026",
-        "mnemonic":""
+        "mnemonic":"Look over (top right, bot) the retainer (top left)"
     },
     "監":{
         "page":"539",
         "meaning":"OVERSEE",
         "id":"2027",
-        "mnemonic":""
+        "mnemonic":"The retainer looks over the cash collection plate."
     },
     "鑑":{
         "page":"539",
         "meaning":"APPRAISE, REFER TO",
         "id":"2028",
-        "mnemonic":""
+        "mnemonic":"The retainer appraises the metal he oversees."
     },
     "艦":{
         "page":"540",
         "meaning":"WARSHIP",
         "id":"2029",
-        "mnemonic":""
+        "mnemonic":"A warship is a boat that oversees other boats."
     },
     "濫":{
         "page":"540",
         "meaning":"EXCESSIVE",
         "id":"2030",
-        "mnemonic":""
+        "mnemonic":"The waters are excessively flooding over the plate, so someone has to keep watch over it."
     },
     "藍":{
         "page":"540",
         "meaning":"INDIGO",
         "id":"2031",
-        "mnemonic":""
+        "mnemonic":"Mixing indigo dye on the plate made from herbs."
     },
     "賢":{
         "page":"540",
         "meaning":"WISE",
         "id":"2032",
-        "mnemonic":""
+        "mnemonic":"The retainer sorts his shells wisely with his hands. See 2032-2035."
     },
     "腎":{
         "page":"541",
         "meaning":"KIDNEY",
         "id":"2033",
-        "mnemonic":""
+        "mnemonic":"The kidney is one that you can live without one, so you can put it in your hands and give it to your superior. See 2032-2035."
     },
     "堅":{
         "page":"541",
         "meaning":"FIRM",
         "id":"2034",
-        "mnemonic":""
+        "mnemonic":"The retainer molds the earth into his master's home to be firm and fit for living. See 2032-2035."
     },
     "緊":{
         "page":"541",
         "meaning":"TIGHTEN, EXIGENT",
         "id":"2035",
-        "mnemonic":""
+        "mnemonic":"The retainer grasps at threads until they're properly tight and safe to use. See 2032-2035."
     },
     "勃":{
         "page":"541",
         "meaning":"SUDDENLY RISING",
         "id":"2036",
-        "mnemonic":""
+        "mnemonic":"A child hidden under a tomb stone suddenly plowing through the ground."
     },
     "励":{
         "page":"542",
         "meaning":"WORK HARD",
         "id":"2037",
-        "mnemonic":""
+        "mnemonic":"The power of tens of thousands of people can break through any barrier if they work hard."
     },
     "栃":{
         "page":"542",
