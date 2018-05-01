@@ -11053,379 +11053,379 @@ var database = {
         "page":"542",
         "meaning":"HORSE CHESTNUT",
         "id":"2038",
-        "mnemonic":""
+        "mnemonic":"Just know 栃木県."
     },
     "茨":{
         "page":"542",
         "meaning":"BRIER",
         "id":"2039",
-        "mnemonic":""
+        "mnemonic":"Just know 茨城県"
     },
     "羨":{
         "page":"542",
         "meaning":"ENVIOUS",
         "id":"2040",
-        "mnemonic":""
+        "mnemonic":"Envious of the person next to you's warm wool coat."
     },
     "歳":{
         "page":"543",
         "meaning":"YEAR, -YEARS OLD",
         "id":"2041",
-        "mnemonic":""
+        "mnemonic":"Small becoming 成 big and stopping. (top)"
     },
     "戚":{
         "page":"543",
         "meaning":"KIN",
         "id":"2042",
-        "mnemonic":""
+        "mnemonic":"Both smaller and older are related and holds the family spear together."
     },
     "叔":{
         "page":"543",
         "meaning":"YOUNGER SIBLING OF PARENT",
         "id":"2043",
-        "mnemonic":""
+        "mnemonic":"A relative who lends a hand."
     },
     "淑":{
         "page":"543",
         "meaning":"GRACEFUL",
         "id":"2044",
-        "mnemonic":""
+        "mnemonic":"A graceful relative who washes their hands."
     },
     "寂":{
         "page":"544",
         "meaning":"LONESOME",
         "id":"2045",
-        "mnemonic":""
+        "mnemonic":"Lonesome uncle at home alone."
     },
     "督":{
         "page":"544",
         "meaning":"SUPERVISE, COMMANDER",
         "id":"2046",
-        "mnemonic":""
+        "mnemonic":"Uncle keeping an eye on the children."
     },
     "奴":{
         "page":"544",
         "meaning":"SLAVE, GUY",
         "id":"2047",
-        "mnemonic":""
+        "mnemonic":"A girl making a guy their slave with some handy favors."
     },
     "努":{
         "page":"544",
         "meaning":"EXERT",
         "id":"2048",
-        "mnemonic":""
+        "mnemonic":"Forcing the slave to exert their power."
     },
     "怒":{
         "page":"545",
         "meaning":"GET ANGRY",
         "id":"2049",
-        "mnemonic":""
+        "mnemonic":"A woma with anger will use their hand to slap."
     },
     "隷":{
         "page":"545",
         "meaning":"UNDERLING",
         "id":"2050",
-        "mnemonic":""
+        "mnemonic":"Man (t-l) on an altar (b-l) holding (t-r) a water hose (b-r) hosing his underlings."
     },
     "款":{
         "page":"545",
         "meaning":"ARTICLE, FRIENDLY RELATIONS",
         "id":"2051",
-        "mnemonic":""
+        "mnemonic":"Military man on altar (l) yawning as he reads articles of a friendly treaty."
     },
     "殻":{
         "page":"545",
         "meaning":"HUSK",
         "id":"2052",
-        "mnemonic":""
+        "mnemonic"::"Military man needs spear to penetrate the husk covering the table."
     },
     "穀":{
         "page":"546",
         "meaning":"GRAIN",
         "id":"2053",
-        "mnemonic":""
+        "mnemonic":"Military man needs spear to penetrate the husk of the rice grains (See 2052)."
     },
     "臼":{
         "page":"546",
         "meaning":"MORTAR",
         "id":"2054",
-        "mnemonic":""
+        "mnemonic":"The teeth at the sides of the container grinds anything that is put into it like a mortar."
     },
     "毀":{
         "page":"546",
         "meaning":"BREAK",
         "id":"2055",
-        "mnemonic":""
+        "mnemonic":"If you put a lance in that mortar box, it'll break it."
     },
     "廉":{
         "page":"546",
         "meaning":"HONEST, CHEAP",
         "id":"2056",
-        "mnemonic":""
+        "mnemonic":"Combined/duo shelter (top) makes it cheaper for both."
     },
     "鎌":{
         "page":"547",
         "meaning":"SICKLE",
         "id":"2057",
-        "mnemonic":""
+        "mnemonic":"Combine two pieces of metal to become a sick that can be used for cutting into grass or ground."
     },
     "嫌":{
         "page":"547",
         "meaning":"DISLIKE",
         "id":"2058",
-        "mnemonic":""
+        "mnemonic":"Women do not like combining things into groups that are hard to organize."
     },
     "謙":{
         "page":"547",
         "meaning":"HUMBLE",
         "id":"2059",
-        "mnemonic":""
+        "mnemonic":"Being careful about how you combine your words to stay in humble speech."
     },
     "遜":{
         "page":"547",
         "meaning":"HUMBLE",
         "id":"2060",
-        "mnemonic":""
+        "mnemonic":"You only need a modest/humbly sized truck to carry your grand children around in."
     },
     "亀":{
         "page":"548",
         "meaning":"TURTLE",
         "id":"2061",
-        "mnemonic":""
+        "mnemonic":"See the head, shell, and tail of a turtle from above."
     },
     "練":{
         "page":"548",
         "meaning":"TRAIN",
         "id":"2062",
-        "mnemonic":""
+        "mnemonic":"It has been simplified to 東, which is why the reading isn't とう. See original. The thread has been meticulously strung through the middle of the hole many times as a part of training."
     },
     "錬":{
         "page":"548",
         "meaning":"REFINE",
         "id":"2063",
-        "mnemonic":""
+        "mnemonic":"The metal wire has been trained like 2062, and refined through putting it through the furance."
     },
     "鍛":{
         "page":"548",
         "meaning":"FORGE",
         "id":"2064",
-        "mnemonic":""
+        "mnemonic":"The metal goes through steps/stages to become forged into a tool."
     },
     "鉱":{
         "page":"549",
         "meaning":"ORE, MINE",
         "id":"2065",
-        "mnemonic":""
+        "mnemonic":"Metal ore veins running wide."
     },
     "銅":{
         "page":"549",
         "meaning":"COPPER",
         "id":"2066",
-        "mnemonic":""
+        "mnemonic":"Copper for the common people/the people (the people alike)."
     },
     "鉛":{
         "page":"549",
         "meaning":"LEAD",
         "id":"2067",
-        "mnemonic":""
+        "mnemonic":"See the mechanism that pushes lead through the small hole in a lead Mechanical pencil."
     },
     "銑":{
         "page":"549",
         "meaning":"PIG IRON",
         "id":"2068",
-        "mnemonic":""
+        "mnemonic":"Iron metal that is not done (before finished into another object)."
     },
     "鋼":{
         "page":"550",
         "meaning":"STEEL",
         "id":"2069",
-        "mnemonic":""
+        "mnemonic":"Steel: Metal hard enough to hold up hills."
     },
     "剛":{
         "page":"550",
         "meaning":"TOUGH",
         "id":"2070",
-        "mnemonic":""
+        "mnemonic":"Sword tough enough to cut through hills."
     },
     "綱":{
         "page":"550",
         "meaning":"ROPE, MAIN POINTS",
         "id":"2071",
-        "mnemonic":""
+        "mnemonic":"A rope that strings along guiding principles/markers on the hill."
     },
     "網":{
         "page":"550",
         "meaning":"NET",
         "id":"2072",
-        "mnemonic":""
+        "mnemonic":"The thread enclosure nets the insects within until they die. Think mosqito nets."
     },
     "縄":{
         "page":"551",
         "meaning":"ROPE",
         "id":"2073",
-        "mnemonic":""
+        "mnemonic":"Thread rope carrying the bundles from the rice fields."
     },
     "鉢":{
         "page":"551",
         "meaning":"BOWL",
         "id":"2074",
-        "mnemonic":""
+        "mnemonic":"Metal base/support (本) in the form of a bowl."
     },
     "鎖":{
         "page":"551",
         "meaning":"CHAIN",
         "id":"2075",
-        "mnemonic":""
+        "mnemonic":"Metal chain linking at the top to the important money/currency of sea shells."
     },
     "絆":{
         "page":"551",
         "meaning":"BONDS",
         "id":"2076",
-        "mnemonic":""
+        "mnemonic":"Thread bonds, sealed in the middle once someone slides their fingers down."
     },
     "鍵":{
         "page":"552",
         "meaning":"KEY",
         "id":"2077",
-        "mnemonic":""
+        "mnemonic":"Metal for opening buildings."
     },
     "釘":{
         "page":"552",
         "meaning":"NAIL",
         "id":"2078",
-        "mnemonic":""
+        "mnemonic":"Visual metal nail."
     },
     "錮":{
         "page":"552",
         "meaning":"LOCK DOWN",
         "id":"2079",
-        "mnemonic":""
+        "mnemonic":"Hard metal locking something down."
     },
     "錠":{
         "page":"552",
         "meaning":"LOCK, PILL",
         "id":"2080",
-        "mnemonic":""
+        "mnemonic":"Metal that sets things in place (a lock). Some locks are pill shaped."
     },
     "綻":{
         "page":"553",
         "meaning":"COME APART AT THE SEAMS",
         "id":"2081",
-        "mnemonic":""
+        "mnemonic":"Thread getting caught in something fixed in place and tearing at the seems."
     },
     "鈴":{
         "page":"553",
         "meaning":"BELL",
         "id":"2082",
-        "mnemonic":""
+        "mnemonic":"Metal messenger bell rung when your order comes in."
     },
     "鐘":{
         "page":"553",
         "meaning":"BELL",
         "id":"2083",
-        "mnemonic":""
+        "mnemonic":"Only large bells, not small chimey bells. So large it stands above reason."
     },
     "瞳":{
         "page":"553",
         "meaning":"PUPIL",
         "id":"2084",
-        "mnemonic":""
+        "mnemonic":"The smallest part of the child's body is the pupil of the eye."
     },
     "憧":{
         "page":"554",
         "meaning":"YEARN AFTER",
         "id":"2085",
-        "mnemonic":""
+        "mnemonic":"Child yearning after something with all of his heart."
     },
     "憬":{
         "page":"554",
         "meaning":"YEARN AFTER",
         "id":"2086",
-        "mnemonic":""
+        "mnemonic":"A beautiful scene/background makes you yearn to see it again years after in your heart."
     },
     "卑":{
         "page":"554",
         "meaning":"MEAN",
         "id":"2087",
-        "mnemonic":""
+        "mnemonic":"It's quite awful/mean to pile a bunch of boxes on a weakly supported one leg table."
     },
     "碑":{
         "page":"554",
         "meaning":"MONUMENT",
         "id":"2088",
-        "mnemonic":""
+        "mnemonic":"A bunch of stones piled up on a weakly supported one legged table as a monument."
     },
     "痺":{
         "page":"555",
         "meaning":"PARALYSIS",
         "id":"2089",
-        "mnemonic":""
+        "mnemonic":"An illness where you feel like you're burdened and weakly supported. PARALYSIS."
     },
     "鬼":{
         "page":"555",
         "meaning":"DEMON",
         "id":"2090",
-        "mnemonic":""
+        "mnemonic":"See a horned squiddy demon with 3 legs."
     },
     "塊":{
         "page":"555",
         "meaning":"LUMP",
         "id":"2091",
-        "mnemonic":""
+        "mnemonic":"Lumpy, demonic soil that is hard to farm with."
     },
     "醜":{
         "page":"555",
         "meaning":"UGLY",
         "id":"2092",
-        "mnemonic":""
+        "mnemonic":"A drunk demon is an ugly sight."
     },
     "魂":{
         "page":"556",
         "meaning":"SOUL",
         "id":"2093",
-        "mnemonic":""
+        "mnemonic":"A spirit/demon in it's cloudy, ephemeral form."
     },
     "魅":{
         "page":"556",
         "meaning":"CHARM",
         "id":"2094",
-        "mnemonic":""
+        "mnemonic":"A demon waiting, not yet using it's charm on you."
     },
     "魔":{
         "page":"556",
         "meaning":"DEMON",
         "id":"2095",
-        "mnemonic":""
+        "mnemonic":"Magic casted by the demon with the hemp drugs."
     },
     "畏":{
         "page":"556",
         "meaning":"FEAR",
         "id":"2096",
-        "mnemonic":""
+        "mnemonic":"The man is dressed, but his head is detached, instilling fear."
     },
     "刷":{
         "page":"557",
         "meaning":"PRINT",
         "id":"2097",
-        "mnemonic":""
+        "mnemonic":"Slicing cloth as stencils to place on the door before painting/printing."
     },
     "擦":{
         "page":"557",
         "meaning":"RUB",
         "id":"2098",
-        "mnemonic":""
+        "mnemonic":"Inspect with your hands by rubbing your hand on it."
     },
     "摩":{
         "page":"557",
         "meaning":"RUB AGAINST",
         "id":"2099",
-        "mnemonic":""
+        "mnemonic":"Rubbing your hand against abrasive hemp."
     },
     "磨":{
         "page":"557",
         "meaning":"POLISH",
         "id":"2100",
-        "mnemonic":""
+        "mnemonic":"Polishing a stone by rubbing it against a hemp."
     },
     "凹":{
         "page":"558",
