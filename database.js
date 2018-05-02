@@ -11137,7 +11137,7 @@ var database = {
         "page":"545",
         "meaning":"HUSK",
         "id":"2052",
-        "mnemonic"::"Military man needs spear to penetrate the husk covering the table."
+        "mnemonic":"Military man needs spear to penetrate the husk covering the table."
     },
     "穀":{
         "page":"546",
@@ -11431,121 +11431,121 @@ var database = {
         "page":"558",
         "meaning":"CONCAVE",
         "id":"2101",
-        "mnemonic":""
+        "mnemonic":"Visual concave"
     },
     "凸":{
         "page":"558",
         "meaning":"CONVEX",
         "id":"2102",
-        "mnemonic":""
+        "mnemonic":"Visual Convex"
     },
     "奉":{
         "page":"558",
         "meaning":"DEDICATE",
         "id":"2103",
-        "mnemonic":""
+        "mnemonic":"See a shrine and an incense stick in the center of the box (two lines)."
     },
     "奏":{
         "page":"558",
         "meaning":"PLAY MUSIC",
         "id":"2104",
-        "mnemonic":""
+        "mnemonic":"Playing music at the shrine so those in the sky hears your prayers."
     },
     "泰":{
         "page":"559",
         "meaning":"TRANQUIL",
         "id":"2105",
-        "mnemonic":""
+        "mnemonic":"A little water pond at the shrine."
     },
     "俸":{
         "page":"559",
         "meaning":"SALARY",
         "id":"2106",
-        "mnemonic":""
+        "mnemonic":"Offerings to another man is his salary."
     },
     "棒":{
         "page":"559",
         "meaning":"ROD",
         "id":"2107",
-        "mnemonic":""
+        "mnemonic":"Trees offer rods (sticks)."
     },
     "捧":{
         "page":"559",
         "meaning":"DEDICATE",
         "id":"2108",
-        "mnemonic":""
+        "mnemonic":"Offer with your hands to dedicate something to someone."
     },
     "耐":{
         "page":"560",
         "meaning":"WITHSTAND",
         "id":"2109",
-        "mnemonic":""
+        "mnemonic":"Something with roots firmly in place, with an arm trying to drag it out."
     },
     "霊":{
         "page":"560",
         "meaning":"SPIRIT",
         "id":"2110",
-        "mnemonic":""
+        "mnemonic":"Let rain suggest the sky/heaven. The spirits are lined up to enter heaven."
     },
     "需":{
         "page":"560",
         "meaning":"DEMAND",
         "id":"2111",
-        "mnemonic":""
+        "mnemonic":"Roots demand rain."
     },
     "濡":{
         "page":"560",
         "meaning":"WET",
         "id":"2112",
-        "mnemonic":""
+        "mnemonic":"The water satiates the root's demand (需) for rain."
     },
     "儒":{
         "page":"561",
         "meaning":"CONFUCIANISM",
         "id":"2113",
-        "mnemonic":""
+        "mnemonic":"CONFUCIANISM answers the questions man demands, rather than any spiritual demands."
     },
     "端":{
         "page":"561",
         "meaning":"EDGE",
         "id":"2114",
-        "mnemonic":""
+        "mnemonic":"If you stand on the edge of a mountain, be ready to grab some outhanging roots in case you fall."
     },
     "壱":{
         "page":"561",
         "meaning":"ONE",
         "id":"2115",
-        "mnemonic":""
+        "mnemonic":"Man keeps his one spoon well covered."
     },
     "尼":{
         "page":"561",
         "meaning":"BUDDHIST NUN",
         "id":"2116",
-        "mnemonic":""
+        "mnemonic":"Buddhist nun trying to dig her way under the door with a spoon."
     },
     "泥":{
         "page":"562",
         "meaning":"MUD",
         "id":"2117",
-        "mnemonic":""
+        "mnemonic":"If the buddhist nun digging her way out under the door adds water, it'll make mud with the dirt."
     },
     "漏":{
         "page":"562",
         "meaning":"LEAK",
         "id":"2118",
-        "mnemonic":""
+        "mnemonic":"Rain water leaking from under the door."
     },
     "氾":{
         "page":"562",
         "meaning":"FLOOD",
         "id":"2119",
-        "mnemonic":""
+        "mnemonic":"Water flooding hard enough to break bodies."
     },
     "彙":{
         "page":"562",
         "meaning":"CATALOG",
         "id":"2120",
-        "mnemonic":""
+        "mnemonic":"Some object on top of the fruit to try to measure and catalog the different types."
     },
     "某":{
         "page":"563",
