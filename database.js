@@ -11551,217 +11551,217 @@ var database = {
         "page":"563",
         "meaning":"A CERTAIN",
         "id":"2121",
-        "mnemonic":""
+        "mnemonic":"A certain tree with sweet nectar."
     },
     "謀":{
         "page":"563",
         "meaning":"SCHEME",
         "id":"2122",
-        "mnemonic":""
+        "mnemonic":"Speaking secretively about a certain tree with sweet nectar."
     },
     "媒":{
         "page":"563",
         "meaning":"MEDIATE",
         "id":"2123",
-        "mnemonic":""
+        "mnemonic":"Worker bees mediating between the certain tree with sweet nectar and their queen."
     },
     "尉":{
         "page":"563",
         "meaning":"OFFICER",
         "id":"2124",
-        "mnemonic":""
+        "mnemonic":"Officer with arm out protecting the doorway to the altar."
     },
     "慰":{
         "page":"564",
         "meaning":"CONSOLE",
         "id":"2125",
-        "mnemonic":""
+        "mnemonic":"The commanding officer tries to console the hearts of the families of those who have fallen in battle."
     },
     "酪":{
         "page":"564",
         "meaning":"DAIRY PRODUCTS",
         "id":"2126",
-        "mnemonic":""
+        "mnemonic":"Everything made from fermenting (left) milk."
     },
     "酵":{
         "page":"564",
         "meaning":"FERMENT",
         "id":"2127",
-        "mnemonic":""
+        "mnemonic":"A filial pious child fermenting alcohol for their parents."
     },
     "醤":{
         "page":"564",
         "meaning":"SOY SAUCE",
         "id":"2128",
-        "mnemonic":""
+        "mnemonic":"Quality fermented soy sauce meant for general officers."
     },
     "酢":{
         "page":"565",
         "meaning":"VINEGAR",
         "id":"2129",
-        "mnemonic":""
+        "mnemonic":"Liquor that cuts like a saw: acidic vinegar."
     },
     "酎":{
         "page":"565",
         "meaning":"SHOCHU (japanese distilled liquor)",
         "id":"2130",
-        "mnemonic":""
+        "mnemonic":"Reach for a bottle of shochu."
     },
     "酌":{
         "page":"565",
         "meaning":"POUR WINE",
         "id":"2131",
-        "mnemonic":""
+        "mnemonic":"Elephant's trunk holding the liquor bottle and pouring wine."
     },
     "釣":{
         "page":"565",
         "meaning":"ANGLE",
         "id":"2132",
-        "mnemonic":""
+        "mnemonic":"Metal fishing hook."
     },
     "畜":{
         "page":"566",
         "meaning":"(RAISE) LIVESTOCK",
         "id":"2133",
-        "mnemonic":""
+        "mnemonic":"You see livestock you've raised when you enter your rice fields."
     },
     "蓄":{
         "page":"566",
         "meaning":"STORE UP",
         "id":"2134",
-        "mnemonic":""
+        "mnemonic":"Storing up bales of hair at the entrance of the fields."
     },
     "玄":{
         "page":"566",
         "meaning":"PROFOUND",
         "id":"2135",
-        "mnemonic":""
+        "mnemonic":"The step up to the entrance to the house."
     },
     "眩":{
         "page":"566",
         "meaning":"DAZZLING",
         "id":"2136",
-        "mnemonic":""
+        "mnemonic":"When you first open your eyes at the entrance to life (being born), you feel everything's dazzling."
     },
     "呟":{
         "page":"567",
         "meaning":"MUTTER",
         "id":"2137",
-        "mnemonic":""
+        "mnemonic":"Through the entrance to the house, you hear someone muttering something through the door."
     },
     "囁":{
         "page":"567",
         "meaning":"WHISPER",
         "id":"2138",
-        "mnemonic":""
+        "mnemonic":"A bunch of ears leaning close to the mouth to hear a whisper."
     },
     "喋":{
         "page":"567",
         "meaning":"SPEAK",
         "id":"2139",
-        "mnemonic":""
+        "mnemonic":"Words on the leaf flowing from the mouth as you speak."
     },
     "喩":{
         "page":"567",
         "meaning":"LIKEN",
         "id":"2140",
-        "mnemonic":""
+        "mnemonic":"Saying something is the best thing to sliced meat is likening it to it."
     },
     "鬱":{
         "page":"568",
         "meaning":"DEPRESSION, CONGESTED",
         "id":"2141",
-        "mnemonic":""
+        "mnemonic":"Canned up emotions and misfortunes, with three self-disciplining strikes due to depression."
     },
     "弦":{
         "page":"568",
         "meaning":"STRING",
         "id":"2142",
-        "mnemonic":""
+        "mnemonic":"The front of the bow to you is the bow string."
     },
     "舷":{
         "page":"568",
         "meaning":"GUNWALE",
         "id":"2143",
-        "mnemonic":""
+        "mnemonic":"The fronts of the boat."
     },
     "舵":{
         "page":"568",
         "meaning":"RUDDER",
         "id":"2144",
-        "mnemonic":""
+        "mnemonic":"Person standing under/behind the steering wheel on the boat."
     },
     "幻":{
         "page":"569",
         "meaning":"PHANTOM",
         "id":"2145",
-        "mnemonic":""
+        "mnemonic":"Child (left) with a blank slate in front of him imagining whatever phantom apparitions comes to mind."
     },
     "幽":{
         "page":"569",
         "meaning":"QUIET AND SECLUDED",
         "id":"2146",
-        "mnemonic":""
+        "mnemonic":"Two children hidden deep in the SECLUDED mountaings."
     },
     "幼":{
         "page":"569",
         "meaning":"VERY YOUNG",
         "id":"2147",
-        "mnemonic":""
+        "mnemonic":"A child so young you still have power over it."
     },
     "稚":{
         "page":"569",
         "meaning":"CHILD",
         "id":"2148",
-        "mnemonic":""
+        "mnemonic":"A small child bird being fed rice/grains."
     },
     "維":{
         "page":"570",
         "meaning":"FIBER",
         "id":"2149",
-        "mnemonic":""
+        "mnemonic":"Bird gathering threads/fibers to make its nest."
     },
     "推":{
         "page":"570",
         "meaning":"INFER, PUSH FORWARD",
         "id":"2150",
-        "mnemonic":""
+        "mnemonic":"Hand pushing the small bird forwards."
     },
     "堆":{
         "page":"570",
         "meaning":"PILE UP",
         "id":"2151",
-        "mnemonic":""
+        "mnemonic":"The bird has to pile up dirt as it digs for the worm."
     },
     "椎":{
         "page":"570",
         "meaning":"SPINE, CHINQUAPIN",
         "id":"2152",
-        "mnemonic":""
+        "mnemonic":"Bird pecking at the core/backbone of your body(tree), the spine."
     },
     "脊":{
         "page":"571",
         "meaning":"SPINE",
         "id":"2153",
-        "mnemonic":""
+        "mnemonic":"Visual spine of a person and the meat that surrounds it."
     },
     "雛":{
         "page":"571",
         "meaning":"CHICK",
         "id":"2154",
-        "mnemonic":""
+        "mnemonic":"Bird with two offlings chicks that aren't fully fledged."
     },
     "誰":{
         "page":"571",
         "meaning":"WHO",
         "id":"2155",
-        "mnemonic":""
+        "mnemonic":"An owl using words to ask 'who'"
     },
     "唯":{
         "page":"571",
         "meaning":"MERELY",
         "id":"2156",
-        "mnemonic":""
+        "mnemonic":"The small bird's small mouth is merely a result of it's small body."
     },
     "鳴":{
         "page":"572",
