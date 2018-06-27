@@ -11767,864 +11767,864 @@ var database = {
         "page":"572",
         "meaning":"CRY, SOUND",
         "id":"2157",
-        "mnemonic":""
+        "mnemonic":"Bird crying/chirping."
     },
     "亥":{
         "page":"572",
         "meaning":"THE BOAR",
         "id":"2158",
-        "mnemonic":""
+        "mnemonic":"Sideways boar with its head chopped off and a bit of the neckbone sticking out, body chopped in half."
     },
     "刻":{
         "page":"572",
         "meaning":"ENGRAVE, POINT IN TIME",
         "id":"2159",
-        "mnemonic":""
+        "mnemonic":"It's reach the point in time where you have to engrave the pig as your own, and then carve into it."
     },
     "劾":{
         "page":"572",
         "meaning":"EXPOSE CRIMES",
         "id":"2160",
-        "mnemonic":""
+        "mnemonic":"The pig (as in the police) have the power to expose crimes."
     },
     "核":{
         "page":"573",
         "meaning":"NUCLEUS",
         "id":"2161",
-        "mnemonic":""
+        "mnemonic":"The backbone (tree) of the pig is the nucleus/center of the pig's body."
     },
     "骸":{
         "page":"573",
         "meaning":"BODY",
         "id":"2162",
-        "mnemonic":""
+        "mnemonic":"The bones/corpse of the boar's cut up body."
     },
     "咳":{
         "page":"573",
         "meaning":"COUGH",
         "id":"2163",
-        "mnemonic":""
+        "mnemonic":"The pig coughs as it's being cut up."
     },
     "該":{
         "page":"573",
         "meaning":"CORRESPOND TO",
         "id":"2164",
-        "mnemonic":""
+        "mnemonic":"A label shows which parts of the boar's body corresponds to what."
     },
     "診":{
         "page":"574",
         "meaning":"EXAMINE A PATIENT",
         "id":"2165",
-        "mnemonic":""
+        "mnemonic":"The doctor strikes your bone as a reflex test and then tells you the diagnosis"
     },
     "珍":{
         "page":"574",
         "meaning":"RARE",
         "id":"2166",
-        "mnemonic":""
+        "mnemonic":"The king checks/examines his crown for rare jewels/gems."
     },
     "瓦":{
         "page":"574",
         "meaning":"TILE",
         "id":"2167",
-        "mnemonic":""
+        "mnemonic":"Visualize a centered tile."
     },
     "併":{
         "page":"574",
         "meaning":"PUT TOGETHER",
         "id":"2168",
-        "mnemonic":""
+        "mnemonic":"A person using his hands to put together the torii gate."
     },
     "瓶":{
         "page":"575",
         "meaning":"BOTTLE",
         "id":"2169",
-        "mnemonic":""
+        "mnemonic":"Put together (left) tiled tiled jars/bottles."
     },
     "屏":{
         "page":"575",
         "meaning":"FENCE",
         "id":"2170",
-        "mnemonic":""
+        "mnemonic":"The door put together has a bunch of holes, so we'll call it a fence instead."
     },
     "塀":{
         "page":"575",
         "meaning":"FENCE",
         "id":"2171",
-        "mnemonic":""
+        "mnemonic":"Earthen fence/wall."
     },
     "餅":{
         "page":"575",
         "meaning":"RICE CAKE",
         "id":"2172",
-        "mnemonic":""
+        "mnemonic":"Mush together rice to get the rice flour to make rice cakes/mochi."
     },
     "餌":{
         "page":"576",
         "meaning":"FEED, BAIT",
         "id":"2173",
-        "mnemonic":""
+        "mnemonic":"An ear of corn used a bait/feed."
     },
     "呑":{
         "page":"576",
         "meaning":"SWALLOW",
         "id":"2174",
-        "mnemonic":""
+        "mnemonic":"If an arrow is shot into your mouth, you have no choice but to swallow."
     },
     "沃":{
         "page":"576",
         "meaning":"FERTILITY",
         "id":"2175",
-        "mnemonic":""
+        "mnemonic":"The land swallows water and nutrients to grow big (right and strong"
     },
     "妖":{
         "page":"576",
         "meaning":"BEWITCHING",
         "id":"2176",
-        "mnemonic":""
+        "mnemonic":"A woman's charm swallow's up a man (呑)"
     },
     "呪":{
         "page":"577",
-        "meaning":"CHARM",
+        "meaning":"CURSE, CHARM",
         "id":"2177",
-        "mnemonic":""
+        "mnemonic":"The eldest son curses being born first and having to inherit the family business."
     },
     "艶":{
         "page":"577",
         "meaning":"CHARMING, ROMANCE",
         "id":"2178",
-        "mnemonic":""
+        "mnemonic":"Abundant (left) colors (right) for the flowery charming romance."
     },
     "慈":{
         "page":"577",
         "meaning":"AFFECTIONATE",
         "id":"2179",
-        "mnemonic":""
+        "mnemonic":"Cover the two children and hold them close to your heart."
     },
     "滋":{
         "page":"577",
         "meaning":"NOURISH",
         "id":"2180",
-        "mnemonic":""
+        "mnemonic":"Liquid nourishes the two children."
     },
     "磁":{
         "page":"578",
         "meaning":"MAGNETISM",
         "id":"2181",
-        "mnemonic":""
+        "mnemonic":"Magnetic rock holds two objects together."
     },
     "擁":{
         "page":"578",
         "meaning":"EMBRACE",
         "id":"2182",
-        "mnemonic":""
+        "mnemonic":"Hand and lid protects the child of the small bird through embrace."
     },
     "腐":{
         "page":"578",
         "meaning":"ROT",
         "id":"2183",
-        "mnemonic":""
+        "mnemonic":"Rotten meat is thrown into the outskirts of the village near the cliff so the scent does not affect the town."
     },
     "芯":{
         "page":"578",
         "meaning":"CORE",
         "id":"2184",
-        "mnemonic":""
+        "mnemonic":"Heart/core of a plant."
     },
     "蒔":{
         "page":"579",
         "meaning":"SOW",
         "id":"2185",
-        "mnemonic":""
+        "mnemonic":"Time to sow plants."
     },
     "撒":{
         "page":"579",
         "meaning":"SCATTER",
         "id":"2186",
-        "mnemonic":""
+        "mnemonic":"Scatter with your hands."
     },
     "撤":{
         "page":"579",
         "meaning":"WITHDRAW",
         "id":"2187",
-        "mnemonic":""
+        "mnemonic":"A hand with a whip will cause the child being raised to withdraw."
     },
     "徹":{
         "page":"579",
         "meaning":"GO THROUGH",
         "id":"2188",
-        "mnemonic":""
+        "mnemonic":"Throughly raising a child may also sometimes require a whip to go through."
     },
     "微":{
         "page":"580",
         "meaning":"SLIGHT",
         "id":"2189",
-        "mnemonic":""
+        "mnemonic":"Ignore all but the π, which is a number with slight nuanced changes in each digit."
     },
     "徴":{
         "page":"580",
         "meaning":"LEVY, SIGN",
         "id":"2190",
-        "mnemonic":""
+        "mnemonic":"The king of the mountain goes around with his whip to collect his taxes."
     },
     "懲":{
         "page":"580",
         "meaning":"CHASTISE",
         "id":"2191",
-        "mnemonic":""
+        "mnemonic":"The king on the mountain chastises someone for not paying their taxes, but it hurts his heart to do so."
     },
     "殆":{
         "page":"580",
         "meaning":"ALMOST",
         "id":"2192",
-        "mnemonic":""
+        "mnemonic":"The almost-dead on a platform, waiting to die."
     },
     "后":{
         "page":"581",
         "meaning":"EMPRESS",
         "id":"2193",
-        "mnemonic":""
+        "mnemonic":"The mouthpiece of a nation is the empress."
     },
     "垢":{
         "page":"581",
         "meaning":"DIRT",
         "id":"2194",
-        "mnemonic":""
+        "mnemonic":"Dirt on the empress's gown."
     },
     "妃":{
         "page":"581",
         "meaning":"PRINCESS",
         "id":"2195",
-        "mnemonic":""
+        "mnemonic":"Married women have to bow before the family they marry into."
     },
     "姫":{
         "page":"581",
         "meaning":"DAUGHTER OF NOBLE BIRTH",
         "id":"2196",
-        "mnemonic":""
+        "mnemonic":"The lady with the retainer is a daughter of noble birth."
     },
     "如":{
         "page":"582",
         "meaning":"AS",
         "id":"2197",
-        "mnemonic":""
+        "mnemonic":"Woman do as they are told."
     },
     "茹":{
         "page":"582",
         "meaning":"BOIL",
         "id":"2198",
-        "mnemonic":""
+        "mnemonic":"The woman eats the plants after it is boiled."
     },
     "婿":{
         "page":"582",
         "meaning":"SON-IN-LAW",
         "id":"2199",
-        "mnemonic":""
+        "mnemonic":"Son in law with a piece of butchered meat as dowry to marry a family's daughter."
     },
     "娘":{
         "page":"582",
         "meaning":"DAUGHTER, GIRL",
         "id":"2200",
-        "mnemonic":""
+        "mnemonic":"A good girl; your daughter."
     },
     "嫁":{
         "page":"583",
         "meaning":"WED A MAN, BRIDE",
         "id":"2201",
-        "mnemonic":""
+        "mnemonic":"A woman going into another household, wedding into it."
     },
     "稼":{
         "page":"583",
         "meaning":"WORK",
         "id":"2202",
-        "mnemonic":""
+        "mnemonic":"Bringing home the rice through work."
     },
     "塚":{
         "page":"583",
         "meaning":"MOUND",
         "id":"2203",
-        "mnemonic":""
+        "mnemonic":"Pig covering itself with dirt to become a mound."
     },
     "豪":{
         "page":"583",
         "meaning":"GREAT MAN, MAGNIFICENT",
         "id":"2204",
-        "mnemonic":""
+        "mnemonic":"A well fed piggy man that stands tall for his achievements."
     },
     "蒙":{
         "page":"584",
         "meaning":"IGNORANCE, PHONETIC [MÔ]",
         "id":"2205",
-        "mnemonic":""
+        "mnemonic":"A pig still in the darkness of ignorance, with a sod roof in the Mongolian  Steppes."
     },
     "墾":{
         "page":"584",
         "meaning":"CLEAR LAND FOR FARMING",
         "id":"2206",
-        "mnemonic":""
+        "mnemonic":"The pigs/live stock must stop (top right) when they hit the edge of the land where they can graze, the land that has been cleared for farming."
     },
     "懇":{
         "page":"584",
         "meaning":"FAMILIAR, EARNEST",
         "id":"2207",
-        "mnemonic":""
+        "mnemonic":"The farmer treats the pigs well and they grow fond of each other."
     },
     "貌":{
         "page":"584",
         "meaning":"APPEARANCE",
         "id":"2208",
-        "mnemonic":""
+        "mnemonic":"A white creature with two legs is the only description you have of the APPEARANCE of the beast."
     },
     "逐":{
         "page":"585",
         "meaning":"DRIVE OUT, ONE BY ONE",
         "id":"2209",
-        "mnemonic":""
+        "mnemonic":"Pigs being driven out of town one by one for sale."
     },
     "遂":{
         "page":"585",
         "meaning":"ACCOMPLISH",
         "id":"2210",
-        "mnemonic":""
+        "mnemonic":"The butchering of the pig has already been accomplished before driving it out of town for sale."
     },
     "墜":{
         "page":"585",
         "meaning":"DROP DOWN",
         "id":"2211",
-        "mnemonic":""
+        "mnemonic":"The pigs are too heavy and drop down from the hills, rolling down the land."
     },
     "堕":{
         "page":"585",
         "meaning":"DEGENERATE",
         "id":"2212",
-        "mnemonic":""
+        "mnemonic":"Everything you have will degenerate into the hills and the earth."
     },
     "随":{
         "page":"586",
         "meaning":"FOLLOW",
         "id":"2213",
-        "mnemonic":""
+        "mnemonic":"A truck pulls a load which follows behind up the hill."
     },
     "附":{
         "page":"586",
         "meaning":"ATTACH",
         "id":"2214",
-        "mnemonic":""
+        "mnemonic":"Same as 付くin modern day."
     },
     "髄":{
         "page":"586",
         "meaning":"MARROW",
         "id":"2215",
-        "mnemonic":""
+        "mnemonic":"The syringe acts as a vehicle to extract marrow from the bone."
     },
     "怠":{
         "page":"586",
         "meaning":"IDLE",
         "id":"2216",
-        "mnemonic":""
+        "mnemonic":"Lay your heart on a platform as you lazy around."
     },
     "惰":{
         "page":"587",
         "meaning":"LAZY",
         "id":"2217",
-        "mnemonic":""
+        "mnemonic":"Resting your meaty head on your left on, easing your mind/heart."
     },
     "佐":{
         "page":"587",
         "meaning":"ASSIST, FIELD OFFICER",
         "id":"2218",
-        "mnemonic":""
+        "mnemonic":"Left hand man assisting you with whatever you need."
     },
     "玩":{
         "page":"587",
         "meaning":"PLAY WITH",
         "id":"2219",
-        "mnemonic":""
+        "mnemonic":"Playing BASE(RIGHT) - BALL(LEFT)"
     },
     "弄":{
         "page":"587",
         "meaning":"PLAY WITH",
         "id":"2220",
-        "mnemonic":""
+        "mnemonic":"Holding the ball with two hands to shoot it into the hoop."
     },
     "嘲":{
         "page":"588",
         "meaning":"RIDICULE",
         "id":"2221",
-        "mnemonic":""
+        "mnemonic":"Ridiculing someone for sleeping with their mouth open in the morning."
     },
     "奔":{
         "page":"588",
         "meaning":"RUSH",
         "id":"2222",
-        "mnemonic":""
+        "mnemonic":"The big chasing the small, rushing to get under the barrior."
     },
     "弊":{
         "page":"588",
         "meaning":"EVIL PRACTICE",
         "id":"2223",
-        "mnemonic":""
+        "mnemonic":"Striking the covered rice bale with two hands as an evil spell."
     },
     "幣":{
         "page":"588",
         "meaning":"CURRENCY, SHINTO PAPER OFFERING",
         "id":"2224",
-        "mnemonic":""
+        "mnemonic":"Rice, linen, and power are three different types of currency."
     },
     "蔽":{
         "page":"589",
         "meaning":"COVER",
         "id":"2225",
-        "mnemonic":""
+        "mnemonic":"Grass and rice struck hard to become a sod cover."
     },
     "朋":{
         "page":"589",
         "meaning":"COMRADE",
         "id":"2226",
-        "mnemonic":""
+        "mnemonic":"Two friends/comrades."
     },
     "棚":{
         "page":"589",
         "meaning":"SHELF",
         "id":"2227",
-        "mnemonic":""
+        "mnemonic":"Two comrades working on a wooden shelf. 2 visual shelves."
     },
     "柵":{
         "page":"589",
         "meaning":"FENCE",
         "id":"2228",
-        "mnemonic":""
+        "mnemonic":"Visual wooden fence."
     },
     "桁":{
         "page":"590",
         "meaning":"DIGIT, BEAM",
         "id":"2229",
-        "mnemonic":""
+        "mnemonic":"Wooden poles which the digits of the abacus goes around."
     },
     "栓":{
         "page":"590",
         "meaning":"STOPPER",
         "id":"2230",
-        "mnemonic":""
+        "mnemonic":"Visual wooden cork stopper (upside down)."
     },
     "詮":{
         "page":"590",
         "meaning":"INQUIRY",
         "id":"2231",
-        "mnemonic":""
+        "mnemonic":"A whole inquiry goes through the words throughly."
     },
     "塞":{
         "page":"590",
         "meaning":"PLUG UP",
         "id":"2232",
-        "mnemonic":""
+        "mnemonic":"The structure set up in the center is plugged up by a lid up top and a stopper in the bottom."
     },
     "梗":{
         "page":"591",
         "meaning":"BLOCK",
         "id":"2233",
-        "mnemonic":""
+        "mnemonic":"A wooden block that stops the mail delivery."
     },
     "柿":{
         "page":"591",
         "meaning":"PERSIMMON",
         "id":"2234",
-        "mnemonic":""
+        "mnemonic":"Tree with persimmon fruits to be taken to the market."
     },
     "藤":{
         "page":"591",
         "meaning":"WISTERIA",
         "id":"2235",
-        "mnemonic":""
+        "mnemonic":"A plant with ladder like structure and a bunch of petals branching out, the Wisteria flower."
     },
     "騰":{
         "page":"591",
         "meaning":"RISE",
         "id":"2236",
-        "mnemonic":""
+        "mnemonic":"Putting burning tally sticks on the horse's butt will cause it to jump as high as the moon."
     },
     "謄":{
         "page":"592",
         "meaning":"TRANSCRIBE",
         "id":"2237",
-        "mnemonic":""
+        "mnemonic":"Transcribing someone's words with tally sticks and putting the record on the shelf 棚."
     },
     "麺":{
         "page":"592",
         "meaning":"NOODLES",
         "id":"2238",
-        "mnemonic":""
+        "mnemonic":"Wheat that you bring up to your face (wheat made into noodles)."
     },
     "拉":{
         "page":"592",
         "meaning":"KIDNAP",
         "id":"2239",
-        "mnemonic":""
+        "mnemonic":"A hand pullings a kid to stand and taken away."
     },
     "晃":{
         "page":"592",
         "meaning":"DAZZLING",
         "id":"2240",
-        "mnemonic":""
+        "mnemonic":"Dazzling light from the sun."
     },
     "幌":{
         "page":"593",
         "meaning":"AWNING",
         "id":"2241",
-        "mnemonic":""
+        "mnemonic":"Cloth hood to block out the dazzling light."
     },
     "厘":{
         "page":"593",
         "meaning":"RIN (0.001 yen)",
         "id":"2242",
-        "mnemonic":""
+        "mnemonic":"A mount of rin piled up by the village because they're only worth something in a mountain. 円銭厘(1 yen, .01, .001)"
     },
     "畝":{
         "page":"593",
         "meaning":"SE (RIDGE)",
         "id":"2243",
-        "mnemonic":""
+        "mnemonic":"The cap is a long (right) ridge along the rice fields."
     },
     "匁":{
         "page":"593",
         "meaning":"MONME (3.75 grams)",
         "id":"2244",
-        "mnemonic":""
+        "mnemonic":"Contraction of 文メ, Kanji made in Japan."
     },
     "匂":{
         "page":"594",
         "meaning":"SMELL",
         "id":"2245",
-        "mnemonic":""
+        "mnemonic":"Elephant wrapping a spoonful of fragrant essence to smell it."
     },
     "勾":{
         "page":"594",
         "meaning":"BENT",
         "id":"2246",
-        "mnemonic":""
+        "mnemonic":"Two bent noses (human, elephant)."
     },
     "挨":{
         "page":"594",
         "meaning":"GREET",
         "id":"2247",
-        "mnemonic":""
+        "mnemonic":"A handshake, an arrow, or just being nosy are all ways to greet someone."
     },
     "拶":{
         "page":"594",
         "meaning":"GREET",
         "id":"2248",
-        "mnemonic":""
+        "mnemonic":"The tides the night brings signals the farewell greetings, waving your hands."
     },
     "曖":{
         "page":"595",
         "meaning":"NOT CLEAR",
         "id":"2249",
-        "mnemonic":""
+        "mnemonic":"PDA (Love during the day) is often frowned upon."
     },
     "昧":{
         "page":"595",
         "meaning":"DARK",
         "id":"2250",
-        "mnemonic":""
+        "mnemonic":"But you can taste each other's love during the dark night to before the sun has come up."
     },
     "瑠":{
         "page":"595",
         "meaning":"LAPIS LAZULI",
         "id":"2251",
-        "mnemonic":""
+        "mnemonic":"Jewel with 'ル' (right on-yomi) in it's name"
     },
     "璃":{
         "page":"595",
         "meaning":"GLASSY SUBSTANCE",
         "id":"2252",
-        "mnemonic":""
+        "mnemonic":"Glassy substance with with 'リ' (right on-yomi) in it's name"
     },
     "嫉":{
         "page":"596",
         "meaning":"ENVY",
         "id":"2253",
-        "mnemonic":""
+        "mnemonic":"An illness that strikes women swiftly like an arrow."
     },
     "妬":{
         "page":"596",
         "meaning":"ENVY",
         "id":"2254",
-        "mnemonic":""
+        "mnemonic":"A woman might feel envy looking at another's jewel/stones."
     },
     "鹿":{
         "page":"596",
         "meaning":"DEER",
         "id":"2255",
-        "mnemonic":""
+        "mnemonic":"An animal in a forest shelter with antlers on it's head (or below it.)"
     },
     "塵":{
         "page":"596",
         "meaning":"DUST",
         "id":"2256",
-        "mnemonic":""
+        "mnemonic":"The deer kicks up dust as it stomps arounds."
     },
     "麓":{
         "page":"597",
         "meaning":"FOOT OF A MOUNTAIN",
         "id":"2257",
-        "mnemonic":""
+        "mnemonic":"The forest that lines the mountain shelter of the deer."
     },
     "麗":{
         "page":"597",
         "meaning":"OF GRACEFUL BEAUTY",
         "id":"2258",
-        "mnemonic":""
+        "mnemonic":"Wide open eyes admiring the beauty of the deer's antlers."
     },
     "薦":{
         "page":"597",
         "meaning":"RECOMMEND",
         "id":"2259",
-        "mnemonic":""
+        "mnemonic":"Deer eating half a bird and recommending it to a friend, with some garnish on top."
     },
     "慶":{
         "page":"597",
         "meaning":"FELICITATION",
         "id":"2260",
-        "mnemonic":""
+        "mnemonic":"A deer giving birth from it's love and celebrating."
     },
     "兜":{
         "page":"598",
         "meaning":"HELMET",
         "id":"2261",
-        "mnemonic":""
+        "mnemonic":"Helmet surrounding a long-legged soldier's white face."
     },
     "睨":{
         "page":"598",
         "meaning":"GLARE AT",
         "id":"2262",
-        "mnemonic":""
+        "mnemonic":"Orge magi glaring at each other."
     },
     "鼠":{
         "page":"598",
         "meaning":"RAT",
         "id":"2263",
-        "mnemonic":""
+        "mnemonic":"Rat's teeth, furry body, and tail"
     },
     "溺":{
         "page":"598",
         "meaning":"DROWN",
         "id":"2264",
-        "mnemonic":""
+        "mnemonic":"If you're weak in water, you'll drown."
     },
     "潟":{
         "page":"599",
         "meaning":"LAGOON",
         "id":"2265",
-        "mnemonic":""
+        "mnemonic":"A bird of paradise hanging around lagoon's water."
     },
     "濁":{
         "page":"599",
         "meaning":"TURBID",
         "id":"2266",
-        "mnemonic":""
+        "mnemonic":"Elephant pulling a net of worms from turbid waters."
     },
     "渇":{
         "page":"599",
         "meaning":"RUN DRY, THIRST",
         "id":"2267",
-        "mnemonic":""
+        "mnemonic":"The sun dries up the water, while the elephant desparately tries to scoop some in his thirsty mouth."
     },
     "褐":{
         "page":"599",
         "meaning":"BROWN",
         "id":"2268",
-        "mnemonic":""
+        "mnemonic":"The clothes of the elephant got dirty and brown from the frantic scooping (see 2267) of water."
     },
     "葛":{
         "page":"600",
         "meaning":"KUDZU",
         "id":"2269",
-        "mnemonic":""
+        "mnemonic":"Kudzu growing so thick that it entangles the elephant and the man."
     },
     "喝":{
         "page":"600",
         "meaning":"SHOUT AT",
         "id":"2270",
-        "mnemonic":""
+        "mnemonic":"The elephant shouts/roars at the sun."
     },
     "謁":{
         "page":"600",
         "meaning":"BE GRANTED AN AUDIENCE",
         "id":"2271",
-        "mnemonic":""
+        "mnemonic":"Gathering an audience around the elephant with words."
     },
     "掲":{
         "page":"600",
         "meaning":"PUT UP",
         "id":"2272",
-        "mnemonic":""
+        "mnemonic":"Putting the elephant up for display with your hands."
     },
     "戌":{
         "page":"601",
         "meaning":"THE DOG",
         "id":"2273",
-        "mnemonic":""
+        "mnemonic":"One of the zodiac signs, for the dog."
     },
     "尤":{
         "page":"601",
         "meaning":"REASONABLE",
         "id":"2274",
-        "mnemonic":""
+        "mnemonic":"A reasonably balanced Kanji."
     },
     "駄":{
         "page":"601",
         "meaning":"GOOD FOR NOTHING, CLOGS",
         "id":"2275",
-        "mnemonic":""
+        "mnemonic":"A fat horse is good for nothing and clogs up the army movements."
     },
     "駒":{
         "page":"601",
         "meaning":"HORSE, CHESS PIECE",
         "id":"2276",
-        "mnemonic":""
+        "mnemonic":"Controlling the horse pieces on the board with your elephant trunk-link finger."
     },
     "篤":{
         "page":"602",
         "meaning":"SERIOUS, KIND",
         "id":"2277",
-        "mnemonic":""
+        "mnemonic":"A serious/kind horse rewarded with a bamboo laurel."
     },
     "罵":{
         "page":"602",
         "meaning":"SPEAK ILL OF",
         "id":"2278",
-        "mnemonic":""
+        "mnemonic":"Speaking ill of the horse caught in the trap."
     },
     "蔑":{
         "page":"602",
         "meaning":"SCORN",
         "id":"2279",
-        "mnemonic":""
+        "mnemonic":"The dog (2273, bot) gets scorn for getting wrapped up in a plant-based net."
     },
     "罠":{
         "page":"602",
         "meaning":"TRAP",
         "id":"2280",
-        "mnemonic":""
+        "mnemonic":"The net traps the public behind it."
     },
     "烏":{
         "page":"603",
         "meaning":"RAVEN",
         "id":"2281",
-        "mnemonic":""
+        "mnemonic":"Less featured than 鳥, because all you see is the raven's blackness."
     },
     "鴨":{
         "page":"603",
         "meaning":"DUCK",
         "id":"2282",
-        "mnemonic":""
+        "mnemonic":"A bird with a long bill."
     },
     "鳩":{
         "page":"603",
         "meaning":"PIGEON",
         "id":"2283",
-        "mnemonic":""
+        "mnemonic":"Nine birds, specifically pidgeons, gathering around you in the city."
     },
     "鶏":{
         "page":"603",
         "meaning":"CHICKEN",
         "id":"2284",
-        "mnemonic":""
+        "mnemonic":"Husband bringing home a chicken (bird) to eat."
     },
     "渓":{
         "page":"604",
         "meaning":"RAVINE",
         "id":"2285",
-        "mnemonic":""
+        "mnemonic":"The husband fell into a ravine and is clawing his way out of the slippery cliff."
     },
     "鷹":{
         "page":"604",
         "meaning":"HAWK",
         "id":"2286",
-        "mnemonic":""
+        "mnemonic":"A big bird preying on small birds that it sees in it's territory."
     },
     "鷲":{
         "page":"604",
         "meaning":"EAGLE",
         "id":"2287",
-        "mnemonic":""
+        "mnemonic":"Capital bird with nice balanced wings."
     },
     "璽":{
         "page":"604",
         "meaning":"IMPERIAL SEAL",
         "id":"2288",
-        "mnemonic":""
+        "mnemonic":"The king and his stamp."
     },
     "爽":{
         "page":"605",
         "meaning":"REFRESHING",
         "id":"2289",
-        "mnemonic":""
+        "mnemonic":"The person raising their arms and to everyone's surprise has a refreshing scent."
     },
     "綴":{
         "page":"605",
         "meaning":"STITCH TOGETHER, COMPOSE",
         "id":"2290",
-        "mnemonic":""
+        "mnemonic":"Thread visually stitched together."
     },
     "桑":{
         "page":"605",
         "meaning":"MULBERRY",
         "id":"2291",
-        "mnemonic":""
+        "mnemonic":"The hands are silkworms on the leaves of the mulberry tree."
     },
     "蚕":{
         "page":"605",
         "meaning":"SILKWORM",
         "id":"2292",
-        "mnemonic":""
+        "mnemonic":"Bug that creates heavenly cloth."
     },
     "蛋":{
         "page":"606",
         "meaning":"EGG",
         "id":"2293",
-        "mnemonic":""
+        "mnemonic":"If an egg breaks, bugs can eat the inside, but it's so hard the insect's jaws break instead."
     },
     "蟹":{
         "page":"606",
         "meaning":"CRAB",
         "id":"2294",
-        "mnemonic":""
+        "mnemonic":"Instead of bug, think arthropods. Arthropod that you have to take apart to eat."
     },
     "蚊":{
         "page":"606",
         "meaning":"MOSQUITO",
         "id":"2295",
-        "mnemonic":""
+        "mnemonic":"Insect that bugs you while you're writing."
     },
     "巳":{
         "page":"606",
         "meaning":"THE SERPENT",
         "id":"2296",
-        "mnemonic":""
+        "mnemonic":"See a snake's head and jaw open."
     },
     "蛇":{
         "page":"607",
         "meaning":"SNAKE",
         "id":"2297",
-        "mnemonic":""
+        "mnemonic":"A wormy creature that lives in a hole."
     },
     "繭":{
         "page":"607",
         "meaning":"COCOON",
         "id":"2298",
-        "mnemonic":""
+        "mnemonic":"The bug surrounds itself with thread on a plant to spin itself into a cocoon."
     },
     "蝶":{
         "page":"607",
         "meaning":"BUTTERFLY",
         "id":"2299",
-        "mnemonic":""
+        "mnemonic":"Bug that sprouts from the leaf, after leaving the cocoon."
     },
     "虹":{
         "page":"607",
         "meaning":"RAINBOW",
         "id":"2300",
-        "mnemonic":""
+        "mnemonic":"We are like bugs in comparison to the span of the rainbow's long arc."
     }
 };
